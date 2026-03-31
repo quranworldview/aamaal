@@ -20,7 +20,7 @@ const firebaseConfig = {
   apiKey:            'AIzaSyCqxgyulLw6nitLSjn89M1u0A7bxbWlt_U',
   authDomain:        'quranworldview-home.firebaseapp.com',
   projectId:         'quranworldview-home',
-  storageBucket:     'quranworldview-home.appspot.com',
+  storageBucket:     'quranworldview-home.firebasestorage.app',
   messagingSenderId: '349899904697',   // ← replace before deploy
   appId:             '1:349899904697:web:b78d66af8f9af2cb80ad68',      // ← replace before deploy
 };
