@@ -1,0 +1,176 @@
+{
+  "id": "n1-nafs-ghussa",
+  "category": "nafs",
+  "name": {
+    "en": "Controlling Anger",
+    "hi": "ग़ुस्से पर क़ाबू",
+    "ur": "غصے پر قابو"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 3,
+        "ayah": 134,
+        "arabic": "وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ",
+        "translation": {
+          "en": "And those who restrain anger, and pardon people.",
+          "hi": "और जो ग़ुस्से को पी जाते हैं और लोगों को माफ़ करते हैं।",
+          "ur": "اور جو غصے کو پی جاتے ہیں اور لوگوں کو معاف کرتے ہیں۔"
+        }
+      },
+      "task": {
+        "en": "Today, just watch your anger — don't fight it yet. Notice what triggers it. Is it being ignored? Being contradicted? Someone being slow? Just map it. Where does your anger live?",
+        "hi": "आज बस अपने ग़ुस्से को देखो — अभी लड़ो मत। नोटिस करो क्या trigger करता है। नज़रअंदाज़ किया जाना? कोई बात काटना? कोई धीमा होना? बस map करो। तुम्हारा ग़ुस्सा कहाँ रहता है?",
+        "ur": "آج بس اپنے غصے کو دیکھو — ابھی لڑو مت۔ نوٹس کرو کیا trigger کرتا ہے۔ نظرانداز کیا جانا؟ کوئی بات کاٹنا؟ کوئی سست ہونا؟ بس map کرو۔ تمہارا غصہ کہاں رہتا ہے؟"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ was asked for advice. The man asked again and again. Each time the answer was the same: do not get angry. Not because anger is always wrong — but because the one who masters it masters everything else. Anger is the gate. Everything else lives behind it.",
+        "hi": "एक शख़्स ने नबी ﷺ से नसीहत माँगी। बार-बार माँगी। हर बार एक ही जवाब: ग़ुस्सा मत करो। इसलिए नहीं कि ग़ुस्सा हमेशा ग़लत है — बल्कि इसलिए कि जिसने इस पर क़ाबू पाया, उसने सब पर पाया। ग़ुस्सा दरवाज़ा है। बाक़ी सब उसके पीछे है।",
+        "ur": "ایک شخص نے نبی ﷺ سے نصیحت مانگی۔ بار بار مانگی۔ ہر بار ایک ہی جواب: غصہ مت کرو۔ اس لیے نہیں کہ غصہ ہمیشہ غلط ہے — بلکہ اس لیے کہ جس نے اس پر قابو پایا، اس نے سب پر پایا۔ غصہ دروازہ ہے۔ باقی سب اس کے پیچھے ہے۔"
+      },
+      "example": {
+        "en": "Traffic. Someone cuts in front of you. Your whole body reacts — jaw tightens, foot goes to the horn, something rises in your chest. Today: notice that feeling without acting on it. Just: what does my anger feel like, physically, before I do anything?",
+        "hi": "ट्रैफ़िक। कोई आगे घुस जाता है। पूरा जिस्म react करता है — जबड़ा कस जाता है, हाथ हॉर्न पर जाता है, सीने में कुछ उठता है। आज: बिना कुछ किए बस वो फ़ीलिंग नोटिस करो। बस: जिस्मानी तौर पर ग़ुस्सा कैसा लगता है, कुछ करने से पहले?",
+        "ur": "ٹریفک۔ کوئی آگے گھس جاتا ہے۔ پورا جسم react کرتا ہے — جبڑا کس جاتا ہے، ہاتھ ہارن پر جاتا ہے، سینے میں کچھ اٹھتا ہے۔ آج: بغیر کچھ کیے بس وہ feeling نوٹس کرو۔ بس: جسمانی طور پر غصہ کیسا لگتا ہے، کچھ کرنے سے پہلے؟"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 41,
+        "ayah": 34,
+        "arabic": "وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ",
+        "translation": {
+          "en": "And not equal are the good deed and the bad. Repel by that which is better.",
+          "hi": "और नेकी और बुराई बराबर नहीं। बुराई को उससे दूर करो जो बेहतर है।",
+          "ur": "اور نیکی اور برائی برابر نہیں۔ برائی کو اس سے دور کرو جو بہتر ہے۔"
+        }
+      },
+      "task": {
+        "en": "Learn what the Prophet ﷺ actually prescribed for anger — the practical steps. Sitting if standing, lying down if sitting, wudu, silence. Not metaphors — actual physical interventions. Why do these work? Look into the science if you want. But do the reading today.",
+        "hi": "सीखो कि नबी ﷺ ने ग़ुस्से के लिए असल में क्या बताया — practical क़दम। खड़े हो तो बैठ जाओ, बैठे हो तो लेट जाओ, वुज़ू, ख़ामोशी। मेटाफ़र नहीं — असल जिस्मानी तरीक़े। ये काम क्यों करते हैं? चाहो तो science देखो। लेकिन आज पढ़ो।",
+        "ur": "سیکھو کہ نبی ﷺ نے غصے کے لیے اصل میں کیا بتایا — practical قدم۔ کھڑے ہو تو بیٹھ جاؤ، بیٹھے ہو تو لیٹ جاؤ، وضو، خاموشی۔ metaphor نہیں — اصل جسمانی طریقے۔ یہ کام کیوں کرتے ہیں؟ چاہو تو science دیکھو۔ لیکن آج پڑھو۔"
+      },
+      "hikmah": {
+        "en": "Anger is a fire, and the Prophet ﷺ taught us to use water — literal water, wudu — to put it out. Modern neuroscience has now shown that cold water on the face activates the parasympathetic nervous system, slowing the heart rate within seconds. The Prophet ﷺ knew this 1400 years ago. That's not coincidence.",
+        "hi": "ग़ुस्सा आग है, और नबी ﷺ ने हमें पानी — असल पानी, वुज़ू — इस्तेमाल करना सिखाया। आज की science ने साबित किया है कि चेहरे पर ठंडा पानी parasympathetic nervous system को activate करता है और दिल की धड़कन सेकंडों में धीमी हो जाती है। नबी ﷺ ने यह 1400 साल पहले जाना था। यह इत्तेफ़ाक़ नहीं।",
+        "ur": "غصہ آگ ہے، اور نبی ﷺ نے ہمیں پانی — اصل پانی، وضو — استعمال کرنا سکھایا۔ آج کی science نے ثابت کیا ہے کہ چہرے پر ٹھنڈا پانی parasympathetic nervous system کو activate کرتا ہے اور دل کی دھڑکن سیکنڈوں میں سست ہو جاتی ہے۔ نبی ﷺ نے یہ 1400 سال پہلے جانا تھا۔ یہ اتفاق نہیں۔"
+      },
+      "example": {
+        "en": "Read the full story of the man who asked for advice three times. What was the Prophet ﷺ doing — why did he repeat the same answer? Was it impatience on his part? Or was he trying to make the man understand that this one thing, if fixed, fixes everything?",
+        "hi": "उस शख़्स की पूरी कहानी पढ़ो जिसने तीन बार नसीहत माँगी। नबी ﷺ क्या कर रहे थे — एक ही जवाब क्यों दोहराया? क्या वो थक गए थे? या वो समझाना चाहते थे कि यह एक चीज़, अगर ठीक हो जाए, तो सब ठीक हो जाता है?",
+        "ur": "اس شخص کی پوری کہانی پڑھو جس نے تین بار نصیحت مانگی۔ نبی ﷺ کیا کر رہے تھے — ایک ہی جواب کیوں دہرایا؟ کیا وہ تھک گئے تھے؟ یا وہ سمجھانا چاہتے تھے کہ یہ ایک چیز، اگر ٹھیک ہو جائے، تو سب ٹھیک ہو جاتا ہے؟"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 7,
+        "ayah": 199,
+        "arabic": "خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ",
+        "translation": {
+          "en": "Take what is given freely, enjoin what is good, and turn away from the ignorant.",
+          "hi": "माफ़ी अपनाओ, भलाई का हुक्म दो, और जाहिलों से मुँह फेर लो।",
+          "ur": "معافی اپناؤ، بھلائی کا حکم دو، اور جاہلوں سے منہ پھیر لو۔"
+        }
+      },
+      "task": {
+        "en": "Today: the moment you feel anger rising — stop. Sit if you're standing. Make wudu if you can. Say ta'awwudh. Don't speak until you feel the heat drop. Even once. Just once today. Let the action interrupt the reaction.",
+        "hi": "आज: जैसे ही ग़ुस्सा उठता महसूस हो — रुको। खड़े हो तो बैठ जाओ। हो सके तो वुज़ू करो। तअव्वुज़ पढ़ो। जब तक गर्मी कम न हो, मत बोलो। एक बार भी। बस एक बार आज। action को reaction के बीच में आने दो।",
+        "ur": "آج: جیسے ہی غصہ اٹھتا محسوس ہو — رکو۔ کھڑے ہو تو بیٹھ جاؤ۔ ہو سکے تو وضو کرو۔ تعوذ پڑھو۔ جب تک گرمی کم نہ ہو، مت بولو۔ ایک بار بھی۔ بس ایک بار آج۔ action کو reaction کے بیچ میں آنے دو۔"
+      },
+      "hikmah": {
+        "en": "Between stimulus and response there is a space. In that space lies your freedom. Every time you use that space — even for five seconds — you are literally rewiring your brain. The neural pathway of react-first weakens. The pathway of pause-first strengthens. This is tarbiyah at the cellular level.",
+        "hi": "stimulus और response के बीच एक जगह है। उस जगह में तुम्हारी आज़ादी है। हर बार जब तुम उस जगह का इस्तेमाल करते हो — पाँच सेकंड के लिए भी — तुम अपने दिमाग़ को literally rewire कर रहे हो। पहले react करने का neural pathway कमज़ोर होता है। पहले रुकने का मज़बूत। यह तरबियत cellular level पर है।",
+        "ur": "stimulus اور response کے درمیان ایک جگہ ہے۔ اس جگہ میں تمہاری آزادی ہے۔ ہر بار جب تم اس جگہ کا استعمال کرتے ہو — پانچ سیکنڈ کے لیے بھی — تم اپنے دماغ کو literally rewire کر رہے ہو۔ پہلے react کرنے کا neural pathway کمزور ہوتا ہے۔ پہلے رکنے کا مضبوط۔ یہ تربیت cellular level پر ہے۔"
+      },
+      "example": {
+        "en": "Your child spills something. Again. The old you: immediate reaction, voice raised, frustration spills out. Today: the spill happens. You feel the heat. You stop. Sit on the floor with them. Clean it together. Notice how they look at you differently when you do.",
+        "hi": "बच्चा कुछ गिरा देता है। फिर से। पहले वाले तुम: फ़ौरन react, आवाज़ उठती, झुँझलाहट निकलती। आज: गिरता है। गर्मी महसूस होती है। रुको। उनके साथ फ़र्श पर बैठो। साथ मिलकर साफ़ करो। देखो जब तुम ऐसा करते हो तो वो तुम्हें कैसे अलग नज़र से देखते हैं।",
+        "ur": "بچہ کچھ گرا دیتا ہے۔ پھر سے۔ پہلے والے تم: فوری react، آواز اٹھتی، جھنجھلاہٹ نکلتی۔ آج: گرتا ہے۔ گرمی محسوس ہوتی ہے۔ رکو۔ ان کے ساتھ فرش پر بیٹھو۔ ساتھ مل کر صاف کرو۔ دیکھو جب تم ایسا کرتے ہو تو وہ تمہیں کیسے الگ نظر سے دیکھتے ہیں۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 42,
+        "ayah": 37,
+        "arabic": "وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ",
+        "translation": {
+          "en": "And when they are angry, they forgive.",
+          "hi": "और जब ग़ुस्सा आए तो माफ़ कर देते हैं।",
+          "ur": "اور جب غصہ آئے تو معاف کر دیتے ہیں۔"
+        }
+      },
+      "task": {
+        "en": "This week: keep a one-line anger log. Every time you feel real anger — not mild irritation, real anger — write it down at night. What triggered it. What you did. What you wish you'd done. No judgment. Just data. By day 7, patterns will appear.",
+        "hi": "इस हफ़्ते: एक-लाइन का ग़ुस्से का हिसाब रखो। जब भी सच में ग़ुस्सा आए — हल्की झुँझलाहट नहीं, सच्चा ग़ुस्सा — रात को लिखो। क्या trigger हुआ। क्या किया। क्या करना चाहिए था। कोई फ़ैसला नहीं। बस data। सातवें दिन तक pattern दिखेगा।",
+        "ur": "اس ہفتے: ایک لائن کا غصے کا حساب رکھو۔ جب بھی سچ میں غصہ آئے — ہلکی جھنجھلاہٹ نہیں، سچا غصہ — رات کو لکھو۔ کیا trigger ہوا۔ کیا کیا۔ کیا کرنا چاہیے تھا۔ کوئی فیصلہ نہیں۔ بس data۔ ساتویں دن تک pattern دکھے گا۔"
+      },
+      "hikmah": {
+        "en": "You cannot fix what you cannot see. The anger log is not self-punishment — it's self-knowledge. The person who knows exactly what lights their fuse is already three steps ahead of the person who just keeps being surprised by it. Muhasaba starts here.",
+        "hi": "जो दिखता नहीं, उसे ठीक नहीं कर सकते। ग़ुस्से का हिसाब ख़ुद को सज़ा देना नहीं है — ख़ुद को जानना है। जो शख़्स जानता है कि उसकी चिंगारी कहाँ से जलती है, वो उस शख़्स से तीन क़दम आगे है जो हर बार हैरान होता रहता है। मुहासबा यहीं से शुरू होता है।",
+        "ur": "جو دکھتا نہیں، اسے ٹھیک نہیں کر سکتے۔ غصے کا حساب خود کو سزا دینا نہیں ہے — خود کو جاننا ہے۔ جو شخص جانتا ہے کہ اس کی چنگاری کہاں سے جلتی ہے، وہ اس شخص سے تین قدم آگے ہے جو ہر بار حیران ہوتا رہتا ہے۔ محاسبہ یہیں سے شروع ہوتا ہے۔"
+      },
+      "example": {
+        "en": "End of the week, you look at your log. Three of the five entries are about the same person — maybe a colleague, maybe someone at home. That's not seven separate incidents. That's one unresolved thing. Now you know what actually needs to be addressed.",
+        "hi": "हफ़्ते के आख़िर में log देखते हो। पाँच में तीन entries एक ही इंसान के बारे में हैं — शायद साथी, शायद घर का कोई। यह सात अलग वाक़ये नहीं हैं। यह एक अनसुलझी चीज़ है। अब पता चला असल में क्या address करना है।",
+        "ur": "ہفتے کے آخر میں log دیکھتے ہو۔ پانچ میں تین entries ایک ہی انسان کے بارے میں ہیں — شاید ساتھی، شاید گھر کا کوئی۔ یہ سات الگ واقعے نہیں ہیں۔ یہ ایک ان سلجھی چیز ہے۔ اب پتا چلا اصل میں کیا address کرنا ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 3,
+        "ayah": 159,
+        "arabic": "فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ",
+        "translation": {
+          "en": "It is by the mercy of Allah that you were gentle with them — had you been harsh and hard-hearted, they would have dispersed from around you.",
+          "hi": "यह अल्लाह की रहमत है कि तुम उनके साथ नर्म रहे — अगर तुम कठोर और सख़्तदिल होते, तो वो तुम्हारे पास से बिखर जाते।",
+          "ur": "یہ اللہ کی رحمت ہے کہ تم ان کے ساتھ نرم رہے — اگر تم سخت اور سنگدل ہوتے، تو وہ تمہارے پاس سے بکھر جاتے۔"
+        }
+      },
+      "task": {
+        "en": "The person in your life who is most like the old angry you — a teenager, a younger sibling, a colleague. They blow up, they regret it, they don't know how to stop. Share what you've learned — not as a lesson, as a conversation. 'Yaar, mujhe bhi yahi problem thi…'",
+        "hi": "तुम्हारी ज़िंदगी में वो इंसान जो पुराने ग़ुस्सेवाले तुम जैसा सबसे ज़्यादा है — टीनेजर, छोटा भाई-बहन, साथी। भड़कता है, पछताता है, रोकना नहीं जानता। जो सीखा — वो share करो। lesson की तरह नहीं, बातचीत की तरह। 'यार, मुझे भी यही problem थी…'",
+        "ur": "تمہاری زندگی میں وہ انسان جو پرانے غصیلے تمہارے جیسا سب سے زیادہ ہے — teenager، چھوٹا بھائی بہن، ساتھی۔ بھڑکتا ہے، پچھتاتا ہے، روکنا نہیں جانتا۔ جو سیکھا — وہ share کرو۔ lesson کی طرح نہیں، گفتگو کی طرح۔ 'یار، مجھے بھی یہی problem تھی…'"
+      },
+      "hikmah": {
+        "en": "Your change is the proof. Not your words — your change. When someone who used to lose their temper starts handling things differently, people notice before they say anything. The dawah of a calmer you is happening in every room you walk into. You just have to keep walking.",
+        "hi": "तुम्हारा बदलाव सबूत है। तुम्हारे अल्फ़ाज़ नहीं — तुम्हारा बदलाव। जब कोई जो पहले ग़ुस्सा होता था, अलग तरह से चीज़ें handle करने लगता है — लोग कुछ कहने से पहले नोटिस करते हैं। शांत तुम्हारी दावत हर उस कमरे में हो रही है जिसमें तुम जाते हो। बस चलते रहना है।",
+        "ur": "تمہاری تبدیلی ثبوت ہے۔ تمہارے الفاظ نہیں — تمہاری تبدیلی۔ جب کوئی جو پہلے غصہ ہوتا تھا، الگ طرح سے چیزیں handle کرنے لگتا ہے — لوگ کچھ کہنے سے پہلے نوٹس کرتے ہیں۔ پرسکون تمہاری دعوت ہر اس کمرے میں ہو رہی ہے جس میں تم جاتے ہو۔ بس چلتے رہنا ہے۔"
+      },
+      "example": {
+        "en": "A few months in, your teenager loses their temper at you — exactly the way you used to. Instead of reacting, you pause. You sit with them, not against them. Later they say: 'You didn't get angry.' You say: 'I used to. It took work.' That conversation will stay with them longer than any lecture.",
+        "hi": "कुछ महीनों बाद, टीनेजर तुम पर उसी तरह भड़कता है जैसे तुम पहले भड़कते थे। React करने की जगह रुकते हो। उनके साथ बैठते हो, उनके ख़िलाफ़ नहीं। बाद में वो कहते हैं: 'तुम ग़ुस्सा नहीं हुए।' तुम कहते हो: 'पहले होता था। मेहनत लगी।' यह बातचीत उनके साथ किसी भी lecture से ज़्यादा देर रहेगी।",
+        "ur": "کچھ مہینوں بعد، teenager تم پر اسی طرح بھڑکتا ہے جیسے تم پہلے بھڑکتے تھے۔ react کرنے کی جگہ رکتے ہو۔ ان کے ساتھ بیٹھتے ہو، ان کے خلاف نہیں۔ بعد میں وہ کہتے ہیں: 'تم غصہ نہیں ہوئے۔' تم کہتے ہو: 'پہلے ہوتا تھا۔ محنت لگی۔' یہ گفتگو ان کے ساتھ کسی بھی lecture سے زیادہ دیر رہے گی۔"
+      }
+    }
+  ]
+}

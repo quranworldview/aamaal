@@ -1,0 +1,179 @@
+{
+  "month_key": "muharram",
+  "month_number": 4,
+  "hijri_year": 1447,
+  "theme": {
+    "en": "Tawbah — Return",
+    "hi": "तौबह — वापसी",
+    "ur": "توبہ — واپسی"
+  },
+  "theme_arabic": "تَوْبَة",
+  "theme_ayah": {
+    "surah": 39,
+    "ayah": 53,
+    "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+    "translation": {
+      "en": "Say: O My servants who have transgressed — do not despair of the mercy of Allah.",
+      "hi": "कहो: ऐ मेरे बंदो जिन्होंने ज़्यादती की — अल्लाह की रहमत से नाउम्मीद मत हो।",
+      "ur": "کہو: اے میرے بندو جنہوں نے زیادتی کی — اللہ کی رحمت سے ناامید مت ہو۔"
+    }
+  },
+  "month_question": {
+    "en": "Do I truly want to return — or am I just thinking about it?",
+    "hi": "क्या मैं सच में वापस आना चाहता हूँ — या बस सोच रहा हूँ?",
+    "ur": "کیا میں سچ میں واپس آنا چاہتا ہوں — یا بس سوچ رہا ہوں؟"
+  },
+  "total_days": 30,
+  "days": [
+    {
+      "day": 1,
+      "task_id": "a1-adab-zubaan",
+      "stage": 1
+    },
+    {
+      "day": 2,
+      "task_id": "a2-adab-salaam",
+      "stage": 1
+    },
+    {
+      "day": 3,
+      "task_id": "a3-adab-shukriya",
+      "stage": 1
+    },
+    {
+      "day": 4,
+      "task_id": "a4-adab-maafi",
+      "stage": 1
+    },
+    {
+      "day": 5,
+      "task_id": "a5-adab-taarif",
+      "stage": 1
+    },
+    {
+      "day": 6,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 1
+    },
+    {
+      "day": 7,
+      "task_id": "n2-nafs-kibr",
+      "stage": 1
+    },
+    {
+      "day": 8,
+      "task_id": "n3-nafs-hasad",
+      "stage": 1
+    },
+    {
+      "day": 9,
+      "task_id": "n4-nafs-riya",
+      "stage": 1
+    },
+    {
+      "day": 10,
+      "task_id": "n5-nafs-muhasaba",
+      "stage": 1
+    },
+    {
+      "day": 11,
+      "task_id": "h1-health-neend",
+      "stage": 1
+    },
+    {
+      "day": 12,
+      "task_id": "h2-health-khaana",
+      "stage": 1
+    },
+    {
+      "day": 13,
+      "task_id": "h3-health-harkat",
+      "stage": 1
+    },
+    {
+      "day": 14,
+      "task_id": "h4-health-bimari",
+      "stage": 1
+    },
+    {
+      "day": 15,
+      "task_id": "h5-health-zehn",
+      "stage": 1
+    },
+    {
+      "day": 16,
+      "task_id": "c1-clean-tahara",
+      "stage": 1
+    },
+    {
+      "day": 17,
+      "task_id": "c2-clean-jism",
+      "stage": 1
+    },
+    {
+      "day": 18,
+      "task_id": "c3-clean-ghar",
+      "stage": 1
+    },
+    {
+      "day": 19,
+      "task_id": "c4-clean-dil",
+      "stage": 1
+    },
+    {
+      "day": 20,
+      "task_id": "c5-clean-mahol",
+      "stage": 1
+    },
+    {
+      "day": 21,
+      "task_id": "a1-adab-zubaan",
+      "stage": 2
+    },
+    {
+      "day": 22,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 2
+    },
+    {
+      "day": 23,
+      "task_id": "h1-health-neend",
+      "stage": 2
+    },
+    {
+      "day": 24,
+      "task_id": "c1-clean-tahara",
+      "stage": 2
+    },
+    {
+      "day": 25,
+      "task_id": "a2-adab-salaam",
+      "stage": 2
+    },
+    {
+      "day": 26,
+      "task_id": "n2-nafs-kibr",
+      "stage": 2
+    },
+    {
+      "day": 27,
+      "task_id": "h2-health-khaana",
+      "stage": 2
+    },
+    {
+      "day": 28,
+      "task_id": "c2-clean-jism",
+      "stage": 2
+    },
+    {
+      "day": 29,
+      "task_id": "a3-adab-shukriya",
+      "stage": 2
+    },
+    {
+      "day": 30,
+      "task_id": "n3-nafs-hasad",
+      "stage": 2
+    }
+  ]
+}

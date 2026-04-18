@@ -1,0 +1,179 @@
+{
+  "month_key": "rabi-al-awwal",
+  "month_number": 6,
+  "hijri_year": 1447,
+  "theme": {
+    "en": "Love of the Prophet ﷺ — Follow, Don't Just Celebrate",
+    "hi": "नबी ﷺ की मोहब्बत — सिर्फ़ मनाओ नहीं, पैरवी करो",
+    "ur": "محبت نبی ﷺ — صرف مناؤ نہیں، پیروی کرو"
+  },
+  "theme_arabic": "مَحَبَّة",
+  "theme_ayah": {
+    "surah": 3,
+    "ayah": 31,
+    "arabic": "قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي",
+    "translation": {
+      "en": "Say: if you love Allah, then follow me.",
+      "hi": "कहो: अगर तुम अल्लाह से मोहब्बत करते हो, तो मेरी पैरवी करो।",
+      "ur": "کہو: اگر تم اللہ سے محبت کرتے ہو، تو میری پیروی کرو۔"
+    }
+  },
+  "month_question": {
+    "en": "Which Sunnah of the Prophet ﷺ am I living — and which am I only knowing?",
+    "hi": "नबी ﷺ की कौन-सी सुन्नत जी रहा हूँ — और कौन-सी सिर्फ़ जानता हूँ?",
+    "ur": "نبی ﷺ کی کون سی سنت جی رہا ہوں — اور کون سی صرف جانتا ہوں؟"
+  },
+  "total_days": 30,
+  "days": [
+    {
+      "day": 1,
+      "task_id": "a1-adab-zubaan",
+      "stage": 1
+    },
+    {
+      "day": 2,
+      "task_id": "a2-adab-salaam",
+      "stage": 1
+    },
+    {
+      "day": 3,
+      "task_id": "a3-adab-shukriya",
+      "stage": 1
+    },
+    {
+      "day": 4,
+      "task_id": "a4-adab-maafi",
+      "stage": 1
+    },
+    {
+      "day": 5,
+      "task_id": "a5-adab-taarif",
+      "stage": 1
+    },
+    {
+      "day": 6,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 1
+    },
+    {
+      "day": 7,
+      "task_id": "n2-nafs-kibr",
+      "stage": 1
+    },
+    {
+      "day": 8,
+      "task_id": "n3-nafs-hasad",
+      "stage": 1
+    },
+    {
+      "day": 9,
+      "task_id": "n4-nafs-riya",
+      "stage": 1
+    },
+    {
+      "day": 10,
+      "task_id": "n5-nafs-muhasaba",
+      "stage": 1
+    },
+    {
+      "day": 11,
+      "task_id": "h1-health-neend",
+      "stage": 1
+    },
+    {
+      "day": 12,
+      "task_id": "h2-health-khaana",
+      "stage": 1
+    },
+    {
+      "day": 13,
+      "task_id": "h3-health-harkat",
+      "stage": 1
+    },
+    {
+      "day": 14,
+      "task_id": "h4-health-bimari",
+      "stage": 1
+    },
+    {
+      "day": 15,
+      "task_id": "h5-health-zehn",
+      "stage": 1
+    },
+    {
+      "day": 16,
+      "task_id": "c1-clean-tahara",
+      "stage": 1
+    },
+    {
+      "day": 17,
+      "task_id": "c2-clean-jism",
+      "stage": 1
+    },
+    {
+      "day": 18,
+      "task_id": "c3-clean-ghar",
+      "stage": 1
+    },
+    {
+      "day": 19,
+      "task_id": "c4-clean-dil",
+      "stage": 1
+    },
+    {
+      "day": 20,
+      "task_id": "c5-clean-mahol",
+      "stage": 1
+    },
+    {
+      "day": 21,
+      "task_id": "a1-adab-zubaan",
+      "stage": 2
+    },
+    {
+      "day": 22,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 2
+    },
+    {
+      "day": 23,
+      "task_id": "h1-health-neend",
+      "stage": 2
+    },
+    {
+      "day": 24,
+      "task_id": "c1-clean-tahara",
+      "stage": 2
+    },
+    {
+      "day": 25,
+      "task_id": "a2-adab-salaam",
+      "stage": 2
+    },
+    {
+      "day": 26,
+      "task_id": "n2-nafs-kibr",
+      "stage": 2
+    },
+    {
+      "day": 27,
+      "task_id": "h2-health-khaana",
+      "stage": 2
+    },
+    {
+      "day": 28,
+      "task_id": "c2-clean-jism",
+      "stage": 2
+    },
+    {
+      "day": 29,
+      "task_id": "a3-adab-shukriya",
+      "stage": 2
+    },
+    {
+      "day": 30,
+      "task_id": "n3-nafs-hasad",
+      "stage": 2
+    }
+  ]
+}

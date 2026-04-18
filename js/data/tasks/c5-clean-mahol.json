@@ -1,0 +1,176 @@
+{
+  "id": "c5-clean-mahol",
+  "category": "cleanliness",
+  "name": {
+    "en": "The World Around You",
+    "hi": "तुम्हारे आसपास की दुनिया",
+    "ur": "تمہارے آس پاس کی دنیا"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 7,
+        "ayah": 56,
+        "arabic": "وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا",
+        "translation": {
+          "en": "And do not cause corruption upon the earth after its reformation.",
+          "hi": "और ज़मीन पर उसकी इस्लाह के बाद फ़साद मत फैलाओ।",
+          "ur": "اور زمین پر اس کی اصلاح کے بعد فساد مت پھیلاؤ۔"
+        }
+      },
+      "task": {
+        "en": "Today, just notice: what is your relationship to the spaces outside your home? The street outside. The mosque after you leave. The workplace kitchen. The park. Do you leave these places as you found them — or worse? When was the last time you picked something up rather than stepping over it?",
+        "hi": "आज बस नोटिस करो: घर के बाहर की जगहों के साथ तुम्हारा रिश्ता क्या है? बाहर की गली। जाने के बाद मस्जिद। काम की kitchen। पार्क। क्या तुम इन जगहों को जैसा पाया वैसा छोड़ते हो — या बुरा? आख़िरी बार कब कुछ उठाया था उसपर से क़दम रखने की जगह?",
+        "ur": "آج بس نوٹس کرو: گھر کے باہر کی جگہوں کے ساتھ تمہارا رشتہ کیا ہے؟ باہر کی گلی۔ جانے کے بعد مسجد۔ کام کی kitchen۔ پارک۔ کیا تم ان جگہوں کو جیسا پایا ویسا چھوڑتے ہو — یا برا؟ آخری بار کب کچھ اٹھایا تھا اس پر سے قدم رکھنے کی جگہ؟"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: removing something harmful from the road is sadaqah. A single piece of litter picked up from a path — that is sadaqah. Not the dramatic kind. The quiet kind that no one sees, that no one thanks you for, that Allah notices. The earth is an amanat given to every human. Most of us are using it without giving back. That is a form of kufr an-ni'mah — ingratitude for the gift.",
+        "hi": "नबी ﷺ ने फ़रमाया: रास्ते से तकलीफ़देह चीज़ हटाना सदक़ह है। रास्ते से उठाया गया एक टुकड़ा कचरा — वो सदक़ह है। dramatic वाला नहीं। वो शांत वाला जिसे कोई नहीं देखता, जिसके लिए कोई शुक्रिया नहीं, जिसे अल्लाह नोटिस करता है। ज़मीन हर इंसान को दी गई अमानत है। हम में से ज़्यादातर इसे बिना वापस दिए इस्तेमाल कर रहे हैं। यह कुफ़्रे नेमत का एक रूप है — तोहफ़े के लिए नाशुक्री।",
+        "ur": "نبی ﷺ نے فرمایا: راستے سے تکلیف دہ چیز ہٹانا صدقہ ہے۔ راستے سے اٹھایا گیا ایک ٹکڑا کوڑا — وہ صدقہ ہے۔ dramatic والا نہیں۔ وہ خاموش والا جسے کوئی نہیں دیکھتا، جس کے لیے کوئی شکریہ نہیں، جسے اللہ نوٹس کرتا ہے۔ زمین ہر انسان کو دی گئی امانت ہے۔ ہم میں سے زیادہ تر اسے بغیر واپس دیے استعمال کر رہے ہیں۔ یہ کفرِ نعمت کی ایک شکل ہے — تحفے کے لیے ناشکری۔"
+      },
+      "example": {
+        "en": "Walk from your home to the nearest masjid today — or to any destination. Commit to picking up one piece of litter on the way there. Not to impress anyone. With Bismillah, with the knowledge that this is sadaqah. One piece. The practice is not the litter — it is training your eyes to see the world as your responsibility rather than someone else's problem.",
+        "hi": "आज घर से नज़दीकी मस्जिद तक चलो — या कोई भी destination। जाते हुए एक टुकड़ा कचरा उठाने का पक्का करो। किसी को impress करने के लिए नहीं। Bismillah के साथ, इस ज्ञान के साथ कि यह सदक़ह है। एक टुकड़ा। practice कचरा नहीं है — यह तुम्हारी आँखों को दुनिया को किसी और की problem की जगह अपनी ज़िम्मेदारी के तौर पर देखने की training है।",
+        "ur": "آج گھر سے قریبی مسجد تک چلو — یا کوئی بھی destination۔ جاتے ہوئے ایک ٹکڑا کوڑا اٹھانے کا پکا کرو۔ کسی کو impress کرنے کے لیے نہیں۔ بسم اللہ کے ساتھ، اس علم کے ساتھ کہ یہ صدقہ ہے۔ ایک ٹکڑا۔ practice کوڑا نہیں ہے — یہ تمہاری آنکھوں کو دنیا کو کسی اور کی problem کی جگہ اپنی ذمہ داری کے طور پر دیکھنے کی training ہے۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 30,
+        "ayah": 41,
+        "arabic": "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ",
+        "translation": {
+          "en": "Corruption has appeared throughout the land and sea by reason of what the hands of people have earned.",
+          "hi": "ज़मीन और समंदर में फ़साद लोगों के हाथों की कमाई से ज़ाहिर हुआ।",
+          "ur": "زمین اور سمندر میں فساد لوگوں کے ہاتھوں کی کمائی سے ظاہر ہوا۔"
+        }
+      },
+      "task": {
+        "en": "Learn the Islamic concept of khilafah — not just political leadership, but the idea that humans are stewards of the earth. Read Surah Al-Baqarah 2:30 in context. What does it mean to be a khalifah on earth? How does that concept apply to what you throw away, how you use water, what you leave behind wherever you go?",
+        "hi": "ख़िलाफ़त के इस्लामी concept के बारे में सीखो — सिर्फ़ सियासी क़ियादत नहीं, बल्कि यह ख़याल कि इंसान ज़मीन के ज़िम्मेदार हैं। सूरह अल-बक़रह 2:30 को context में पढ़ो। ज़मीन पर ख़लीफ़ा होने का मतलब क्या है? वो concept यह कैसे apply होता है कि तुम क्या फेंकते हो, पानी कैसे इस्तेमाल करते हो, जहाँ भी जाते हो क्या छोड़ते हो?",
+        "ur": "خلافت کے اسلامی concept کے بارے میں سیکھو — صرف سیاسی قیادت نہیں، بلکہ یہ خیال کہ انسان زمین کے custodians ہیں۔ سورہ البقرہ 2:30 کو context میں پڑھو۔ زمین پر خلیفہ ہونے کا مطلب کیا ہے؟ وہ concept یہ کیسے apply ہوتا ہے کہ تم کیا پھینکتے ہو، پانی کیسے استعمال کرتے ہو، جہاں بھی جاتے ہو کیا چھوڑتے ہو؟"
+      },
+      "hikmah": {
+        "en": "When Allah said 'I am placing a khalifah on earth' — the angels were concerned. They said: will you place there one who causes corruption and sheds blood? That concern is now our reality. The earth is being used and discarded faster than it can recover. Every Muslim who understands khilafah understands that they are personally accountable for their share of that. Not the whole problem — their share.",
+        "hi": "जब अल्लाह ने कहा 'मैं ज़मीन पर ख़लीफ़ा रखने वाला हूँ' — फ़रिश्ते फ़िक्रमंद हुए। उन्होंने कहा: क्या तुम वहाँ किसी ऐसे को रखोगे जो फ़साद फैलाए और ख़ून बहाए? वो चिंता अब हमारी हक़ीक़त है। ज़मीन को संभलने से तेज़ इस्तेमाल और बर्बाद किया जा रहा है। हर वो मुसलमान जो ख़िलाफ़त समझता है जानता है कि वो उसमें से अपने हिस्से के लिए ज़ाती तौर पर जवाबदेह है। पूरी problem नहीं — अपना हिस्सा।",
+        "ur": "جب اللہ نے کہا 'میں زمین پر خلیفہ رکھنے والا ہوں' — فرشتے فکرمند ہوئے۔ انہوں نے کہا: کیا تم وہاں کسی ایسے کو رکھو گے جو فساد پھیلائے اور خون بہائے؟ وہ فکر اب ہماری حقیقت ہے۔ زمین کو سنبھلنے سے تیز استعمال اور برباد کیا جا رہا ہے۔ ہر وہ مسلمان جو خلافت سمجھتا ہے جانتا ہے کہ وہ اس میں سے اپنے حصے کے لیے ذاتی طور پر جوابدہ ہے۔ پوری problem نہیں — اپنا حصہ۔"
+      },
+      "example": {
+        "en": "Read the hadith about a man who was granted forgiveness because he removed a thorn from a path. Just that — removing one thorn. And another man who, in his thirst on a hot day, gave water to a thirsty dog and was forgiven his sins. These are not moral tales about big heroism. They are about small, unseeable, consistent care for the world around you. That is what khilafah looks like on the ground.",
+        "hi": "वो हदीस पढ़ो जिसमें एक आदमी को सिर्फ़ रास्ते से काँटा हटाने की वजह से माफ़ी मिली। बस यही — एक काँटा हटाना। और एक दूसरा आदमी जिसने गर्म दिन की प्यास में एक प्यासे कुत्ते को पानी पिलाया और उसके गुनाह माफ़ हुए। यह बड़ी वीरता के बारे में moral tales नहीं हैं। यह आसपास की दुनिया की छोटी, न दिखने वाली, consistent देखभाल के बारे में हैं। ज़मीन पर ख़िलाफ़त ऐसी दिखती है।",
+        "ur": "وہ حدیث پڑھو جس میں ایک آدمی کو صرف راستے سے کانٹا ہٹانے کی وجہ سے معافی ملی۔ بس یہی — ایک کانٹا ہٹانا۔ اور ایک دوسرا آدمی جس نے گرم دن کی پیاس میں ایک پیاسے کتے کو پانی پلایا اور اس کے گناہ معاف ہوئے۔ یہ بڑی بہادری کے بارے میں moral tales نہیں ہیں۔ یہ آس پاس کی دنیا کی چھوٹی، نہ دکھنے والی، consistent دیکھ بھال کے بارے میں ہیں۔ زمین پر خلافت ایسی دکھتی ہے۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 55,
+        "ayah": 10,
+        "arabic": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+        "translation": {
+          "en": "And the earth — He laid it for all creatures.",
+          "hi": "और ज़मीन — उसने उसे सब मख़लूक़ के लिए रखा।",
+          "ur": "اور زمین — اس نے اسے سب مخلوق کے لیے رکھا۔"
+        }
+      },
+      "task": {
+        "en": "Today: leave every public space you enter slightly better than you found it. Masjid — straighten the prayer mats before leaving. Workplace kitchen — wipe the counter after you use it. Anywhere — pick up what was left. Not as a performance. Quietly. As a khalifah. By the end of the day, count how many spaces you improved. Even two is a start.",
+        "hi": "आज: जो भी public space enter करो उसे जितना पाया उससे थोड़ा बेहतर छोड़ो। मस्जिद — जाने से पहले जायनमाज़ सीधे करो। काम की kitchen — इस्तेमाल के बाद counter पोंछो। कहीं भी — जो छूट गया उठाओ। performance की तरह नहीं। चुपचाप। एक ख़लीफ़ा की तरह। दिन के आख़िर में गिनो कितनी जगहें बेहतर कीं। दो भी शुरुआत है।",
+        "ur": "آج: جو بھی public space enter کرو اسے جتنا پایا اس سے تھوڑا بہتر چھوڑو۔ مسجد — جانے سے پہلے جائے نماز سیدھی کرو۔ کام کی kitchen — استعمال کے بعد counter پونچھو۔ کہیں بھی — جو چھوٹ گیا اٹھاؤ۔ performance کی طرح نہیں۔ چپ چاپ۔ ایک خلیفہ کی طرح۔ دن کے آخر میں گنو کتنی جگہیں بہتر کیں۔ دو بھی شروعات ہے۔"
+      },
+      "hikmah": {
+        "en": "When the Prophet ﷺ left a place, he left it clean. When he prayed somewhere, he straightened what was around him. When he ate, there were no remains left carelessly. This was not obsession — it was a form of respect: for the space, for the next person, for the earth itself. The person who moves through the world leaving it slightly better is living one of the quietest, most continuous forms of dawah there is.",
+        "hi": "जब नबी ﷺ कोई जगह छोड़ते थे, साफ़ छोड़ते थे। जब कहीं नमाज़ पढ़ते थे, आसपास की चीज़ें सीधी करते थे। जब खाते थे, लापरवाही से कोई निशान नहीं छोड़ते थे। यह obsession नहीं था — यह सम्मान का एक रूप था: जगह का, अगले इंसान का, ज़मीन का। जो इंसान दुनिया में से गुज़रता है उसे थोड़ा बेहतर छोड़ते हुए, दावत के सबसे शांत, सबसे लगातार रूपों में से एक जी रहा है।",
+        "ur": "جب نبی ﷺ کوئی جگہ چھوڑتے تھے، صاف چھوڑتے تھے۔ جب کہیں نماز پڑھتے تھے، آس پاس کی چیزیں سیدھی کرتے تھے۔ جب کھاتے تھے، لاپرواہی سے کوئی نشان نہیں چھوڑتے تھے۔ یہ obsession نہیں تھا — یہ احترام کی ایک شکل تھی: جگہ کا، اگلے انسان کا، زمین کا۔ جو انسان دنیا میں سے گزرتا ہے اسے تھوڑا بہتر چھوڑتے ہوئے، دعوت کی سب سے خاموش، سب سے لگاتار شکلوں میں سے ایک جی رہا ہے۔"
+      },
+      "example": {
+        "en": "After Jumu'ah today: before you leave the masjid, spend two minutes straightening the prayer mats in your row. Nobody asked. Nobody will thank you. The next person who comes for Asr will find a tidy row and not know why. That anonymity is the point. You are not cleaning for credit. You are cleaning because the masjid is Allah's house and you are its khalifah.",
+        "hi": "आज जुमे के बाद: मस्जिद छोड़ने से पहले, अपनी row की जायनमाज़ें सीधी करने में दो मिनट लगाओ। किसी ने नहीं कहा। कोई शुक्रिया नहीं करेगा। असर के लिए आने वाला अगला इंसान सीधी row पाएगा और पता नहीं चलेगा क्यों। वो anonymity मक़सद है। साफ़ credit के लिए नहीं कर रहे। इसलिए कर रहे हो क्योंकि मस्जिद अल्लाह का घर है और तुम उसके ख़लीफ़ा हो।",
+        "ur": "آج جمعے کے بعد: مسجد چھوڑنے سے پہلے، اپنی row کی جائے نمازیں سیدھی کرنے میں دو منٹ لگاؤ۔ کسی نے نہیں کہا۔ کوئی شکریہ نہیں کرے گا۔ عصر کے لیے آنے والا اگلا انسان سیدھی row پائے گا اور پتا نہیں چلے گا کیوں۔ وہ anonymity مقصد ہے۔ صاف credit کے لیے نہیں کر رہے۔ اس لیے کر رہے ہو کیونکہ مسجد اللہ کا گھر ہے اور تم اس کے خلیفہ ہو۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 2,
+        "ayah": 60,
+        "arabic": "وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+        "translation": {
+          "en": "And do not commit abuse on the earth, spreading corruption.",
+          "hi": "और ज़मीन में फ़साद फैलाते हुए बिगाड़ मत करो।",
+          "ur": "اور زمین میں فساد پھیلاتے ہوئے بگاڑ مت کرو۔"
+        }
+      },
+      "task": {
+        "en": "This week: build one simple environmental habit. Choose one: never leave food waste carelessly. Always carry a bag when shopping — no single-use plastic. Pick up one piece of litter per day. Don't waste water. One habit. Consistent. Frame it as khilafah — 'I am responsible for this earth. My part of it starts here.' Small and real beats big and theoretical.",
+        "hi": "इस हफ़्ते: एक सरल environmental habit बनाओ। एक चुनो: कभी खाना बर्बाद नहीं छोड़ो। shopping करते हुए हमेशा थैला लेकर जाओ — single-use plastic नहीं। रोज़ एक टुकड़ा कचरा उठाओ। पानी बर्बाद मत करो। एक आदत। Consistent। ख़िलाफ़त के तौर पर frame करो — 'मैं इस ज़मीन का ज़िम्मेदार हूँ। मेरा हिस्सा यहाँ से शुरू होता है।' छोटा और असली, बड़े और theoretical से बेहतर है।",
+        "ur": "اس ہفتے: ایک سادہ environmental habit بناؤ۔ ایک چنو: کبھی کھانا بے فکری سے ضائع نہیں چھوڑو۔ shopping کرتے ہوئے ہمیشہ تھیلا لے کر جاؤ — single-use plastic نہیں۔ روز ایک ٹکڑا کوڑا اٹھاؤ۔ پانی ضائع مت کرو۔ ایک عادت۔ consistent۔ خلافت کے طور پر frame کرو — 'میں اس زمین کا ذمہ دار ہوں۔ میرا حصہ یہاں سے شروع ہوتا ہے۔' چھوٹا اور اصلی، بڑے اور theoretical سے بہتر ہے۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ forbade wasting water — even in ablution from a flowing river. Not because water was scarce in that moment. Because waste itself is a spiritual disease. Israf — excess and waste — is explicitly condemned in the Quran. The person who leaves the tap running, who throws away food without thought, who uses and discards without care, is not just being wasteful. They are being ungrateful for what they were given to steward.",
+        "hi": "नबी ﷺ ने पानी बर्बाद करने से मना किया — यहाँ तक कि बहते दरिया से वुज़ू में भी। इसलिए नहीं कि उस पल पानी कम था। बल्कि इसलिए कि बर्बादी ख़ुद एक रूहानी बीमारी है। इसराफ़ — ज़्यादती और बर्बादी — को क़ुरआन में explicitly condemned किया गया है। जो नल खुला छोड़ता है, जो सोच के बिना खाना फेंकता है, जो बिना परवाह के इस्तेमाल करता और फेंकता है, वो सिर्फ़ बर्बाद नहीं कर रहा। वो उसके लिए नाशुक्री कर रहा है जो उसे ज़िम्मेदार निगहबान बनाकर दिया गया था।",
+        "ur": "نبی ﷺ نے پانی ضائع کرنے سے منع کیا — یہاں تک کہ بہتے دریا سے وضو میں بھی۔ اس لیے نہیں کہ اس پل پانی کم تھا۔ بلکہ اس لیے کہ فضول خرچی خود ایک روحانی بیماری ہے۔ اسراف — زیادتی اور فضول خرچی — کو قرآن میں explicitly condemned کیا گیا ہے۔ جو نل کھلا چھوڑتا ہے، جو سوچے بغیر کھانا پھینکتا ہے، جو بغیر پرواہ کے استعمال کرتا اور پھینکتا ہے، وہ صرف فضول خرچ نہیں کر رہا۔ وہ اس کے لیے ناشکری کر رہا ہے جو اسے ذمہ دار نگہبان بنا کر دیا گیا تھا۔"
+      },
+      "example": {
+        "en": "This week's chosen habit: no single-use plastic. Day three: you forget and take a plastic bag. You notice. You don't spiral into guilt. You make a mental note and next time you remember the bag. Habits are not built by perfection — they are built by noticing and returning. The same principle that works for ibadah works for environmental care. Return after the slip. Keep returning.",
+        "hi": "इस हफ़्ते की चुनी हुई habit: कोई single-use plastic नहीं। तीसरा दिन: भूल जाते हो और plastic bag लेते हो। नोटिस करते हो। guilt में नहीं डूबते। mental note लेते हो और अगली बार थैला याद रहता है। आदतें perfection से नहीं बनतीं — नोटिस करने और वापस आने से बनती हैं। वही principle जो इबादत के लिए काम करता है environmental care के लिए भी काम करता है। चूक के बाद वापस आओ। वापस आते रहो।",
+        "ur": "اس ہفتے کی چنی ہوئی habit: کوئی single-use plastic نہیں۔ تیسرا دن: بھول جاتے ہو اور plastic bag لیتے ہو۔ نوٹس کرتے ہو۔ guilt میں نہیں ڈوبتے۔ mental note لیتے ہو اور اگلی بار تھیلا یاد رہتا ہے۔ عادتیں perfection سے نہیں بنتیں — نوٹس کرنے اور واپس آنے سے بنتی ہیں۔ وہی principle جو عبادت کے لیے کام کرتا ہے environmental care کے لیے بھی کام کرتا ہے۔ چوک کے بعد واپس آؤ۔ واپس آتے رہو۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 11,
+        "ayah": 61,
+        "arabic": "هُوَ أَنشَأَكُم مِّنَ الْأَرْضِ وَاسْتَعْمَرَكُمْ فِيهَا",
+        "translation": {
+          "en": "He produced you from the earth and settled you in it.",
+          "hi": "उसी ने तुम्हें ज़मीन से पैदा किया और उसमें तुम्हें बसाया।",
+          "ur": "اسی نے تمہیں زمین سے پیدا کیا اور اس میں تمہیں بسایا۔"
+        }
+      },
+      "task": {
+        "en": "This week: do a community clean-up — even just your immediate street, even just with one other person. Or start something at the masjid: a recycling point, a no-plastic-bag reminder, a water-saving note by the wudu taps. Not a campaign — one small, real act that the community can see and perhaps follow. You don't need permission. Khulafa act. They don't wait.",
+        "hi": "इस हफ़्ते: community clean-up करो — सिर्फ़ अपनी तुरंत की गली भी, सिर्फ़ एक और इंसान के साथ भी। या मस्जिद में कुछ शुरू करो: recycling point, no-plastic-bag reminder, वुज़ू के नल के पास पानी बचाने का note। campaign नहीं — एक छोटा, असली अमल जो community देख सके और शायद follow करे। इजाज़त की ज़रूरत नहीं। ख़लीफ़ा काम करते हैं। इंतज़ार नहीं।",
+        "ur": "اس ہفتے: community clean-up کرو — صرف اپنی فوری گلی بھی، صرف ایک اور انسان کے ساتھ بھی۔ یا مسجد میں کچھ شروع کرو: recycling point، no-plastic-bag reminder، وضو کے نل کے پاس پانی بچانے کا note۔ campaign نہیں — ایک چھوٹا، اصلی عمل جو community دیکھ سکے اور شاید follow کرے۔ اجازت کی ضرورت نہیں۔ خلفاء کام کرتے ہیں۔ انتظار نہیں۔"
+      },
+      "hikmah": {
+        "en": "The earth was given to every human as an amanat. But most humans don't think of it that way — they think of it as a resource to consume. When one person in a community begins to treat the shared environment as something worth caring for, something shifts. Others notice. Some follow. Some don't. But the one who acts has fulfilled their khilafah. The result belongs to Allah. The action belongs to you.",
+        "hi": "ज़मीन हर इंसान को अमानत के तौर पर दी गई थी। लेकिन ज़्यादातर इंसान इसे उस तरह नहीं सोचते — वो इसे एक इस्तेमाल करने वाले resource की तरह सोचते हैं। जब community में एक इंसान साझे माहौल को ऐसी चीज़ की तरह treat करना शुरू करता है जिसकी परवाह करने लायक़ है, कुछ बदलता है। दूसरे नोटिस करते हैं। कुछ follow करते हैं। कुछ नहीं। लेकिन जिसने अमल किया उसने अपनी ख़िलाफ़त पूरी की। नतीजा अल्लाह का है। अमल तुम्हारा है।",
+        "ur": "زمین ہر انسان کو امانت کے طور پر دی گئی تھی۔ لیکن زیادہ تر انسان اسے اس طرح نہیں سوچتے — وہ اسے ایک استعمال کرنے والے resource کی طرح سوچتے ہیں۔ جب community میں ایک انسان مشترکہ ماحول کو ایسی چیز کی طرح treat کرنا شروع کرتا ہے جس کی پرواہ کرنے لائق ہے، کچھ بدلتا ہے۔ دوسرے نوٹس کرتے ہیں۔ کچھ follow کرتے ہیں۔ کچھ نہیں۔ لیکن جس نے عمل کیا اس نے اپنی خلافت پوری کی۔ نتیجہ اللہ کا ہے۔ عمل تمہارا ہے۔"
+      },
+      "example": {
+        "en": "After Jumu'ah, you notice the area outside the masjid is littered — food wrappers, plastic cups, every Friday the same. Instead of just noticing: this Friday, bring a bag. Spend ten minutes after Jumu'ah cleaning the area with whoever will join. Don't announce it beforehand. Just do it. Someone will ask. That question is your opening. What you say next — that is the dawah.",
+        "hi": "जुमे के बाद, नोटिस करते हो कि मस्जिद के बाहर का इलाक़ा littered है — खाने के wrappers, plastic cups, हर जुमे वही। बस नोटिस करने की जगह: इस जुमे, एक bag लाओ। जुमे के बाद दस मिनट जो भी साथ आए उनके साथ इलाक़ा साफ़ करो। पहले announce मत करो। बस करो। कोई पूछेगा। वो सवाल तुम्हारा opening है। आगे जो कहते हो — वो दावत है।",
+        "ur": "جمعے کے بعد، نوٹس کرتے ہو کہ مسجد کے باہر کا علاقہ littered ہے — کھانے کے wrappers، plastic cups، ہر جمعے وہی۔ بس نوٹس کرنے کی جگہ: اس جمعے، ایک bag لاؤ۔ جمعے کے بعد دس منٹ جو بھی ساتھ آئے ان کے ساتھ علاقہ صاف کرو۔ پہلے announce مت کرو۔ بس کرو۔ کوئی پوچھے گا۔ وہ سوال تمہارا opening ہے۔ آگے جو کہتے ہو — وہ دعوت ہے۔"
+      }
+    }
+  ]
+}

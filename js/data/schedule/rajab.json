@@ -1,0 +1,179 @@
+{
+  "month_key": "rajab",
+  "month_number": 10,
+  "hijri_year": 1447,
+  "theme": {
+    "en": "Dhikr — Is Your Heart Alive?",
+    "hi": "ज़िक्र — क्या दिल ज़िंदा है?",
+    "ur": "ذکر — کیا دل زندہ ہے؟"
+  },
+  "theme_arabic": "ذِكْر",
+  "theme_ayah": {
+    "surah": 13,
+    "ayah": 28,
+    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "translation": {
+      "en": "Verily, in the remembrance of Allah do hearts find rest.",
+      "hi": "सुन लो! अल्लाह की याद से ही दिलों को सुकून मिलता है।",
+      "ur": "سن لو! اللہ کی یاد سے ہی دلوں کو سکون ملتا ہے۔"
+    }
+  },
+  "month_question": {
+    "en": "When I am alone and not performing for anyone — what does my heart turn to?",
+    "hi": "जब अकेला हूँ और किसी के लिए कुछ नहीं दिखाना — दिल किस तरफ़ जाता है?",
+    "ur": "جب اکیلا ہوں اور کسی کے لیے کچھ نہیں دکھانا — دل کس طرف جاتا ہے؟"
+  },
+  "total_days": 30,
+  "days": [
+    {
+      "day": 1,
+      "task_id": "a1-adab-zubaan",
+      "stage": 1
+    },
+    {
+      "day": 2,
+      "task_id": "a2-adab-salaam",
+      "stage": 1
+    },
+    {
+      "day": 3,
+      "task_id": "a3-adab-shukriya",
+      "stage": 1
+    },
+    {
+      "day": 4,
+      "task_id": "a4-adab-maafi",
+      "stage": 1
+    },
+    {
+      "day": 5,
+      "task_id": "a5-adab-taarif",
+      "stage": 1
+    },
+    {
+      "day": 6,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 1
+    },
+    {
+      "day": 7,
+      "task_id": "n2-nafs-kibr",
+      "stage": 1
+    },
+    {
+      "day": 8,
+      "task_id": "n3-nafs-hasad",
+      "stage": 1
+    },
+    {
+      "day": 9,
+      "task_id": "n4-nafs-riya",
+      "stage": 1
+    },
+    {
+      "day": 10,
+      "task_id": "n5-nafs-muhasaba",
+      "stage": 1
+    },
+    {
+      "day": 11,
+      "task_id": "h1-health-neend",
+      "stage": 1
+    },
+    {
+      "day": 12,
+      "task_id": "h2-health-khaana",
+      "stage": 1
+    },
+    {
+      "day": 13,
+      "task_id": "h3-health-harkat",
+      "stage": 1
+    },
+    {
+      "day": 14,
+      "task_id": "h4-health-bimari",
+      "stage": 1
+    },
+    {
+      "day": 15,
+      "task_id": "h5-health-zehn",
+      "stage": 1
+    },
+    {
+      "day": 16,
+      "task_id": "c1-clean-tahara",
+      "stage": 1
+    },
+    {
+      "day": 17,
+      "task_id": "c2-clean-jism",
+      "stage": 1
+    },
+    {
+      "day": 18,
+      "task_id": "c3-clean-ghar",
+      "stage": 1
+    },
+    {
+      "day": 19,
+      "task_id": "c4-clean-dil",
+      "stage": 1
+    },
+    {
+      "day": 20,
+      "task_id": "c5-clean-mahol",
+      "stage": 1
+    },
+    {
+      "day": 21,
+      "task_id": "a1-adab-zubaan",
+      "stage": 2
+    },
+    {
+      "day": 22,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 2
+    },
+    {
+      "day": 23,
+      "task_id": "h1-health-neend",
+      "stage": 2
+    },
+    {
+      "day": 24,
+      "task_id": "c1-clean-tahara",
+      "stage": 2
+    },
+    {
+      "day": 25,
+      "task_id": "a2-adab-salaam",
+      "stage": 2
+    },
+    {
+      "day": 26,
+      "task_id": "n2-nafs-kibr",
+      "stage": 2
+    },
+    {
+      "day": 27,
+      "task_id": "h2-health-khaana",
+      "stage": 2
+    },
+    {
+      "day": 28,
+      "task_id": "c2-clean-jism",
+      "stage": 2
+    },
+    {
+      "day": 29,
+      "task_id": "a3-adab-shukriya",
+      "stage": 2
+    },
+    {
+      "day": 30,
+      "task_id": "n3-nafs-hasad",
+      "stage": 2
+    }
+  ]
+}

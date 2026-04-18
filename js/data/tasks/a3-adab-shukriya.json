@@ -1,0 +1,176 @@
+{
+  "id": "a3-adab-shukriya",
+  "category": "adab",
+  "name": {
+    "en": "Saying Thank You",
+    "hi": "शुक्रिया कहना",
+    "ur": "شکریہ کہنا"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 14,
+        "ayah": 7,
+        "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+        "translation": {
+          "en": "If you are grateful, I will surely increase you.",
+          "hi": "अगर तुम शुक्रगुज़ार रहे, तो मैं तुम्हें और ज़्यादा दूँगा।",
+          "ur": "اگر تم شکرگزار رہے، تو میں تمہیں اور زیادہ دوں گا۔"
+        }
+      },
+      "task": {
+        "en": "Today, just notice who does things for you — and whether you acknowledge it. The chai that appears on your desk. The door held open. The call returned. Do you say thank you, or do you just... receive?",
+        "hi": "आज बस ध्यान दो — कौन तुम्हारे लिए कुछ कर रहा है, और तुम उसे मानते हो या नहीं। जो चाय सामने आ जाती है। जो दरवाज़ा कोई खुला रखता है। जो कॉल वापस आती है। शुक्रिया कहते हो — या बस ले लेते हो?",
+        "ur": "آج بس دھیان دو — کون تمہارے لیے کچھ کر رہا ہے، اور تم اسے مانتے ہو یا نہیں۔ جو چائے سامنے آ جاتی ہے۔ جو دروازہ کوئی کھلا رکھتا ہے۔ جو کال واپس آتی ہے۔ شکریہ کہتے ہو — یا بس لے لیتے ہو؟"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: whoever does not thank people has not thanked Allah. Gratitude isn't just a feeling inside — it's a word that needs to travel from your heart to another person's ears. Without that journey, it's incomplete.",
+        "hi": "नबी ﷺ ने फ़रमाया: जो लोगों का शुक्रिया नहीं करता, वो अल्लाह का भी शुक्रगुज़ार नहीं। शुक्रगुज़ारी सिर्फ़ अंदर की फ़ीलिंग नहीं है — यह एक लफ़्ज़ है जो दिल से निकलकर दूसरे के कान तक पहुँचना चाहिए। वो सफ़र पूरा न हो, तो अधूरा है।",
+        "ur": "نبی ﷺ نے فرمایا: جو لوگوں کا شکریہ نہیں کرتا، وہ اللہ کا بھی شکرگزار نہیں۔ شکرگزاری صرف اندر کی feeling نہیں ہے — یہ ایک لفظ ہے جو دل سے نکل کر دوسرے کے کان تک پہنچنا چاہیے۔ وہ سفر پورا نہ ہو، تو ادھورا ہے۔"
+      },
+      "example": {
+        "en": "Your spouse makes dinner every night. You eat, you move on. Tonight: just say it. Not a speech — two words. Watch their face.",
+        "hi": "घर पर खाना रोज़ बनता है। तुम खाते हो, निकल जाते हो। आज रात: बस कह दो। भाषण नहीं — दो लफ़्ज़। उनका चेहरा देखना।",
+        "ur": "گھر پر کھانا روز بنتا ہے۔ تم کھاتے ہو، نکل جاتے ہو۔ آج رات: بس کہہ دو۔ تقریر نہیں — دو لفظ۔ ان کا چہرہ دیکھنا۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 31,
+        "ayah": 12,
+        "arabic": "وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ",
+        "translation": {
+          "en": "And whoever is grateful — is grateful for the benefit of himself.",
+          "hi": "और जो शुक्रगुज़ार होता है, वो अपने ही फ़ायदे के लिए शुक्रगुज़ार होता है।",
+          "ur": "اور جو شکرگزار ہوتا ہے، وہ اپنے ہی فائدے کے لیے شکرگزار ہوتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "Read or listen to something today about shukr in Islam — not a random article, something that actually makes you think. What's the difference between thanking someone and feeling grateful? Are they the same thing?",
+        "hi": "आज इस्लाम में शुक्र के बारे में कुछ पढ़ो या सुनो — कोई रैंडम आर्टिकल नहीं, कुछ ऐसा जो सच में सोचने पर मजबूर करे। किसी को शुक्रिया कहने और शुक्रगुज़ार महसूस करने में फ़र्क़ क्या है? क्या दोनों एक ही हैं?",
+        "ur": "آج اسلام میں شکر کے بارے میں کچھ پڑھو یا سنو — کوئی random آرٹیکل نہیں، کچھ ایسا جو سچ میں سوچنے پر مجبور کرے۔ کسی کو شکریہ کہنے اور شکرگزار محسوس کرنے میں فرق کیا ہے؟ کیا دونوں ایک ہی ہیں؟"
+      },
+      "hikmah": {
+        "en": "Shukr in Arabic comes from a root that means to recognise and acknowledge. Not just feel. You can feel grateful your whole life and never once make the person in front of you know it. That recognition — spoken out loud — is what completes it.",
+        "hi": "अरबी में 'शुक्र' उस जड़ से आता है जिसका मतलब है पहचानना और मानना। सिर्फ़ महसूस करना नहीं। पूरी ज़िंदगी शुक्रगुज़ार महसूस कर सकते हो और सामने वाले को कभी पता न चले। वो पहचान — ज़ोर से बोलकर — यही उसे मुकम्मल करती है।",
+        "ur": "عربی میں 'شکر' اس جڑ سے آتا ہے جس کا مطلب ہے پہچاننا اور ماننا۔ صرف محسوس کرنا نہیں۔ پوری زندگی شکرگزار محسوس کر سکتے ہو اور سامنے والے کو کبھی پتا نہ چلے۔ وہ پہچان — زور سے بول کر — یہی اسے مکمل کرتی ہے۔"
+      },
+      "example": {
+        "en": "Think of the person in your life who thanks you the most. How does their gratitude make you feel? Now think: who in your life feels that way because of you?",
+        "hi": "उस इंसान के बारे में सोचो जो तुम्हारी ज़िंदगी में सबसे ज़्यादा शुक्रिया कहता है। उनकी शुक्रगुज़ारी से तुम्हें कैसा लगता है? अब सोचो: तुम्हारी वजह से किसे ऐसा लगता है?",
+        "ur": "اس انسان کے بارے میں سوچو جو تمہاری زندگی میں سب سے زیادہ شکریہ کہتا ہے۔ ان کی شکرگزاری سے تمہیں کیسا لگتا ہے؟ اب سوچو: تمہاری وجہ سے کسے ایسا لگتا ہے؟"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 93,
+        "ayah": 11,
+        "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "translation": {
+          "en": "And as for the favour of your Lord — speak of it.",
+          "hi": "और अपने रब की नेमत का ज़िक्र करो।",
+          "ur": "اور اپنے رب کی نعمت کا ذکر کرو۔"
+        }
+      },
+      "task": {
+        "en": "Today, say thank you to three people — and make it specific. Not 'thanks yaar' but 'thank you for staying back with me yesterday, that actually helped.' Specific gratitude lands differently. Try it.",
+        "hi": "आज तीन लोगों को शुक्रिया कहो — और बताओ क्यों। 'थैंक्स यार' नहीं, बल्कि 'कल तुम मेरे साथ रुके, इससे सच में फ़र्क़ पड़ा।' ख़ास शुक्रिया अलग तरह से पहुँचता है। देखो।",
+        "ur": "آج تین لوگوں کو شکریہ کہو — اور بتاؤ کیوں۔ 'تھینکس یار' نہیں، بلکہ 'کل تم میرے ساتھ رکے، اس سے سچ میں فرق پڑا۔' خاص شکریہ الگ طرح سے پہنچتا ہے۔ دیکھو۔"
+      },
+      "hikmah": {
+        "en": "Generic thanks is background noise. Specific thanks is a spotlight. When you tell someone exactly what they did and why it mattered, you're not just being polite — you're seeing them. And being truly seen is what every human is hungry for.",
+        "hi": "आम शुक्रिया शोर है। ख़ास शुक्रिया रोशनी है। जब तुम किसी को बताते हो कि उन्होंने ठीक क्या किया और क्यों मायने रखा — तुम बस तहज़ीब नहीं दिखा रहे, तुम उन्हें देख रहे हो। और सच में देखा जाना — यही हर इंसान की भूख है।",
+        "ur": "عام شکریہ شور ہے۔ خاص شکریہ روشنی ہے۔ جب تم کسی کو بتاتے ہو کہ انہوں نے ٹھیک کیا کیا اور کیوں مایہ رکھا — تم بس تہذیب نہیں دکھا رہے، تم انہیں دیکھ رہے ہو۔ اور سچ میں دیکھا جانا — یہی ہر انسان کی بھوک ہے۔"
+      },
+      "example": {
+        "en": "Your colleague covers for you in a meeting. You'd normally just nod. Today: find them before end of day and say exactly what they did and what it meant. Not an email — in person, or at least a voice note.",
+        "hi": "साथी ने मीटिंग में तुम्हें cover किया। आम तौर पर बस सिर हिला देते। आज: दिन ख़त्म होने से पहले उन्हें ढूँढो और ठीक बताओ उन्होंने क्या किया और क्या मायने रखा। ईमेल नहीं — आमने-सामने, या कम से कम वॉयस नोट।",
+        "ur": "ساتھی نے میٹنگ میں تمہیں cover کیا۔ عام طور پر بس سر ہلا دیتے۔ آج: دن ختم ہونے سے پہلے انہیں ڈھونڈو اور ٹھیک بتاؤ انہوں نے کیا کیا اور کیا مایہ رکھا۔ ای میل نہیں — آمنے سامنے، یا کم از کم وائس نوٹ۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 2,
+        "ayah": 152,
+        "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+        "translation": {
+          "en": "Remember Me and I will remember you. Be grateful to Me and do not deny Me.",
+          "hi": "मुझे याद करो, मैं तुम्हें याद करूँगा। मेरा शुक्र करो और नाशुक्री मत करो।",
+          "ur": "مجھے یاد کرو، میں تمہیں یاد کروں گا۔ میرا شکر کرو اور ناشکری مت کرو۔"
+        }
+      },
+      "task": {
+        "en": "This week: end every day by naming three things you're grateful for — but not the same three. New ones each day. And at least once, tell a person directly rather than just writing it in your head.",
+        "hi": "इस हफ़्ते: हर दिन सोने से पहले तीन चीज़ें बताओ जिनका तुम शुक्रगुज़ार हो — लेकिन एक ही तीन नहीं। रोज़ नई। और कम से कम एक बार — किसी इंसान को सीधे बताओ, बस दिमाग़ में मत लिखो।",
+        "ur": "اس ہفتے: ہر دن سونے سے پہلے تین چیزیں بتاؤ جن کا تم شکرگزار ہو — لیکن ایک ہی تین نہیں۔ روز نئی۔ اور کم از کم ایک بار — کسی انسان کو سیدھے بتاؤ، بس دماغ میں مت لکھو۔"
+      },
+      "hikmah": {
+        "en": "The brain is wired to notice problems — it's a survival mechanism. Gratitude is the practice of rewiring it to notice what's working. This isn't just self-help language. Allah calls it shukr, and He says He will increase the one who does it. That's a promise.",
+        "hi": "दिमाग़ मसलों को नोटिस करने के लिए बना है — यह बचने का तरीक़ा है। शुक्रगुज़ारी उसे दोबारा बनाने की प्रैक्टिस है — जो काम कर रहा है उसे देखने के लिए। यह सिर्फ़ self-help बात नहीं। अल्लाह इसे शुक्र कहता है, और वो कहता है — करने वाले को और ज़्यादा दूँगा। यह वादा है।",
+        "ur": "دماغ مسائل کو نوٹس کرنے کے لیے بنا ہے — یہ بچنے کا طریقہ ہے۔ شکرگزاری اسے دوبارہ بنانے کی practice ہے — جو کام کر رہا ہے اسے دیکھنے کے لیے۔ یہ صرف self-help بات نہیں۔ اللہ اسے شکر کہتا ہے، اور وہ کہتا ہے — کرنے والے کو اور زیادہ دوں گا۔ یہ وعدہ ہے۔"
+      },
+      "example": {
+        "en": "Day 3 of the week, you're stuck. 'I've already thanked everyone, I have nothing new.' Good — that friction is the point. Push through it. You'll find something you'd been walking past every day without seeing.",
+        "hi": "हफ़्ते का तीसरा दिन, अटक गए। 'सबको शुक्रिया कह दिया, अब कुछ नया नहीं।' अच्छा — यही घर्षण तो मक़सद है। आगे बढ़ो। कुछ मिलेगा जो रोज़ सामने से गुज़रता था और नज़र नहीं आता था।",
+        "ur": "ہفتے کا تیسرا دن، پھنس گئے۔ 'سب کو شکریہ کہہ دیا، اب کچھ نیا نہیں۔' اچھا — یہی رگڑ تو مقصد ہے۔ آگے بڑھو۔ کچھ ملے گا جو روز سامنے سے گزرتا تھا اور نظر نہیں آتا تھا۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 55,
+        "ayah": 13,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "translation": {
+          "en": "So which of the favours of your Lord would you deny?",
+          "hi": "तो तुम अपने रब की किस-किस नेमत को झुठलाओगे?",
+          "ur": "تو تم اپنے رب کی کس کس نعمت کو جھٹلاؤ گے؟"
+        }
+      },
+      "task": {
+        "en": "This week, start a small gratitude practice in your home or with one friend. Not a WhatsApp forward. Something live: at dinner, each person names one thing from the day. Or a voice note to a friend: 'Yaar, I've been trying this and it's doing something to me…'",
+        "hi": "इस हफ़्ते, घर में या किसी एक दोस्त के साथ एक छोटी शुक्रगुज़ारी की प्रैक्टिस शुरू करो। व्हाट्सएप फ़ॉरवर्ड नहीं। कुछ ज़िंदा: खाने पर हर कोई दिन की एक चीज़ बताए। या दोस्त को वॉयस नोट: 'यार, मैं यह आज़माओ कर रहा था और इससे कुछ हो रहा है मुझे…'",
+        "ur": "اس ہفتے، گھر میں یا کسی ایک دوست کے ساتھ ایک چھوٹی شکرگزاری کی practice شروع کرو۔ واٹس ایپ فارورڈ نہیں۔ کچھ زندہ: کھانے پر ہر کوئی دن کی ایک چیز بتائے۔ یا دوست کو وائس نوٹ: 'یار، میں یہ آزماؤ کر رہا تھا اور اس سے کچھ ہو رہا ہے مجھے…'"
+      },
+      "hikmah": {
+        "en": "A home where people name their blessings out loud becomes a different kind of home. The children who grow up in it carry that lens for life. You're not just building a habit — you're building an atmosphere. One dinner conversation at a time.",
+        "hi": "जिस घर में लोग ज़ोर से अपनी नेमतें गिनते हैं, वो घर अलग क़िस्म का हो जाता है। उसमें पलने वाले बच्चे वो नज़रिया ज़िंदगी भर साथ ले जाते हैं। तुम सिर्फ़ आदत नहीं बना रहे — तुम एक फ़िज़ा बना रहे हो। एक-एक खाने की बातचीत से।",
+        "ur": "جس گھر میں لوگ زور سے اپنی نعمتیں گنتے ہیں، وہ گھر الگ قسم کا ہو جاتا ہے۔ اس میں پلنے والے بچے وہ نظریہ زندگی بھر ساتھ لے جاتے ہیں۔ تم صرف عادت نہیں بنا رہے — تم ایک فضا بنا رہے ہو۔ ایک ایک کھانے کی گفتگو سے۔"
+      },
+      "example": {
+        "en": "Your family thinks you've gone a bit 'religious'. Don't announce it. Just start. Put your phone down at dinner, ask: 'Kuch acha hua aaj?' Let the habit speak before you explain it.",
+        "hi": "घर वाले सोचते हैं थोड़ा 'religious' हो गए हो। ऐलान मत करो। बस शुरू करो। खाने पर फ़ोन रखो, पूछो: 'कुछ अच्छा हुआ आज?' आदत को पहले बोलने दो, फिर समझाना।",
+        "ur": "گھر والے سوچتے ہیں تھوڑا 'religious' ہو گئے ہو۔ اعلان مت کرو۔ بس شروع کرو۔ کھانے پر فون رکھو، پوچھو: 'کچھ اچھا ہوا آج؟' عادت کو پہلے بولنے دو، پھر سمجھانا۔"
+      }
+    }
+  ]
+}

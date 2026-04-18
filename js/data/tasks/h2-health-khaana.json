@@ -1,0 +1,151 @@
+{
+  "id": "h2-health-khaana",
+  "category": "health",
+  "name": {
+    "en": "What You Eat",
+    "hi": "क्या खाते हो",
+    "ur": "کیا کھاتے ہو"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 7, "ayah": 31,
+        "arabic": "وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+        "translation": {
+          "en": "Eat and drink, but do not be excessive — He does not like those who are excessive.",
+          "hi": "खाओ और पियो, और इसराफ़ मत करो — वो इसराफ़ करने वालों को पसंद नहीं करता।",
+          "ur": "کھاؤ اور پیو، اور اسراف مت کرو — وہ اسراف کرنے والوں کو پسند نہیں کرتا۔"
+        }
+      },
+      "task": {
+        "en": "Today, just notice how you eat — not what, but how. Do you eat in a hurry? Standing up? While looking at a screen? Do you taste your food? Do you say Bismillah and mean it — or is it automatic? Just watch yourself eat today. One meal, full attention.",
+        "hi": "आज बस नोटिस करो कि कैसे खाते हो — क्या नहीं, कैसे। जल्दी में खाते हो? खड़े होकर? screen देखते हुए? खाने का स्वाद लेते हो? Bismillah कहते हो और मतलब होता है — या automatic है? आज ख़ुद को खाते हुए देखो। एक खाना, पूरा ध्यान।",
+        "ur": "آج بس نوٹس کرو کہ کیسے کھاتے ہو — کیا نہیں، کیسے۔ جلدی میں کھاتے ہو؟ کھڑے ہو کر؟ screen دیکھتے ہوئے؟ کھانے کا ذائقہ لیتے ہو؟ بسم اللہ کہتے ہو اور مطلب ہوتا ہے — یا automatic ہے؟ آج خود کو کھاتے ہوئے دیکھو۔ ایک کھانا، پورا دھیان۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ never criticised food. If he liked it, he ate it. If he didn't, he left it quietly without complaint. He ate slowly, chewed properly, and stopped before full. These aren't manners for the sake of it — they are the body's natural signals being respected. Most of us eat so fast we override those signals entirely.",
+        "hi": "नबी ﷺ ने कभी खाने की बुराई नहीं की। पसंद आया, खाया। नहीं आया, चुपचाप छोड़ दिया बिना शिकायत के। धीरे खाते थे, ठीक से चबाते थे, भरने से पहले रोक देते थे। यह सिर्फ़ तहज़ीब के लिए नहीं है — यह जिस्म के natural signals का सम्मान है। हम में से ज़्यादातर इतनी जल्दी खाते हैं कि उन signals को पूरी तरह override कर देते हैं।",
+        "ur": "نبی ﷺ نے کبھی کھانے کی برائی نہیں کی۔ پسند آیا، کھایا۔ نہیں آیا، چپ چاپ چھوڑ دیا بغیر شکایت کے۔ آہستہ کھاتے تھے، ٹھیک سے چباتے تھے، بھرنے سے پہلے روک دیتے تھے۔ یہ صرف تہذیب کے لیے نہیں ہے — یہ جسم کے natural signals کا احترام ہے۔ ہم میں سے زیادہ تر اتنی جلدی کھاتے ہیں کہ ان signals کو پوری طرح override کر دیتے ہیں۔"
+      },
+      "example": {
+        "en": "Lunch today. Put the phone face-down. Sit properly. Say Bismillah — slowly. Take the first bite and actually taste it. Chew. Pause between bites. This will feel strange at first because we've made eating into a background activity. It's not. It's an act of gratitude.",
+        "hi": "आज लंच। फ़ोन उल्टा रखो। ठीक से बैठो। Bismillah कहो — धीरे से। पहला निवाला लो और सच में चखो। चबाओ। निवालों के बीच रुको। यह शुरुआत में अजीब लगेगा क्योंकि हमने खाने को background activity बना दिया है। यह है नहीं। यह शुक्र का एक अमल है।",
+        "ur": "آج لنچ۔ فون الٹا رکھو۔ ٹھیک سے بیٹھو۔ بسم اللہ کہو — آہستہ سے۔ پہلا نوالہ لو اور سچ میں چکھو۔ چباؤ۔ نوالوں کے درمیان رکو۔ یہ شروع میں عجیب لگے گا کیونکہ ہم نے کھانے کو background activity بنا دیا ہے۔ یہ ہے نہیں۔ یہ شکر کا ایک عمل ہے۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 80, "ayah": 24,
+        "arabic": "فَلْيَنظُرِ الْإِنسَانُ إِلَىٰ طَعَامِهِ",
+        "translation": {
+          "en": "Let man look at his food.",
+          "hi": "इंसान अपने खाने पर नज़र करे।",
+          "ur": "انسان اپنے کھانے پر نظر کرے۔"
+        }
+      },
+      "task": {
+        "en": "Learn the hadith of the three thirds — a third for food, a third for water, a third for breath. Then look at what you actually eat in a day. Not to count calories — to notice patterns. Do you eat a third's worth, or much more? When do you eat out of hunger, and when out of boredom, stress, or habit?",
+        "hi": "तीन तिहाई की हदीस सीखो — एक तिहाई खाने के लिए, एक तिहाई पानी के लिए, एक तिहाई साँस के लिए। फिर देखो दिन में असल में क्या खाते हो। calories गिनने के लिए नहीं — patterns नोटिस करने के लिए। क्या तिहाई भर खाते हो, या बहुत ज़्यादा? कब भूख से खाते हो, और कब बोरियत, stress, या आदत से?",
+        "ur": "تین تہائی کی حدیث سیکھو — ایک تہائی کھانے کے لیے، ایک تہائی پانی کے لیے، ایک تہائی سانس کے لیے۔ پھر دیکھو دن میں اصل میں کیا کھاتے ہو۔ calories گننے کے لیے نہیں — patterns نوٹس کرنے کے لیے۔ کیا تہائی بھر کھاتے ہو، یا بہت زیادہ؟ کب بھوک سے کھاتے ہو، اور کب بوریت، stress، یا عادت سے؟"
+      },
+      "hikmah": {
+        "en": "The stomach is the house of every illness, according to a well-known wisdom — and modern medicine increasingly agrees. What we eat affects mood, focus, inflammation, immunity, and sleep. The body is an amanat, and feeding it thoughtlessly is like being careless with something that belongs to someone else. You are the custodian of this body. Allah owns it.",
+        "hi": "एक मशहूर हिकमत के मुताबिक़ पेट हर बीमारी का घर है — और modern medicine तेज़ी से इससे सहमत हो रही है। हम क्या खाते हैं यह mood, focus, inflammation, immunity, और नींद पर असर डालता है। जिस्म अमानत है, और इसे लापरवाही से खिलाना ऐसे है जैसे किसी की चीज़ के साथ लापरवाह हो। तुम इस जिस्म के custodian हो। इसका मालिक अल्लाह है।",
+        "ur": "ایک مشہور حکمت کے مطابق پیٹ ہر بیماری کا گھر ہے — اور modern medicine تیزی سے اس سے متفق ہو رہی ہے۔ ہم کیا کھاتے ہیں یہ mood، focus، inflammation، immunity، اور نیند پر اثر ڈالتا ہے۔ جسم امانت ہے، اور اسے لاپرواہی سے کھلانا ایسے ہے جیسے کسی کی چیز کے ساتھ لاپرواہ ہو۔ تم اس جسم کے custodian ہو۔ اس کا مالک اللہ ہے۔"
+      },
+      "example": {
+        "en": "You eat well at mealtimes. But at 10pm, stressed from the day, the kitchen calls. What are you actually hungry for in that moment? Usually not food. Usually: rest, or calm, or something to hold. Today: the next time you eat outside of a meal, pause and ask — what am I actually looking for right now?",
+        "hi": "खाने के वक़्त ठीक से खाते हो। लेकिन रात 10 बजे, दिन की थकान से, kitchen बुलाती है। उस पल असल में किस चीज़ की भूख है? आम तौर पर खाने की नहीं। आम तौर पर: आराम, या सुकून, या कुछ पकड़ने के लिए। आज: जब भी खाने के बाहर खाओ, रुको और पूछो — अभी असल में मुझे क्या चाहिए?",
+        "ur": "کھانے کے وقت ٹھیک سے کھاتے ہو۔ لیکن رات 10 بجے، دن کی تھکان سے، kitchen بلاتی ہے۔ اس پل اصل میں کس چیز کی بھوک ہے؟ عام طور پر کھانے کی نہیں۔ عام طور پر: آرام، یا سکون، یا کچھ پکڑنے کے لیے۔ آج: جب بھی کھانے کے باہر کھاؤ، رکو اور پوچھو — ابھی اصل میں مجھے کیا چاہیے؟"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 2, "ayah": 168,
+        "arabic": "يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا",
+        "translation": {
+          "en": "O people, eat from what is on earth — lawful and good.",
+          "hi": "ऐ लोगो, ज़मीन में जो है उसमें से खाओ — हलाल और पाकीज़ा।",
+          "ur": "اے لوگو، زمین میں جو ہے اس میں سے کھاؤ — حلال اور پاکیزہ۔"
+        }
+      },
+      "task": {
+        "en": "Today: eat one meal sitting down, without any screen, with Bismillah and Alhamdulillah. No exceptions for that one meal. Also: leave a little on your plate — practice not finishing everything just because it's there. The Prophet ﷺ said stop before you are full. Today, try that once.",
+        "hi": "आज: एक खाना बैठकर खाओ, बिना किसी screen के, Bismillah और Alhamdulillah के साथ। उस एक खाने के लिए कोई exception नहीं। साथ में: थाली में थोड़ा छोड़ो — practice करो कि सिर्फ़ इसलिए सब नहीं खाना कि है। नबी ﷺ ने फ़रमाया पेट भरने से पहले रोको। आज एक बार try करो।",
+        "ur": "آج: ایک کھانا بیٹھ کر کھاؤ، بغیر کسی screen کے، بسم اللہ اور الحمدللہ کے ساتھ۔ اس ایک کھانے کے لیے کوئی exception نہیں۔ ساتھ میں: تھالی میں تھوڑا چھوڑو — practice کرو کہ صرف اس لیے سب نہیں کھانا کہ ہے۔ نبی ﷺ نے فرمایا پیٹ بھرنے سے پہلے روکو۔ آج ایک بار try کرو۔"
+      },
+      "hikmah": {
+        "en": "Bismillah before eating is not a ritual box to tick. It is a moment of connection — acknowledging that this food came through a chain of people, animals, rain, soil, and ultimately Allah's permission. Alhamdulillah after is closing that loop. When you say both and mean them, you have turned an ordinary meal into an act of worship. Three times a day, every day.",
+        "hi": "खाने से पहले Bismillah एक checkbox ritual नहीं है। यह जुड़ने का पल है — यह मानना कि यह खाना लोगों, जानवरों, बारिश, मिट्टी, और आख़िरकार अल्लाह की इजाज़त की एक chain से आया। बाद में Alhamdulillah उस loop को बंद करना है। जब तुम दोनों कहते हो और मतलब होता है, तुमने एक आम खाने को इबादत का अमल बना दिया। दिन में तीन बार, रोज़।",
+        "ur": "کھانے سے پہلے بسم اللہ ایک checkbox ritual نہیں ہے۔ یہ جڑنے کا پل ہے — یہ ماننا کہ یہ کھانا لوگوں، جانوروں، بارش، مٹی، اور آخرکار اللہ کی اجازت کی ایک chain سے آیا۔ بعد میں الحمدللہ اس loop کو بند کرنا ہے۔ جب تم دونوں کہتے ہو اور مطلب ہوتا ہے، تم نے ایک عام کھانے کو عبادت کا عمل بنا دیا۔ دن میں تین بار، روز۔"
+      },
+      "example": {
+        "en": "Family dinner tonight. Everyone sits. No phones. You say Bismillah out loud — clearly, not mumbled. The children hear it. You eat without rushing. At the end, you say Alhamdulillah. Nobody says anything about it. But the meal felt different. That difference is what you're building.",
+        "hi": "आज रात family dinner। सब बैठते हैं। No phones। Bismillah ज़ोर से कहते हो — clearly, बुदबुदाते नहीं। बच्चे सुनते हैं। जल्दी के बिना खाते हो। अंत में Alhamdulillah कहते हो। कोई कुछ नहीं कहता। लेकिन खाना अलग feel हुआ। वो फ़र्क़ ही वो है जो तुम बना रहे हो।",
+        "ur": "آج رات family dinner۔ سب بیٹھتے ہیں۔ No phones۔ بسم اللہ زور سے کہتے ہو — clearly، بڑبڑاتے نہیں۔ بچے سنتے ہیں۔ جلدی کے بغیر کھاتے ہو۔ آخر میں الحمدللہ کہتے ہو۔ کوئی کچھ نہیں کہتا۔ لیکن کھانا الگ feel ہوا۔ وہ فرق ہی وہ ہے جو تم بنا رہے ہو۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 5, "ayah": 88,
+        "arabic": "وَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا",
+        "translation": {
+          "en": "And eat from what Allah has provided for you — lawful and good.",
+          "hi": "और अल्लाह ने तुम्हें जो रिज़्क़ दिया है उसमें से खाओ — हलाल और पाकीज़ा।",
+          "ur": "اور اللہ نے تمہیں جو رزق دیا ہے اس میں سے کھاؤ — حلال اور پاکیزہ۔"
+        }
+      },
+      "task": {
+        "en": "This week: one simple change to how you eat — not what you eat. Choose one: eat every meal sitting down with no screen. Or always say Bismillah consciously. Or stop eating when 80% full for every meal. Just one. Stick to it for seven days. One change, consistently, is worth more than ten changes for one day.",
+        "hi": "इस हफ़्ते: कैसे खाते हो उसमें एक सरल बदलाव — क्या खाते हो नहीं। एक चुनो: हर खाना बैठकर बिना screen के खाओ। या हमेशा होशपूर्वक Bismillah कहो। या हर खाने में 80% भरने पर रुको। बस एक। सात दिन इस पर रहो। एक बदलाव, consistently, दस बदलावों से बेहतर है जो एक दिन किए।",
+        "ur": "اس ہفتے: کیسے کھاتے ہو اس میں ایک سادہ بدلاؤ — کیا کھاتے ہو نہیں۔ ایک چنو: ہر کھانا بیٹھ کر بغیر screen کے کھاؤ۔ یا ہمیشہ ہوش سے بسم اللہ کہو۔ یا ہر کھانے میں 80% بھرنے پر رکو۔ بس ایک۔ سات دن اس پر رہو۔ ایک بدلاؤ، consistently، دس بدلاؤوں سے بہتر ہے جو ایک دن کیے۔"
+      },
+      "hikmah": {
+        "en": "The middle path in eating is not about a diet — it is about consciousness. Tayyib doesn't just mean permissible; it means good, pure, wholesome. When Allah says halalan tayyiba, He is inviting us to be thoughtful about what we put into our bodies, not just legal about it. Food chosen with care is an act of respect for the amanat you were given.",
+        "hi": "खाने में मध्य मार्ग किसी diet के बारे में नहीं है — यह होश के बारे में है। तय्यिब का मतलब सिर्फ़ जायज़ नहीं है; इसका मतलब है अच्छा, पाक, wholesome। जब अल्लाह कहता है हलालन तय्यिबा, वो हमें उस बारे में सोचने की दावत दे रहा है जो हम जिस्म में डालते हैं, सिर्फ़ legal की जाँच नहीं। सोच-समझकर चुना गया खाना उस अमानत के लिए सम्मान का अमल है जो दी गई।",
+        "ur": "کھانے میں درمیانی راہ کسی diet کے بارے میں نہیں ہے — یہ ہوش کے بارے میں ہے۔ طیب کا مطلب صرف جائز نہیں ہے؛ اس کا مطلب ہے اچھا، پاک، wholesome۔ جب اللہ کہتا ہے حلالاً طیباً، وہ ہمیں اس کے بارے میں سوچنے کی دعوت دے رہا ہے جو ہم جسم میں ڈالتے ہیں، صرف legal کی جانچ نہیں۔ سوچ سمجھ کر چنا گیا کھانا اس امانت کے لیے احترام کا عمل ہے جو دی گئی۔"
+      },
+      "example": {
+        "en": "Mid-week, you're eating in the car between meetings. You forgot your commitment. You catch yourself. You don't spiral into guilt — you just say Bismillah now, slow down slightly, and move on. The habit is not broken by one meal. It's built by returning after the slip, not punishing the slip.",
+        "hi": "हफ़्ते के बीच में, meetings के बीच गाड़ी में खा रहे हो। अपना वादा भूल गए। पकड़ते हो ख़ुद को। guilt में नहीं डूबते — बस अभी Bismillah कहते हो, थोड़ा धीमे होते हो, और आगे बढ़ते हो। एक खाने से आदत नहीं टूटती। वो चूक के बाद वापस आने से बनती है, चूक को सज़ा देने से नहीं।",
+        "ur": "ہفتے کے بیچ میں، meetings کے درمیان گاڑی میں کھا رہے ہو۔ اپنا وعدہ بھول گئے۔ پکڑتے ہو خود کو۔ guilt میں نہیں ڈوبتے — بس ابھی بسم اللہ کہتے ہو، تھوڑا سست ہوتے ہو، اور آگے بڑھتے ہو۔ ایک کھانے سے عادت نہیں ٹوٹتی۔ وہ چوک کے بعد واپس آنے سے بنتی ہے، چوک کو سزا دینے سے نہیں۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 16, "ayah": 114,
+        "arabic": "فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ",
+        "translation": {
+          "en": "So eat of what Allah has provided for you — lawful and good — and be grateful for the favour of Allah.",
+          "hi": "तो जो अल्लाह ने तुम्हें दिया है उसमें से खाओ — हलाल और पाकीज़ा — और अल्लाह की नेमत का शुक्र करो।",
+          "ur": "تو جو اللہ نے تمہیں دیا ہے اس میں سے کھاؤ — حلال اور پاکیزہ — اور اللہ کی نعمت کا شکر کرو۔"
+        }
+      },
+      "task": {
+        "en": "This week: make one meal together a real shared experience — no phones, everyone present, someone says Bismillah, someone says Alhamdulillah at the end. Even if it lasts 15 minutes. Especially if the family is used to eating in front of screens. You don't have to announce a new rule. Just do it, and see what follows.",
+        "hi": "इस हफ़्ते: एक खाना मिलकर एक सच्चा साझा तजुर्बा बनाओ — no phones, सब present, कोई Bismillah कहे, कोई आख़िर में Alhamdulillah। चाहे 15 मिनट के लिए हो। ख़ास तौर पर अगर family screens के सामने खाने की आदी हो। कोई नया rule announce नहीं करना। बस करो, और देखो क्या होता है।",
+        "ur": "اس ہفتے: ایک کھانا مل کر ایک سچا مشترکہ تجربہ بناؤ — no phones، سب present، کوئی بسم اللہ کہے، کوئی آخر میں الحمدللہ۔ چاہے 15 منٹ کے لیے ہو۔ خاص طور پر اگر family screens کے سامنے کھانے کی عادی ہو۔ کوئی نیا rule announce نہیں کرنا۔ بس کرو، اور دیکھو کیا ہوتا ہے۔"
+      },
+      "hikmah": {
+        "en": "The table is one of the most underused tools for building a family. Every culture that has stayed together has a strong meal culture. In Islam, eating together is Sunnah — and when you eat together with consciousness and gratitude, you are passing something to your children that no school can teach. They learn it by sitting with you and watching you.",
+        "hi": "खाने की मेज़ परिवार बनाने के सबसे कम इस्तेमाल किए गए ज़रियों में से एक है। हर वो तहज़ीब जो साथ रही है उसकी खाने की संस्कृति मज़बूत है। इस्लाम में साथ खाना Sunnah है — और जब तुम होश और शुक्र के साथ साथ खाते हो, तुम बच्चों को कुछ दे रहे हो जो कोई स्कूल नहीं सिखा सकता। वो तुम्हारे साथ बैठकर और तुम्हें देखकर सीखते हैं।",
+        "ur": "کھانے کی میز خاندان بنانے کے سب سے کم استعمال کیے گئے ذریعوں میں سے ایک ہے۔ ہر وہ تہذیب جو ساتھ رہی ہے اس کی کھانے کی ثقافت مضبوط ہے۔ اسلام میں ساتھ کھانا Sunnah ہے — اور جب تم ہوش اور شکر کے ساتھ ساتھ کھاتے ہو، تم بچوں کو کچھ دے رہے ہو جو کوئی سکول نہیں سکھا سکتا۔ وہ تمہارے ساتھ بیٹھ کر اور تمہیں دیکھ کر سیکھتے ہیں۔"
+      },
+      "example": {
+        "en": "The first shared meal without phones, someone will reach for theirs out of habit. Don't comment. Don't point. Just stay present yourself. The second time, they won't reach. The third time, they'll put it away before sitting down. That is how atmosphere is built — not by announcing, but by being.",
+        "hi": "बिना phones के पहले साझे खाने पर, कोई आदतन अपना उठाएगा। comment मत करो। इशारा मत करो। बस ख़ुद present रहो। दूसरी बार, वो नहीं उठाएंगे। तीसरी बार, बैठने से पहले ख़ुद रख देंगे। ऐसे माहौल बनता है — announce करके नहीं, बल्कि होकर।",
+        "ur": "بغیر phones کے پہلے مشترکہ کھانے پر، کوئی عادتاً اپنا اٹھائے گا۔ comment مت کرو۔ اشارہ مت کرو۔ بس خود present رہو۔ دوسری بار، وہ نہیں اٹھائیں گے۔ تیسری بار، بیٹھنے سے پہلے خود رکھ دیں گے۔ ایسے ماحول بنتا ہے — announce کر کے نہیں، بلکہ ہو کر۔"
+      }
+    }
+  ]
+}

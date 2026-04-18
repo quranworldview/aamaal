@@ -1,0 +1,179 @@
+{
+  "month_key": "rabi-al-thani",
+  "month_number": 7,
+  "hijri_year": 1447,
+  "theme": {
+    "en": "Sabr — React Less, Respond More",
+    "hi": "सब्र — कम react करो, ज़्यादा सोचकर जवाब दो",
+    "ur": "صبر — کم react کرو، زیادہ سوچ کر جواب دو"
+  },
+  "theme_arabic": "صَبْر",
+  "theme_ayah": {
+    "surah": 2,
+    "ayah": 153,
+    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "translation": {
+      "en": "Indeed, Allah is with the patient.",
+      "hi": "बेशक अल्लाह सब्र करने वालों के साथ है।",
+      "ur": "بے شک اللہ صبر کرنے والوں کے ساتھ ہے۔"
+    }
+  },
+  "month_question": {
+    "en": "Where in my life am I reacting instead of responding — and what is it costing me?",
+    "hi": "ज़िंदगी में कहाँ react कर रहा हूँ सोचकर जवाब देने की जगह — और इसकी क्या क़ीमत है?",
+    "ur": "زندگی میں کہاں react کر رہا ہوں سوچ کر جواب دینے کی جگہ — اور اس کی کیا قیمت ہے؟"
+  },
+  "total_days": 30,
+  "days": [
+    {
+      "day": 1,
+      "task_id": "a1-adab-zubaan",
+      "stage": 1
+    },
+    {
+      "day": 2,
+      "task_id": "a2-adab-salaam",
+      "stage": 1
+    },
+    {
+      "day": 3,
+      "task_id": "a3-adab-shukriya",
+      "stage": 1
+    },
+    {
+      "day": 4,
+      "task_id": "a4-adab-maafi",
+      "stage": 1
+    },
+    {
+      "day": 5,
+      "task_id": "a5-adab-taarif",
+      "stage": 1
+    },
+    {
+      "day": 6,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 1
+    },
+    {
+      "day": 7,
+      "task_id": "n2-nafs-kibr",
+      "stage": 1
+    },
+    {
+      "day": 8,
+      "task_id": "n3-nafs-hasad",
+      "stage": 1
+    },
+    {
+      "day": 9,
+      "task_id": "n4-nafs-riya",
+      "stage": 1
+    },
+    {
+      "day": 10,
+      "task_id": "n5-nafs-muhasaba",
+      "stage": 1
+    },
+    {
+      "day": 11,
+      "task_id": "h1-health-neend",
+      "stage": 1
+    },
+    {
+      "day": 12,
+      "task_id": "h2-health-khaana",
+      "stage": 1
+    },
+    {
+      "day": 13,
+      "task_id": "h3-health-harkat",
+      "stage": 1
+    },
+    {
+      "day": 14,
+      "task_id": "h4-health-bimari",
+      "stage": 1
+    },
+    {
+      "day": 15,
+      "task_id": "h5-health-zehn",
+      "stage": 1
+    },
+    {
+      "day": 16,
+      "task_id": "c1-clean-tahara",
+      "stage": 1
+    },
+    {
+      "day": 17,
+      "task_id": "c2-clean-jism",
+      "stage": 1
+    },
+    {
+      "day": 18,
+      "task_id": "c3-clean-ghar",
+      "stage": 1
+    },
+    {
+      "day": 19,
+      "task_id": "c4-clean-dil",
+      "stage": 1
+    },
+    {
+      "day": 20,
+      "task_id": "c5-clean-mahol",
+      "stage": 1
+    },
+    {
+      "day": 21,
+      "task_id": "a1-adab-zubaan",
+      "stage": 2
+    },
+    {
+      "day": 22,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 2
+    },
+    {
+      "day": 23,
+      "task_id": "h1-health-neend",
+      "stage": 2
+    },
+    {
+      "day": 24,
+      "task_id": "c1-clean-tahara",
+      "stage": 2
+    },
+    {
+      "day": 25,
+      "task_id": "a2-adab-salaam",
+      "stage": 2
+    },
+    {
+      "day": 26,
+      "task_id": "n2-nafs-kibr",
+      "stage": 2
+    },
+    {
+      "day": 27,
+      "task_id": "h2-health-khaana",
+      "stage": 2
+    },
+    {
+      "day": 28,
+      "task_id": "c2-clean-jism",
+      "stage": 2
+    },
+    {
+      "day": 29,
+      "task_id": "a3-adab-shukriya",
+      "stage": 2
+    },
+    {
+      "day": 30,
+      "task_id": "n3-nafs-hasad",
+      "stage": 2
+    }
+  ]
+}

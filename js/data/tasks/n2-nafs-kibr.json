@@ -1,0 +1,176 @@
+{
+  "id": "n2-nafs-kibr",
+  "category": "nafs",
+  "name": {
+    "en": "Dealing with Pride",
+    "hi": "घमंड से लड़ना",
+    "ur": "غرور سے لڑنا"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 31,
+        "ayah": 18,
+        "arabic": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا",
+        "translation": {
+          "en": "And do not turn your cheek away from people, and do not walk through the earth exultantly.",
+          "hi": "और लोगों से मुँह मत फेरो, और ज़मीन पर इतराते हुए मत चलो।",
+          "ur": "اور لوگوں سے منہ مت پھیرو، اور زمین پر اتراتے ہوئے مت چلو۔"
+        }
+      },
+      "task": {
+        "en": "Today, just notice: when do you feel superior to others? Not the big obvious moments — the small ones. When someone makes a mistake you wouldn't. When someone doesn't know something you do. When you silently judge a choice someone made. Just notice. Don't deny it.",
+        "hi": "आज बस नोटिस करो: कब तुम्हें लगता है कि तुम दूसरों से बेहतर हो? बड़े ज़ाहिर पलों में नहीं — छोटे में। जब कोई वो ग़लती करे जो तुम न करते। जब किसी को वो पता न हो जो तुम्हें है। जब चुपचाप किसी के फ़ैसले को judge करो। बस नोटिस करो। इनकार मत करो।",
+        "ur": "آج بس نوٹس کرو: کب تمہیں لگتا ہے کہ تم دوسروں سے بہتر ہو؟ بڑے ظاہر لمحوں میں نہیں — چھوٹوں میں۔ جب کوئی وہ غلطی کرے جو تم نہ کرتے۔ جب کسی کو وہ پتا نہ ہو جو تمہیں ہے۔ جب چپ چاپ کسی کے فیصلے کو judge کرو۔ بس نوٹس کرو۔ انکار مت کرو۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said no one with even a mustard seed's weight of kibr in their heart will enter Jannah. This isn't cruelty — it's precision. Kibr is the one sin that closes all doors, because it makes a person unable to take correction, unable to learn, unable to submit. You can't grow what you think is already complete.",
+        "hi": "नबी ﷺ ने फ़रमाया: जिसके दिल में राई के दाने के बराबर भी किब्र हो, वो जन्नत में नहीं जाएगा। यह ज़ुल्म नहीं है — यह सटीकता है। किब्र वो एक गुनाह है जो सारे दरवाज़े बंद कर देता है, क्योंकि यह इंसान को सुधार लेने में, सीखने में, झुकने में नाकाम कर देता है। जिसे लगता है वो मुकम्मल है, उसे बढ़ा नहीं सकते।",
+        "ur": "نبی ﷺ نے فرمایا: جس کے دل میں رائی کے دانے کے برابر بھی کبر ہو، وہ جنت میں نہیں جائے گا۔ یہ ظلم نہیں ہے — یہ درستگی ہے۔ کبر وہ ایک گناہ ہے جو سارے دروازے بند کر دیتا ہے، کیونکہ یہ انسان کو اصلاح لینے میں، سیکھنے میں، جھکنے میں ناکام کر دیتا ہے۔ جسے لگتا ہے وہ مکمل ہے، اسے بڑھا نہیں سکتے۔"
+      },
+      "example": {
+        "en": "Someone gives you feedback at work. Your first internal reaction is not 'maybe they're right' — it's 'they don't really understand what I'm doing.' Sit with that reaction today. Is it defence? Or is it kibr dressed as confidence?",
+        "hi": "काम पर कोई राय देता है। पहला अंदरूनी reaction 'शायद वो सही हैं' नहीं होता — बल्कि 'उन्हें मेरा काम असल में समझ नहीं आया।' आज उस reaction के साथ बैठो। यह बचाव है? या यह confidence के लिबास में किब्र है?",
+        "ur": "کام پر کوئی رائے دیتا ہے۔ پہلی اندرونی reaction 'شاید وہ ٹھیک ہیں' نہیں ہوتی — بلکہ 'انہیں میرا کام اصل میں سمجھ نہیں آیا۔' آج اس reaction کے ساتھ بیٹھو۔ یہ بچاؤ ہے؟ یا یہ confidence کے لباس میں کبر ہے؟"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 17,
+        "ayah": 37,
+        "arabic": "وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا إِنَّكَ لَن تَخْرِقَ الْأَرْضَ وَلَن تَبْلُغَ الْجِبَالَ طُولًا",
+        "translation": {
+          "en": "And do not walk upon the earth exultantly — you will never tear the earth apart, nor will you reach the mountains in height.",
+          "hi": "और ज़मीन पर इतराते हुए मत चलो — तुम न ज़मीन को फाड़ सकते हो, न पहाड़ों की बुलंदी तक पहुँच सकते हो।",
+          "ur": "اور زمین پر اتراتے ہوئے مت چلو — تم نہ زمین کو پھاڑ سکتے ہو، نہ پہاڑوں کی بلندی تک پہنچ سکتے ہو۔"
+        }
+      },
+      "task": {
+        "en": "Learn the difference between kibr and confidence today. They look similar from the outside. The difference: confidence says 'I can do this.' Kibr says 'I am better than those who can't.' One is about your ability. The other is about other people's worth. Read about this distinction in Islamic thought.",
+        "hi": "आज किब्र और confidence का फ़र्क़ सीखो। बाहर से एक जैसे दिखते हैं। फ़र्क़ यह है: confidence कहता है 'मैं यह कर सकता हूँ।' किब्र कहता है 'मैं उनसे बेहतर हूँ जो नहीं कर सकते।' एक तुम्हारी काबिलियत के बारे में है। दूसरा दूसरों की क़द्र के बारे में। इस्लामी फ़िक्र में यह तफ़रीक़ पढ़ो।",
+        "ur": "آج کبر اور confidence کا فرق سیکھو۔ باہر سے ایک جیسے دکھتے ہیں۔ فرق یہ ہے: confidence کہتا ہے 'میں یہ کر سکتا ہوں۔' کبر کہتا ہے 'میں ان سے بہتر ہوں جو نہیں کر سکتے۔' ایک تمہاری صلاحیت کے بارے میں ہے۔ دوسرا دوسروں کی قدر کے بارے میں۔ اسلامی فکر میں یہ تفریق پڑھو۔"
+      },
+      "hikmah": {
+        "en": "Iblis had knowledge, worship, and ability — more than most. His kibr wasn't about being better at things. It was about believing his origin made him inherently superior. 'I am better than him — you created me from fire and created him from clay.' That logic. That one sentence. That is the root of every form of arrogance that has ever existed.",
+        "hi": "इब्लीस के पास इल्म, इबादत और काबिलियत थी — ज़्यादातर से ज़्यादा। उसका किब्र चीज़ों में बेहतर होने के बारे में नहीं था। यह यह यक़ीन करने के बारे में था कि उसकी उत्पत्ति उसे inherently बेहतर बनाती है। 'मैं उससे बेहतर हूँ — तूने मुझे आग से बनाया और उसे मिट्टी से।' वो तर्क। वो एक जुमला। यह हर घमंड की जड़ है जो कभी हुआ।",
+        "ur": "ابلیس کے پاس علم، عبادت اور صلاحیت تھی — زیادہ تر سے زیادہ۔ اس کا کبر چیزوں میں بہتر ہونے کے بارے میں نہیں تھا۔ یہ یہ یقین کرنے کے بارے میں تھا کہ اس کی اصل اسے inherently بہتر بناتی ہے۔ 'میں اس سے بہتر ہوں — تو نے مجھے آگ سے بنایا اور اسے مٹی سے۔' وہ منطق۔ وہ ایک جملہ۔ یہ ہر غرور کی جڑ ہے جو کبھی ہوا۔"
+      },
+      "example": {
+        "en": "Read about how the Prophet ﷺ sat with the poor, ate on the floor, refused to be elevated above others in gatherings. He was the greatest human being ever born — and he made himself the smallest in the room. That's not weakness. That's the highest form of strength.",
+        "hi": "पढ़ो कि नबी ﷺ कैसे ग़रीबों के साथ बैठते थे, ज़मीन पर खाते थे, महफ़िलों में दूसरों से ऊँचे उठने से मना करते थे। वो सबसे अज़ीम इंसान थे जो पैदा हुए — और ख़ुद को कमरे में सबसे छोटा बनाते थे। यह कमज़ोरी नहीं। यह सबसे ऊँची ताक़त है।",
+        "ur": "پڑھو کہ نبی ﷺ کیسے غریبوں کے ساتھ بیٹھتے تھے، زمین پر کھاتے تھے، محفلوں میں دوسروں سے اوپر اٹھنے سے منع کرتے تھے۔ وہ سب سے عظیم انسان تھے جو پیدا ہوئے — اور خود کو کمرے میں سب سے چھوٹا بناتے تھے۔ یہ کمزوری نہیں۔ یہ سب سے اونچی طاقت ہے۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 25,
+        "ayah": 63,
+        "arabic": "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا",
+        "translation": {
+          "en": "And the servants of the Most Merciful are those who walk upon the earth in humility.",
+          "hi": "और रहमान के बंदे वो हैं जो ज़मीन पर आहिस्ता चलते हैं।",
+          "ur": "اور رحمان کے بندے وہ ہیں جو زمین پر آہستہ چلتے ہیں۔"
+        }
+      },
+      "task": {
+        "en": "Today: do one thing that your ego would normally resist. Ask for help from someone you'd normally figure it out alone in front of. Admit you were wrong about something — out loud, to someone. Let someone else take credit. Pick one. Do it.",
+        "hi": "आज: एक ऐसा काम करो जिसका तुम्हारा ego आम तौर पर विरोध करता। किसी से मदद माँगो जिसके सामने तुम आम तौर पर अकेले सुलझा लेते। किसी चीज़ के बारे में ज़ोर से, किसी को, माना कि तुम ग़लत थे। किसी और को credit ले जाने दो। एक चुनो। करो।",
+        "ur": "آج: ایک ایسا کام کرو جس کا تمہارا ego عام طور پر مزاحمت کرتا۔ کسی سے مدد مانگو جس کے سامنے تم عام طور پر اکیلے سلجھا لیتے۔ کسی چیز کے بارے میں زور سے، کسی کو، مانو کہ تم غلط تھے۔ کسی اور کو credit لے جانے دو۔ ایک چنو۔ کرو۔"
+      },
+      "hikmah": {
+        "en": "Every act of tawadu — humility — that costs you something is rewarded. Not the easy kind, the performed kind. The kind that actually feels like something is being given up. That scraping feeling in the chest when you say 'you were right, I was wrong' — that is the nafs losing its grip. Good.",
+        "hi": "तवाज़ुअ का हर वो अमल — इंकिसारी का — जो तुमसे कुछ माँगे, उसका अज्र है। आसान वाला नहीं, दिखावे वाला नहीं। वो वाला जब लगे कि सच में कुछ दे रहे हो। जब 'तुम सही थे, मैं ग़लत था' कहते हो तो सीने में जो खुरचन महसूस होती है — वो नफ़्स की पकड़ ढीली हो रही है। बहुत अच्छा।",
+        "ur": "تواضع کا ہر وہ عمل — انکساری کا — جو تم سے کچھ مانگے، اس کا اجر ہے۔ آسان والا نہیں، دکھاوے والا نہیں۔ وہ والا جب لگے کہ سچ میں کچھ دے رہے ہو۔ جب 'تم ٹھیک تھے، میں غلط تھا' کہتے ہو تو سینے میں جو کھرچن محسوس ہوتی ہے — وہ نفس کی پکڑ ڈھیلی ہو رہی ہے۔ بہت اچھا۔"
+      },
+      "example": {
+        "en": "You've been running a project a certain way for months. A new junior team member suggests a better approach. Your instinct: find reasons why it won't work. Today: try their way. If it works, say so — in front of others. 'Yeh idea tumhara tha, aur yeh kaam aaya.'",
+        "hi": "महीनों से एक project एक तरीक़े से चला रहे हो। एक नया junior team member बेहतर तरीक़ा suggest करता है। पहला इंस्टिंक्ट: वजह ढूँढो क्यों काम नहीं करेगा। आज: उनका तरीक़ा आज़माओ। अगर काम करे, तो कहो — दूसरों के सामने। 'यह आइडिया तुम्हारा था, और यह काम आया।'",
+        "ur": "مہینوں سے ایک project ایک طریقے سے چلا رہے ہو۔ ایک نیا junior team member بہتر طریقہ suggest کرتا ہے۔ پہلا instinct: وجہ ڈھونڈو کیوں کام نہیں کرے گا۔ آج: ان کا طریقہ آزماؤ۔ اگر کام کرے، تو کہو — دوسروں کے سامنے۔ 'یہ آئیڈیا تمہارا تھا، اور یہ کام آیا۔'"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 59,
+        "ayah": 9,
+        "arabic": "وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ",
+        "translation": {
+          "en": "And they prefer others over themselves, even though they are in need.",
+          "hi": "और वो अपने ऊपर दूसरों को तरजीह देते हैं, चाहे ख़ुद ज़रूरतमंद ही क्यों न हों।",
+          "ur": "اور وہ اپنے اوپر دوسروں کو ترجیح دیتے ہیں، چاہے خود ضرورتمند ہی کیوں نہ ہوں۔"
+        }
+      },
+      "task": {
+        "en": "This week: in every gathering — family dinner, work meeting, friends — make it your practice to elevate others, not yourself. Ask questions more than you make statements. Let the conversation be about what they know, not what you know. See how the room changes.",
+        "hi": "इस हफ़्ते: हर महफ़िल में — घर का खाना, काम की मीटिंग, दोस्त — यह practice बनाओ कि दूसरों को ऊपर उठाओ, ख़ुद को नहीं। बयान करने से ज़्यादा सवाल पूछो। बात इस बारे में हो कि उन्हें क्या पता है, न कि तुम्हें। देखो कमरा कैसे बदलता है।",
+        "ur": "اس ہفتے: ہر محفل میں — گھر کا کھانا، کام کی میٹنگ، دوست — یہ practice بناؤ کہ دوسروں کو اوپر اٹھاؤ، خود کو نہیں۔ بیان کرنے سے زیادہ سوال پوچھو۔ بات اس بارے میں ہو کہ انہیں کیا پتا ہے، نہ کہ تمہیں۔ دیکھو کمرہ کیسے بدلتا ہے۔"
+      },
+      "hikmah": {
+        "en": "The most magnetic people in any room are not the ones who talk the most about themselves. They're the ones who make everyone else feel interesting. This is not a social trick — it's a spiritual state. Tawadu doesn't make you smaller. It makes everyone around you feel bigger. That is the noor of humility.",
+        "hi": "किसी भी कमरे में सबसे आकर्षक लोग वो नहीं होते जो अपने बारे में सबसे ज़्यादा बोलते हैं। वो होते हैं जो हर किसी को interesting महसूस कराते हैं। यह social trick नहीं है — यह एक रूहानी हालत है। तवाज़ुअ तुम्हें छोटा नहीं बनाता। यह तुम्हारे आसपास के हर किसी को बड़ा महसूस कराता है। यह इंकिसारी का नूर है।",
+        "ur": "کسی بھی کمرے میں سب سے مقناطیسی لوگ وہ نہیں ہوتے جو اپنے بارے میں سب سے زیادہ بولتے ہیں۔ وہ ہوتے ہیں جو ہر کسی کو interesting محسوس کراتے ہیں۔ یہ social trick نہیں ہے — یہ ایک روحانی حالت ہے۔ تواضع تمہیں چھوٹا نہیں بناتا۔ یہ تمہارے آس پاس کے ہر کسی کو بڑا محسوس کراتا ہے۔ یہ انکساری کا نور ہے۔"
+      },
+      "example": {
+        "en": "Family dinner. Your father-in-law shares a view you think is outdated. Old you: subtle correction, making clear you know better. This week: ask him how he arrived at that view. Listen to the whole answer. You might learn something. Or you might just give him the gift of being heard.",
+        "hi": "घर का खाना। ससुर एक ऐसी बात कहते हैं जो तुम्हें outdated लगती है। पुराने तुम: सूक्ष्म सुधार, यह ज़ाहिर करना कि तुम बेहतर जानते हो। इस हफ़्ते: उनसे पूछो कि वो उस नज़रिए तक कैसे पहुँचे। पूरा जवाब सुनो। शायद कुछ सीखो। या शायद बस उन्हें सुने जाने का तोहफ़ा दो।",
+        "ur": "گھر کا کھانا۔ سسر ایک ایسی بات کہتے ہیں جو تمہیں outdated لگتی ہے۔ پرانے تم: لطیف اصلاح، یہ ظاہر کرنا کہ تم بہتر جانتے ہو۔ اس ہفتے: ان سے پوچھو کہ وہ اس نظریے تک کیسے پہنچے۔ پورا جواب سنو۔ شاید کچھ سیکھو۔ یا شاید بس انہیں سنے جانے کا تحفہ دو۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 26,
+        "ayah": 215,
+        "arabic": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ",
+        "translation": {
+          "en": "And lower your wing to those who follow you of the believers.",
+          "hi": "और जो मोमिन तुम्हारे पीछे चलें, उनके लिए अपना बाज़ू झुका दो।",
+          "ur": "اور جو مومن تمہارے پیچھے چلیں، ان کے لیے اپنا بازو جھکا دو۔"
+        }
+      },
+      "task": {
+        "en": "Think of the most arrogant person in your circle — not to judge them, to see yourself in them. The things that irritate you most about their pride: are those the same things you're working on in yourself? Share your journey with one person — not the lesson, the struggle. 'Yaar, I caught myself doing this yesterday…'",
+        "hi": "अपने दायरे में सबसे घमंडी इंसान के बारे में सोचो — उनको judge करने के लिए नहीं, उनमें ख़ुद को देखने के लिए। उनके घमंड के बारे में जो चीज़ें सबसे ज़्यादा परेशान करती हैं: क्या वो वही चीज़ें हैं जिन पर तुम ख़ुद में काम कर रहे हो? एक इंसान के साथ अपना सफ़र share करो — lesson नहीं, संघर्ष। 'यार, कल मैंने ख़ुद को यह करते देखा…'",
+        "ur": "اپنے دائرے میں سب سے غرور والے انسان کے بارے میں سوچو — انہیں judge کرنے کے لیے نہیں، ان میں خود کو دیکھنے کے لیے۔ ان کے غرور کے بارے میں جو چیزیں سب سے زیادہ پریشان کرتی ہیں: کیا وہ وہی چیزیں ہیں جن پر تم خود میں کام کر رہے ہو؟ ایک انسان کے ساتھ اپنا سفر share کرو — lesson نہیں، جدوجہد۔ 'یار، کل میں نے خود کو یہ کرتے دیکھا…'"
+      },
+      "hikmah": {
+        "en": "The person who shares their struggle with kibr is already not arrogant — because arrogant people don't admit they struggle with it. That admission, that honesty, is itself tawadu in action. And it will open a door in the person you're talking to that nothing else could have opened.",
+        "hi": "जो इंसान किब्र से अपनी जद्दोजहद share करता है, वो पहले से घमंडी नहीं है — क्योंकि घमंडी लोग यह नहीं मानते कि उन्हें इसकी समस्या है। वो इक़रार, वो ईमानदारी, अपने आप में अमल में तवाज़ुअ है। और यह उस इंसान में एक दरवाज़ा खोलेगा जिससे तुम बात कर रहे हो, जो किसी और चीज़ से नहीं खुल सकता था।",
+        "ur": "جو انسان کبر سے اپنی جدوجہد share کرتا ہے، وہ پہلے سے غرور والا نہیں ہے — کیونکہ غرور والے لوگ یہ نہیں مانتے کہ انہیں اس کا مسئلہ ہے۔ وہ اقرار، وہ ایمانداری، اپنے آپ میں عمل میں تواضع ہے۔ اور یہ اس انسان میں ایک دروازہ کھولے گا جس سے تم بات کر رہے ہو، جو کسی اور چیز سے نہیں کھل سکتا تھا۔"
+      },
+      "example": {
+        "en": "Your child asks you: 'Baba, do you think you're better than other people?' Pause before you answer. The honest answer is worth more than the comfortable one. And if you say 'I'm working on not being' — that answer will teach them more about Islam than a hundred lectures on humility.",
+        "hi": "बच्चा पूछता है: 'बाबा, क्या तुम्हें लगता है तुम दूसरों से बेहतर हो?' जवाब देने से पहले रुको। ईमानदार जवाब आरामदेह जवाब से ज़्यादा क़ीमती है। और अगर जवाब दो 'मैं ऐसा न होने पर काम कर रहा हूँ' — वो जवाब उन्हें इंकिसारी पर सौ lectures से ज़्यादा इस्लाम सिखाएगा।",
+        "ur": "بچہ پوچھتا ہے: 'بابا، کیا تمہیں لگتا ہے تم دوسروں سے بہتر ہو؟' جواب دینے سے پہلے رکو۔ ایماندار جواب آرام دہ جواب سے زیادہ قیمتی ہے۔ اگر جواب دو 'میں ایسا نہ ہونے پر کام کر رہا ہوں' — وہ جواب انہیں انکساری پر سو lectures سے زیادہ اسلام سکھائے گا۔"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "h1-health-neend",
+  "category": "health",
+  "name": {
+    "en": "Protecting Your Sleep",
+    "hi": "नींद की हिफ़ाज़त",
+    "ur": "نیند کی حفاظت"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 78, "ayah": 9,
+        "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+        "translation": {
+          "en": "And We made your sleep a means of rest.",
+          "hi": "और हमने तुम्हारी नींद को राहत का ज़रिया बनाया।",
+          "ur": "اور ہم نے تمہاری نیند کو راحت کا ذریعہ بنایا۔"
+        }
+      },
+      "task": {
+        "en": "Today, just notice your sleep honestly. What time did you actually sleep last night? What time did you wake? Was it enough? What was the last thing you looked at before sleeping — and did it help or hurt?",
+        "hi": "आज बस अपनी नींद को ईमानदारी से नोटिस करो। कल रात असल में किस वक़्त सोए? किस वक़्त उठे? क्या काफ़ी था? सोने से पहले आख़िरी चीज़ क्या देखी — उससे फ़ायदा हुआ या नुक़सान?",
+        "ur": "آج بس اپنی نیند کو ایمانداری سے نوٹس کرو۔ کل رات اصل میں کس وقت سوئے؟ کس وقت اٹھے؟ کیا کافی تھا؟ سونے سے پہلے آخری چیز کیا دیکھی — اس سے فائدہ ہوا یا نقصان؟"
+      },
+      "hikmah": {
+        "en": "Allah calls sleep a mercy — not a weakness, not lost time. The Prophet ﷺ slept early and woke early. He had a sleep schedule. He took a midday rest. He treated sleep as something that needed to be protected, not sacrificed. We live in a culture that brags about sleeping less. That culture is wrong.",
+        "hi": "अल्लाह नींद को रहमत कहता है — कमज़ोरी नहीं, बर्बाद वक़्त नहीं। नबी ﷺ जल्दी सोते थे और जल्दी उठते थे। उनका sleep schedule था। क़ैलूलह लेते थे। नींद को उन्होंने ऐसी चीज़ की तरह treat किया जिसकी हिफ़ाज़त करनी है, क़ुर्बान नहीं करनी। हम एक ऐसी दुनिया में रहते हैं जो कम सोने पर फ़ख्र करती है। वो दुनिया ग़लत है।",
+        "ur": "اللہ نیند کو رحمت کہتا ہے — کمزوری نہیں، برباد وقت نہیں۔ نبی ﷺ جلدی سوتے تھے اور جلدی اٹھتے تھے۔ ان کا sleep schedule تھا۔ قیلولہ لیتے تھے۔ نیند کو انہوں نے ایسی چیز کی طرح treat کیا جس کی حفاظت کرنی ہے، قربان نہیں کرنی۔ ہم ایک ایسی دنیا میں رہتے ہیں جو کم سونے پر فخر کرتی ہے۔ وہ دنیا غلط ہے۔"
+      },
+      "example": {
+        "en": "You stayed up until 1am scrolling — nothing important, just the usual drift. You woke at 6 for Fajr, groggy. By afternoon you were short with everyone. Tonight: notice what time you pick up your phone after Isha. That is where your sleep protection starts — or fails.",
+        "hi": "रात 1 बजे तक scroll करते रहे — कुछ ज़रूरी नहीं, बस आम drift। फ़ज्र के लिए 6 बजे उठे, थके हुए। दोपहर तक सबसे चिड़चिड़े हो गए। आज रात: नोटिस करो इशा के बाद किस वक़्त फ़ोन उठाते हो। वहीं से तुम्हारी नींद की हिफ़ाज़त शुरू होती है — या नाकाम।",
+        "ur": "رات 1 بجے تک scroll کرتے رہے — کچھ ضروری نہیں، بس عام drift۔ فجر کے لیے 6 بجے اٹھے، تھکے ہوئے۔ دوپہر تک سب سے چڑچڑے ہو گئے۔ آج رات: نوٹس کرو عشا کے بعد کس وقت فون اٹھاتے ہو۔ وہیں سے تمہاری نیند کی حفاظت شروع ہوتی ہے — یا ناکام۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 30, "ayah": 23,
+        "arabic": "وَمِنْ آيَاتِهِ مَنَامُكُم بِاللَّيْلِ وَالنَّهَارِ",
+        "translation": {
+          "en": "And of His signs is your sleep by night and by day.",
+          "hi": "और उसकी निशानियों में से एक रात और दिन की तुम्हारी नींद है।",
+          "ur": "اور اس کی نشانیوں میں سے ایک رات اور دن کی تمہاری نیند ہے۔"
+        }
+      },
+      "task": {
+        "en": "Learn what the Prophet ﷺ actually did around sleep — his sleeping duas, sleeping on the right side, the Sunnah of not sleeping before Isha and not staying up long after it. Also read what modern sleep science says about screens before bed. The Sunnah and the science are pointing in the same direction.",
+        "hi": "सीखो कि नबी ﷺ ने नींद के बारे में असल में क्या किया — सोने की दुआएँ, दाहिनी करवट पर सोना, इशा से पहले न सोने और उसके बाद ज़्यादा देर न जागने की Sunnah। आधुनिक sleep science के बारे में भी पढ़ो कि सोने से पहले screens का क्या असर है। Sunnah और science एक ही दिशा में इशारा कर रहे हैं।",
+        "ur": "سیکھو کہ نبی ﷺ نے نیند کے بارے میں اصل میں کیا کیا — سونے کی دعائیں، دائیں کروٹ پر سونا، عشا سے پہلے نہ سونے اور اس کے بعد زیادہ دیر نہ جاگنے کی Sunnah۔ جدید sleep science کے بارے میں بھی پڑھو کہ سونے سے پہلے screens کا کیا اثر ہے۔ Sunnah اور science ایک ہی سمت میں اشارہ کر رہے ہیں۔"
+      },
+      "hikmah": {
+        "en": "Every cell in your body repairs itself during deep sleep. Your brain clears toxins. Your emotions regulate. Your memory consolidates. When you consistently deprive yourself of sleep, you are not 'getting more done' — you are slowly degrading the only instrument you have to do anything with. The body is an amanat. Wrecking it quietly is a form of betrayal.",
+        "hi": "तुम्हारे जिस्म की हर कोशिका गहरी नींद के दौरान ख़ुद को ठीक करती है। दिमाग़ toxins साफ़ करता है। जज़्बात regulate होते हैं। यादें मज़बूत होती हैं। जब तुम लगातार नींद से महरूम रखते हो ख़ुद को, तुम 'ज़्यादा काम' नहीं कर रहे — तुम धीरे-धीरे उस एकमात्र ज़रिए को ख़राब कर रहे हो जिससे कुछ भी करते हो। जिस्म अमानत है। उसे चुपचाप तबाह करना ख़ियानत का एक रूप है।",
+        "ur": "تمہارے جسم کا ہر خلیہ گہری نیند کے دوران خود کو ٹھیک کرتا ہے۔ دماغ toxins صاف کرتا ہے۔ جذبات regulate ہوتے ہیں۔ یادیں مضبوط ہوتی ہیں۔ جب تم لگاتار نیند سے محروم رکھتے ہو خود کو، تم 'زیادہ کام' نہیں کر رہے — تم آہستہ آہستہ اس واحد ذریعے کو خراب کر رہے ہو جس سے کچھ بھی کرتے ہو۔ جسم امانت ہے۔ اسے چپ چاپ تباہ کرنا خیانت کی ایک شکل ہے۔"
+      },
+      "example": {
+        "en": "Find the hadith about the Prophet ﷺ disliking sleep before Isha and conversation after it. Why those two? Because Isha is a boundary. Before it: rest if needed. After it: wind down. Not a hard rule — a wisdom. Read why the scholars explained it that way.",
+        "hi": "वो हदीस ढूँढो जहाँ नबी ﷺ ने इशा से पहले सोने और उसके बाद बात करने को नापसंद किया। वो दोनों क्यों? क्योंकि इशा एक सीमा है। पहले: अगर ज़रूरत हो तो आराम। बाद में: धीमे पड़ जाना। सख़्त क़ानून नहीं — हिकमत। पढ़ो कि उलमा ने इसे उस तरह क्यों समझाया।",
+        "ur": "وہ حدیث ڈھونڈو جہاں نبی ﷺ نے عشا سے پہلے سونے اور اس کے بعد بات کرنے کو ناپسند کیا۔ وہ دونوں کیوں؟ کیونکہ عشا ایک سرحد ہے۔ پہلے: اگر ضرورت ہو تو آرام۔ بعد میں: آہستہ پڑ جانا۔ سخت قانون نہیں — حکمت۔ پڑھو کہ علما نے اسے اس طرح کیوں سمجھایا۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 25, "ayah": 47,
+        "arabic": "وَهُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِبَاسًا وَالنَّوْمَ سُبَاتًا",
+        "translation": {
+          "en": "And He is the one who made the night for you as a covering and sleep as rest.",
+          "hi": "और वही है जिसने तुम्हारे लिए रात को ढाँपने वाला और नींद को राहत बनाया।",
+          "ur": "اور وہی ہے جس نے تمہارے لیے رات کو ڈھانپنے والا اور نیند کو راحت بنایا۔"
+        }
+      },
+      "task": {
+        "en": "Tonight: phone off or face-down 30 minutes before your target sleep time. Read the sleeping duas. Sleep on your right side. That's it — just those three things. See how the quality of your sleep changes even with one night of this.",
+        "hi": "आज रात: सोने के target time से 30 मिनट पहले फ़ोन बंद या उल्टा। सोने की दुआएँ पढ़ो। दाहिनी करवट पर सोओ। बस — सिर्फ़ यही तीन चीज़ें। देखो सिर्फ़ एक रात इससे नींद की quality कैसे बदलती है।",
+        "ur": "آج رات: سونے کے target time سے 30 منٹ پہلے فون بند یا الٹا۔ سونے کی دعائیں پڑھو۔ دائیں کروٹ پر سوؤ۔ بس — صرف یہی تین چیزیں۔ دیکھو صرف ایک رات اس سے نیند کی quality کیسے بدلتی ہے۔"
+      },
+      "hikmah": {
+        "en": "The sleeping duas are not ritual — they are a handover. You are giving the night to Allah before you lose consciousness. 'Bismika Allahumma amutu wa ahya' — in Your name, O Allah, I die and I live. Every sleep is a small death. Every waking is a small resurrection. The person who names that before closing their eyes goes to sleep differently.",
+        "hi": "सोने की दुआएँ रस्म नहीं हैं — यह सौंपना है। बेहोश होने से पहले रात अल्लाह को सौंप रहे हो। 'बिस्मिका अल्लाहुम्मा अमूतु व अह्या' — तेरे नाम पर ऐ अल्लाह, मैं मरता हूँ और जीता हूँ। हर नींद एक छोटी मौत है। हर जागना एक छोटा जी उठना है। जो शख़्स आँखें बंद करने से पहले इसे नाम देता है, वो अलग तरह से सोता है।",
+        "ur": "سونے کی دعائیں رسم نہیں ہیں — یہ سونپنا ہے۔ بے ہوش ہونے سے پہلے رات اللہ کو سونپ رہے ہو۔ 'بسمک اللہم أموت وأحیا' — تیرے نام پر اے اللہ، میں مرتا ہوں اور جیتا ہوں۔ ہر نیند ایک چھوٹی موت ہے۔ ہر جاگنا ایک چھوٹا جی اٹھنا ہے۔ جو شخص آنکھیں بند کرنے سے پہلے اسے نام دیتا ہے، وہ الگ طرح سے سوتا ہے۔"
+      },
+      "example": {
+        "en": "You've been telling yourself you'll sleep earlier for six months. Tonight is not a resolution — it's an experiment. Set one alarm: 30 minutes before your intended sleep time. When it goes off, put the phone down. Not forever. Just tonight. See what morning feels like.",
+        "hi": "छह महीनों से ख़ुद से कह रहे हो कि जल्दी सोएँगे। आज रात resolution नहीं — experiment है। एक alarm लगाओ: सोने के intended time से 30 मिनट पहले। जब बजे, फ़ोन रख दो। हमेशा के लिए नहीं। बस आज रात। देखो सुबह कैसा लगता है।",
+        "ur": "چھ مہینوں سے خود سے کہہ رہے ہو کہ جلدی سوئیں گے۔ آج رات resolution نہیں — experiment ہے۔ ایک alarm لگاؤ: سونے کے intended time سے 30 منٹ پہلے۔ جب بجے، فون رکھ دو۔ ہمیشہ کے لیے نہیں۔ بس آج رات۔ دیکھو صبح کیسا لگتا ہے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 32, "ayah": 16,
+        "arabic": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا",
+        "translation": {
+          "en": "Their sides forsake their beds as they call upon their Lord in fear and hope.",
+          "hi": "उनके पहलू बिस्तरों से दूर रहते हैं, वो अपने रब को डर और उम्मीद से पुकारते हैं।",
+          "ur": "ان کے پہلو بستروں سے دور رہتے ہیں، وہ اپنے رب کو ڈر اور امید سے پکارتے ہیں۔"
+        }
+      },
+      "task": {
+        "en": "This week: build a 10-minute wind-down routine before sleep. No screens. Could be: duas, some Quran, thinking about the day with muhasaba, or just lying quietly. Seven nights. Not perfect — just consistent. Notice what shifts in your mornings by day five.",
+        "hi": "इस हफ़्ते: सोने से पहले 10 मिनट का wind-down routine बनाओ। No screens। हो सकता है: दुआएँ, थोड़ा क़ुरआन, मुहासबे के साथ दिन के बारे में सोचना, या बस चुपचाप लेटे रहना। सात रातें। परफ़ेक्ट नहीं — बस consistent। देखो पाँचवें दिन तक सुबह में क्या बदलता है।",
+        "ur": "اس ہفتے: سونے سے پہلے 10 منٹ کا wind-down routine بناؤ۔ No screens۔ ہو سکتا ہے: دعائیں، تھوڑا قرآن، محاسبے کے ساتھ دن کے بارے میں سوچنا، یا بس چپ چاپ لیٹے رہنا۔ سات راتیں۔ perfect نہیں — بس consistent۔ دیکھو پانچویں دن تک صبح میں کیا بدلتا ہے۔"
+      },
+      "hikmah": {
+        "en": "Fajr and sleep are connected. The person who sleeps badly struggles to wake for Fajr. The person who misses Fajr starts the day broken. Protecting your sleep is not separate from your deen — it is the foundation your deen rests on. A tired person cannot be patient, cannot be generous, cannot be present. Sleep is the infrastructure of everything else.",
+        "hi": "फ़ज्र और नींद जुड़े हुए हैं। जो बुरा सोता है उसे फ़ज्र के लिए उठने में मुश्किल होती है। जो फ़ज्र से चूकता है वो टूटा हुआ दिन शुरू करता है। नींद की हिफ़ाज़त दीन से अलग नहीं है — यह वो बुनियाद है जिस पर दीन टिका है। थका हुआ इंसान सब्र नहीं कर सकता, सख़ावत नहीं कर सकता, मौजूद नहीं हो सकता। नींद बाकी सब की infrastructure है।",
+        "ur": "فجر اور نیند جڑے ہوئے ہیں۔ جو بُرا سوتا ہے اسے فجر کے لیے اٹھنے میں مشکل ہوتی ہے۔ جو فجر سے چوکتا ہے وہ ٹوٹا ہوا دن شروع کرتا ہے۔ نیند کی حفاظت دین سے الگ نہیں ہے — یہ وہ بنیاد ہے جس پر دین ٹکا ہے۔ تھکا ہوا انسان صبر نہیں کر سکتا، سخاوت نہیں کر سکتا، موجود نہیں ہو سکتا۔ نیند باقی سب کی infrastructure ہے۔"
+      },
+      "example": {
+        "en": "Day three of the week. You're tired, it's been a long day, and the phone is right there. The old habit pulls. Tonight: just the 10 minutes. You don't have to do it perfectly. You just have to do it. The habit is being built in the moments when it's hard, not easy.",
+        "hi": "हफ़्ते का तीसरा दिन। थके हुए हो, लंबा दिन रहा है, और फ़ोन वहीं है। पुरानी आदत खींचती है। आज रात: बस 10 मिनट। परफ़ेक्ट नहीं करना। बस करना है। आदत उन पलों में बनती है जब मुश्किल हो, आसान हो तो नहीं।",
+        "ur": "ہفتے کا تیسرا دن۔ تھکے ہوئے ہو، لمبا دن رہا ہے، اور فون وہیں ہے۔ پرانی عادت کھینچتی ہے۔ آج رات: بس 10 منٹ۔ perfect نہیں کرنا۔ بس کرنا ہے۔ عادت ان لمحوں میں بنتی ہے جب مشکل ہو، آسان ہو تو نہیں۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 39, "ayah": 42,
+        "arabic": "اللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا",
+        "translation": {
+          "en": "Allah takes the souls at the time of their death, and those that do not die during their sleep.",
+          "hi": "अल्लाह मौत के वक़्त रूहों को क़ब्ज़ करता है, और उन्हें भी जो नींद में नहीं मरतीं।",
+          "ur": "اللہ موت کے وقت روحوں کو قبض کرتا ہے، اور ان کو بھی جو نیند میں نہیں مرتیں۔"
+        }
+      },
+      "task": {
+        "en": "Your household's sleep affects everyone in it. This week: protect the sleep environment for others, not just yourself. Children's screens off by a certain time. Conversations that can wait until morning — let them wait. Make the home quieter after Isha. Not a lecture — just a change. See if anyone notices.",
+        "hi": "तुम्हारे घर की नींद घर के सबको affect करती है। इस हफ़्ते: सिर्फ़ ख़ुद के लिए नहीं, दूसरों के लिए भी sleep environment की हिफ़ाज़त करो। बच्चों की screens एक वक़्त तक बंद। जो बातें सुबह तक रुक सकती हैं — रुकने दो। इशा के बाद घर को ज़्यादा ख़ामोश बनाओ। lecture नहीं — बस एक बदलाव। देखो कोई नोटिस करता है।",
+        "ur": "تمہارے گھر کی نیند گھر کے سب کو affect کرتی ہے۔ اس ہفتے: صرف خود کے لیے نہیں، دوسروں کے لیے بھی sleep environment کی حفاظت کرو۔ بچوں کی screens ایک وقت تک بند۔ جو باتیں صبح تک رک سکتی ہیں — رکنے دو۔ عشا کے بعد گھر کو زیادہ خاموش بناؤ۔ lecture نہیں — بس ایک بدلاؤ۔ دیکھو کوئی نوٹس کرتا ہے۔"
+      },
+      "hikmah": {
+        "en": "A home that sleeps well is a home that wakes well. Children who sleep on time are calmer, kinder, and more focused the next day — not because of some parenting theory, but because Allah put rest and repair into the night. When you protect the sleep of your household, you are building the conditions for everything else to go right.",
+        "hi": "जो घर अच्छी नींद लेता है, वो अच्छे से जागता है। जो बच्चे सही वक़्त पर सोते हैं वो अगले दिन शांत, दयालु और ज़्यादा focused होते हैं — किसी parenting theory की वजह से नहीं, बल्कि इसलिए कि अल्लाह ने रात में आराम और मरम्मत डाली है। जब तुम अपने घर की नींद की हिफ़ाज़त करते हो, तुम बाकी सब के लिए सही होने की शर्तें बना रहे हो।",
+        "ur": "جو گھر اچھی نیند لیتا ہے، وہ اچھے سے جاگتا ہے۔ جو بچے صحیح وقت پر سوتے ہیں وہ اگلے دن پرسکون، مہربان اور زیادہ focused ہوتے ہیں — کسی parenting theory کی وجہ سے نہیں، بلکہ اس لیے کہ اللہ نے رات میں آرام اور مرمت ڈالی ہے۔ جب تم اپنے گھر کی نیند کی حفاظت کرتے ہو، تم باقی سب کے لیے صحیح ہونے کی شرطیں بنا رہے ہو۔"
+      },
+      "example": {
+        "en": "Your teenager is on their phone at midnight. Instead of confiscating it (which starts a fight), try something different: 'Yaar, I've been trying to sleep earlier this week and it's actually helping. Want to try together? Even 30 minutes earlier.' Give them agency. Make it a shared experiment, not a rule.",
+        "hi": "टीनेजर रात 12 बजे फ़ोन पर है। छीनने की जगह (जिससे झगड़ा होता है), कुछ अलग try करो: 'यार, मैं इस हफ़्ते जल्दी सोने की कोशिश कर रहा हूँ और सच में फ़र्क़ पड़ रहा है। साथ try करोगे? सिर्फ़ 30 मिनट पहले भी।' उन्हें agency दो। साझा experiment बनाओ, rule नहीं।",
+        "ur": "teenager رات 12 بجے فون پر ہے۔ چھیننے کی جگہ (جس سے جھگڑا ہوتا ہے)، کچھ الگ try کرو: 'یار، میں اس ہفتے جلدی سونے کی کوشش کر رہا ہوں اور سچ میں فرق پڑ رہا ہے۔ ساتھ try کرو گے؟ صرف 30 منٹ پہلے بھی۔' انہیں agency دو۔ مشترکہ experiment بناؤ، rule نہیں۔"
+      }
+    }
+  ]
+}

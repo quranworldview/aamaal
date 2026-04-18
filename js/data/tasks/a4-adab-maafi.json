@@ -1,0 +1,176 @@
+{
+  "id": "a4-adab-maafi",
+  "category": "adab",
+  "name": {
+    "en": "Asking Forgiveness",
+    "hi": "माफ़ी माँगना",
+    "ur": "معافی مانگنا"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 42,
+        "ayah": 40,
+        "arabic": "وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ",
+        "translation": {
+          "en": "The recompense of an evil is an evil like it — but whoever pardons and makes reconciliation, his reward is with Allah.",
+          "hi": "बुराई का बदला उसके जैसी बुराई है — लेकिन जो माफ़ करे और सुधार करे, उसका अज्र अल्लाह पर है।",
+          "ur": "برائی کا بدلہ اس جیسی برائی ہے — لیکن جو معاف کرے اور اصلاح کرے، اس کا اجر اللہ پر ہے۔"
+        }
+      },
+      "task": {
+        "en": "Today, just think: is there someone you've wronged — even slightly — and haven't said sorry to? Not someone who wronged you. Someone you wronged. A sharp word. A promise you didn't keep. Something you let go of without repairing.",
+        "hi": "आज बस सोचो: कोई है जिसके साथ तुमने ग़लती की — छोटी ही सही — और माफ़ी नहीं माँगी? वो नहीं जिसने तुम्हारे साथ ग़लती की। वो जिसके साथ तुमने की। कोई तीखी बात। कोई वादा जो पूरा नहीं किया। कुछ जो बिना ठीक किए छोड़ दिया।",
+        "ur": "آج بس سوچو: کوئی ہے جس کے ساتھ تم نے غلطی کی — چھوٹی ہی سہی — اور معافی نہیں مانگی؟ وہ نہیں جس نے تمہارے ساتھ غلطی کی۔ وہ جس کے ساتھ تم نے کی۔ کوئی تیکھی بات۔ کوئی وعدہ جو پورا نہیں کیا۔ کچھ جو بغیر ٹھیک کیے چھوڑ دیا۔"
+      },
+      "hikmah": {
+        "en": "We are very good at remembering what was done to us. We are less good at remembering what we did. Today is just about noticing — not acting yet. The mind needs to sit with it before the mouth can say it honestly.",
+        "hi": "हम बहुत अच्छे हैं याद रखने में कि हमारे साथ क्या हुआ। हम उतने अच्छे नहीं उसे याद रखने में जो हमने किया। आज बस नोटिस करना है — करना नहीं। मुँह से सच्चाई से निकलने से पहले दिमाग़ को उसके साथ बैठना होता है।",
+        "ur": "ہم بہت اچھے ہیں یاد رکھنے میں کہ ہمارے ساتھ کیا ہوا۔ ہم اتنے اچھے نہیں اسے یاد رکھنے میں جو ہم نے کیا۔ آج بس نوٹس کرنا ہے — کرنا نہیں۔ منہ سے سچائی سے نکلنے سے پہلے دماغ کو اس کے ساتھ بیٹھنا ہوتا ہے۔"
+      },
+      "example": {
+        "en": "Three years ago you snapped at a friend during a hard time in your life. They were only trying to help. The friendship recovered — but you never actually said sorry. Do they know you know you were wrong?",
+        "hi": "तीन साल पहले अपनी मुश्किल में एक दोस्त पर भड़क गए थे। वो बस मदद करने आया था। दोस्ती तो ठीक हो गई — लेकिन माफ़ी कभी नहीं माँगी। क्या उन्हें पता है कि तुम जानते हो तुमने ग़लत किया था?",
+        "ur": "تین سال پہلے اپنی مشکل میں ایک دوست پر بھڑک گئے تھے۔ وہ بس مدد کرنے آیا تھا۔ دوستی تو ٹھیک ہو گئی — لیکن معافی کبھی نہیں مانگی۔ کیا انہیں پتا ہے کہ تم جانتے ہو تم نے غلط کیا تھا؟"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 49,
+        "ayah": 10,
+        "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ",
+        "translation": {
+          "en": "The believers are brothers — so make peace between your brothers.",
+          "hi": "मोमिन तो भाई-भाई हैं — तो अपने भाइयों के बीच सुलह करवाओ।",
+          "ur": "مومن تو بھائی بھائی ہیں — تو اپنے بھائیوں کے درمیان صلح کرواؤ۔"
+        }
+      },
+      "task": {
+        "en": "Learn what a proper apology actually consists of. Not 'sorry if you were offended' — that's not an apology. Look into what the Prophet ﷺ taught about repairing relationships. What makes an apology real versus hollow?",
+        "hi": "सीखो कि सच्ची माफ़ी में क्या होता है। 'सॉरी अगर तुम्हें बुरा लगा' — यह माफ़ी नहीं है। नबी ﷺ ने रिश्ते ठीक करने के बारे में क्या सिखाया। माफ़ी को सच्ची बनाम खोखली क्या बनाता है?",
+        "ur": "سیکھو کہ سچی معافی میں کیا ہوتا ہے۔ 'سوری اگر تمہیں برا لگا' — یہ معافی نہیں ہے۔ نبی ﷺ نے رشتے ٹھیک کرنے کے بارے میں کیا سکھایا۔ معافی کو سچی بمقابلہ کھوکھلی کیا بناتا ہے؟"
+      },
+      "hikmah": {
+        "en": "A real apology has four parts: what I did, why it was wrong, that I understand how it affected you, and what I intend to do differently. Most 'apologies' skip three of those four. That's why they don't feel like apologies — to either person.",
+        "hi": "सच्ची माफ़ी में चार हिस्से होते हैं: मैंने क्या किया, यह ग़लत क्यों था, मैं समझता हूँ इसका तुम पर क्या असर पड़ा, और मैं आगे क्या अलग करूँगा। ज़्यादातर 'माफ़ियाँ' उन चारों में से तीन छोड़ देती हैं। इसीलिए वो माफ़ी नहीं लगतीं — किसी को भी नहीं।",
+        "ur": "سچی معافی میں چار حصے ہوتے ہیں: میں نے کیا کیا، یہ غلط کیوں تھا، میں سمجھتا ہوں اس کا تم پر کیا اثر پڑا، اور میں آگے کیا الگ کروں گا۔ زیادہ تر 'معافیاں' ان چاروں میں سے تین چھوڑ دیتی ہیں۔ اسی لیے وہ معافی نہیں لگتیں — کسی کو بھی نہیں۔"
+      },
+      "example": {
+        "en": "Read about the time the Prophet ﷺ publicly acknowledged when he was harsh with someone. The greatest human who ever lived — and he repaired. If he found it necessary, what does that say about us?",
+        "hi": "उस वक़्त के बारे में पढ़ो जब नबी ﷺ ने खुलकर माना कि किसी के साथ सख़्ती हो गई। दुनिया में आए सबसे अज़ीम इंसान — और उन्होंने ठीक किया। अगर उन्होंने इसे ज़रूरी समझा, तो हमारे बारे में यह क्या कहता है?",
+        "ur": "اس وقت کے بارے میں پڑھو جب نبی ﷺ نے کھل کر مانا کہ کسی کے ساتھ سختی ہو گئی۔ دنیا میں آئے سب سے عظیم انسان — اور انہوں نے ٹھیک کیا۔ اگر انہوں نے اسے ضروری سمجھا، تو ہمارے بارے میں یہ کیا کہتا ہے؟"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 3,
+        "ayah": 134,
+        "arabic": "وَالْعَافِينَ عَنِ النَّاسِ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+        "translation": {
+          "en": "And those who pardon people — and Allah loves the doers of good.",
+          "hi": "और जो लोगों को माफ़ करते हैं — और अल्लाह नेकी करने वालों से मोहब्बत करता है।",
+          "ur": "اور جو لوگوں کو معاف کرتے ہیں — اور اللہ نیکی کرنے والوں سے محبت کرتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "Today, apologise to one person — sincerely, specifically, without justifying yourself. No 'but' in the middle. No 'I was stressed' attached to it. Just: what you did, that it was wrong, and that you're sorry. One person. Today.",
+        "hi": "आज एक इंसान से माफ़ी माँगो — सच्चाई से, ख़ास बात के लिए, ख़ुद को justify किए बिना। बीच में कोई 'लेकिन' नहीं। साथ में कोई 'मैं stressed था' नहीं। बस: तुमने क्या किया, यह ग़लत था, और माफ़ करना। एक इंसान। आज।",
+        "ur": "آج ایک انسان سے معافی مانگو — سچائی سے، خاص بات کے لیے، خود کو justify کیے بغیر۔ بیچ میں کوئی 'لیکن' نہیں۔ ساتھ میں کوئی 'میں stressed تھا' نہیں۔ بس: تم نے کیا کیا، یہ غلط تھا، اور معاف کرنا۔ ایک انسان۔ آج۔"
+      },
+      "hikmah": {
+        "en": "The ego says: if I apologise, I lose. The heart knows: the one who apologises first is the stronger one. It takes no strength to hold a grudge — gravity does that for you. It takes real strength to be the one who reaches first.",
+        "hi": "अहंकार कहता है: माफ़ी माँगी तो हार गया। दिल जानता है: पहले माफ़ी माँगने वाला ज़्यादा ताक़तवर होता है। शिकायत पकड़े रहने में कोई ताक़त नहीं लगती — gravity खुद कर देती है। पहले हाथ बढ़ाने में असली ताक़त लगती है।",
+        "ur": "انا کہتی ہے: معافی مانگی تو ہار گیا۔ دل جانتا ہے: پہلے معافی مانگنے والا زیادہ طاقتور ہوتا ہے۔ شکایت پکڑے رہنے میں کوئی طاقت نہیں لگتی — gravity خود کر دیتی ہے۔ پہلے ہاتھ بڑھانے میں اصلی طاقت لگتی ہے۔"
+      },
+      "example": {
+        "en": "You were short with your mother on the phone last week. You were tired, she was asking too many questions. You know. Call her today — not to catch up, specifically to say: 'Ammi, pichli baar jo hua, woh meri taraf se ghalat tha.'",
+        "hi": "पिछले हफ़्ते फ़ोन पर अम्मी से थोड़ा रूखा बोले थे। थके हुए थे, वो बहुत सवाल पूछ रही थीं। तुम जानते हो। आज call करो — हालचाल के लिए नहीं, ख़ास यह कहने के लिए: 'अम्मी, पिछली बार जो हुआ, वो मेरी तरफ़ से ग़लत था।'",
+        "ur": "پچھلے ہفتے فون پر امی سے تھوڑا روکھا بولے تھے۔ تھکے ہوئے تھے، وہ بہت سوال پوچھ رہی تھیں۔ تم جانتے ہو۔ آج call کرو — حال چال کے لیے نہیں، خاص یہ کہنے کے لیے: 'امی، پچھلی بار جو ہوا، وہ میری طرف سے غلط تھا۔'"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 24,
+        "ayah": 22,
+        "arabic": "وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ لَكُمْ",
+        "translation": {
+          "en": "And let them pardon and overlook. Would you not like that Allah should forgive you?",
+          "hi": "और माफ़ करो और दरगुज़र करो। क्या तुम नहीं चाहते कि अल्लाह तुम्हें माफ़ करे?",
+          "ur": "اور معاف کرو اور درگزر کرو۔ کیا تم نہیں چاہتے کہ اللہ تمہیں معاف کرے؟"
+        }
+      },
+      "task": {
+        "en": "This week: don't let anything go to sleep unrepaired. Not everything needs a big conversation — some things just need a 'yaar, sorry about earlier.' Build the reflex of not carrying things overnight. Small repairs, daily.",
+        "hi": "इस हफ़्ते: कोई भी चीज़ बिना ठीक किए सोने मत दो। हर चीज़ को बड़ी बात नहीं चाहिए — कुछ को बस एक 'यार, पहले वाले के लिए सॉरी' चाहिए। रात को चीज़ें न उठाने का रिफ़्लेक्स बनाओ। छोटी-छोटी मरम्मत, रोज़।",
+        "ur": "اس ہفتے: کوئی بھی چیز بغیر ٹھیک کیے سونے مت دو۔ ہر چیز کو بڑی بات نہیں چاہیے — کچھ کو بس ایک 'یار، پہلے والے کے لیے سوری' چاہیے۔ رات کو چیزیں نہ اٹھانے کا reflex بناؤ۔ چھوٹی چھوٹی مرمت، روز۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said it is not permissible for a Muslim to abandon his brother for more than three days. Not because of the other person — because of what carrying that weight does to you. The longer you hold it, the heavier it gets, and the harder it becomes to put down.",
+        "hi": "नबी ﷺ ने फ़रमाया: किसी मुसलमान के लिए तीन दिन से ज़्यादा अपने भाई से क़तआ करना जायज़ नहीं। दूसरे के लिए नहीं — इसलिए कि यह बोझ उठाने से तुम्हारा क्या होता है। जितना देर पकड़ोगे, उतना भारी होगा, उतना मुश्किल होगा छोड़ना।",
+        "ur": "نبی ﷺ نے فرمایا: کسی مسلمان کے لیے تین دن سے زیادہ اپنے بھائی سے قطع کرنا جائز نہیں۔ دوسرے کے لیے نہیں — اس لیے کہ یہ بوجھ اٹھانے سے تمہارا کیا ہوتا ہے۔ جتنا دیر پکڑو گے، اتنا بھاری ہوگا، اتنا مشکل ہوگا چھوڑنا۔"
+      },
+      "example": {
+        "en": "You snapped at your child at breakfast. Evening comes. Don't wait for them to forget it. Sit with them for five minutes and say: 'Subah meri baat theek nahi thi. Sorry.' Watch what it does to them — and to you.",
+        "hi": "नाश्ते पर बच्चे पर भड़क गए। शाम आती है। इसके भूल जाने का इंतज़ार मत करो। पाँच मिनट उनके पास बैठो और कहो: 'सुबह मेरी बात ठीक नहीं थी। सॉरी।' देखो इसका उन पर क्या असर पड़ता है — और तुम पर।",
+        "ur": "ناشتے پر بچے پر بھڑک گئے۔ شام آتی ہے۔ اس کے بھول جانے کا انتظار مت کرو۔ پانچ منٹ ان کے پاس بیٹھو اور کہو: 'صبح میری بات ٹھیک نہیں تھی۔ سوری۔' دیکھو اس کا ان پر کیا اثر پڑتا ہے — اور تم پر۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 5,
+        "ayah": 39,
+        "arabic": "فَمَن تَابَ مِن بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ",
+        "translation": {
+          "en": "But whoever repents after his wrongdoing and reforms — indeed Allah will turn to him in forgiveness.",
+          "hi": "लेकिन जो ज़ुल्म के बाद तौबह करे और सुधर जाए — तो अल्लाह उसकी तौबह क़बूल करता है।",
+          "ur": "لیکن جو ظلم کے بعد توبہ کرے اور سدھر جائے — تو اللہ اس کی توبہ قبول کرتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "Is there a relationship around you that's broken — between others, not just you? A sibling and a parent. Two friends. You've watched it go cold. Today: be the one who tries to broker peace. Not by taking sides. Just: 'Yaar, kab tak?'",
+        "hi": "तुम्हारे आसपास कोई रिश्ता टूटा हुआ है — दूसरों के बीच, सिर्फ़ तुम्हारे नहीं? भाई-बहन और माँ-बाप। दो दोस्त। तुमने देखा है कैसे ठंडा हो गया। आज: वो बनो जो सुलह करवाने की कोशिश करे। पक्ष लेकर नहीं। बस: 'यार, कब तक?'",
+        "ur": "تمہارے آس پاس کوئی رشتہ ٹوٹا ہوا ہے — دوسروں کے درمیان، صرف تمہارے نہیں؟ بھائی بہن اور ماں باپ۔ دو دوست۔ تم نے دیکھا ہے کیسے ٹھنڈا ہو گیا۔ آج: وہ بنو جو صلح کروانے کی کوشش کرے۔ پہلو لے کر نہیں۔ بس: 'یار، کب تک؟'"
+      },
+      "hikmah": {
+        "en": "The one who repairs relationships between people earns the highest reward. Not because it's easy — because it's hard, and usually thankless, and often both people are too proud to move first. You becoming the bridge is one of the most quietly powerful things a person can do.",
+        "hi": "लोगों के बीच रिश्ते ठीक करने वाले को सबसे बड़ा अज्र मिलता है। इसलिए नहीं कि यह आसान है — इसलिए कि यह मुश्किल है, अक्सर बेक़दरी होती है, और आम तौर पर दोनों लोग पहले क़दम उठाने में बहुत ग़रूरमंद होते हैं। तुम पुल बनना — यह सबसे चुपचाप ताक़तवर काम है।",
+        "ur": "لوگوں کے درمیان رشتے ٹھیک کرنے والے کو سب سے بڑا اجر ملتا ہے۔ اس لیے نہیں کہ یہ آسان ہے — اس لیے کہ یہ مشکل ہے، اکثر بے قدری ہوتی ہے، اور عام طور پر دونوں لوگ پہلا قدم اٹھانے میں بہت غرورمند ہوتے ہیں۔ تم پل بننا — یہ سب سے چپ چاپ طاقتور کام ہے۔"
+      },
+      "example": {
+        "en": "Your brother and father haven't spoken properly in months. You've been neutral — careful not to take sides. But neutral also means doing nothing. This week: call one of them and say 'Mujhe nahin pata kya hua, lekin mujhe dono ki zaroorat hai. Kuch hoga?'",
+        "hi": "भाई और बाबा महीनों से ठीक से बात नहीं करते। तुम neutral रहे — पक्ष न लेने के लिए। लेकिन neutral का मतलब कुछ न करना भी है। इस हफ़्ते: एक को call करो और कहो 'मुझे नहीं पता क्या हुआ, लेकिन मुझे दोनों की ज़रूरत है। कुछ होगा?'",
+        "ur": "بھائی اور ابا مہینوں سے ٹھیک سے بات نہیں کرتے۔ تم neutral رہے — پہلو نہ لینے کے لیے۔ لیکن neutral کا مطلب کچھ نہ کرنا بھی ہے۔ اس ہفتے: ایک کو call کرو اور کہو 'مجھے نہیں پتا کیا ہوا، لیکن مجھے دونوں کی ضرورت ہے۔ کچھ ہوگا؟'"
+      }
+    }
+  ]
+}

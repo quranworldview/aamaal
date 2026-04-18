@@ -1,0 +1,174 @@
+{
+  "month_key": "dhul-hijjah",
+  "month_number": 3,
+  "hijri_year": 1447,
+  "theme": {
+    "en": "Sacrifice — What Will You Give Up?",
+    "hi": "क़ुर्बानी — क्या छोड़ोगे?",
+    "ur": "قربانی — کیا چھوڑو گے؟"
+  },
+  "theme_arabic": "أُضْحِيَة",
+  "theme_ayah": {
+    "surah": 22,
+    "ayah": 37,
+    "arabic": "لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ",
+    "translation": {
+      "en": "Never will their flesh reach Allah, nor their blood — but what reaches Him is piety from you.",
+      "hi": "न उनका गोश्त अल्लाह तक पहुँचता है न उनका ख़ून — लेकिन उस तक तुम्हारी तक़वा पहुँचती है।",
+      "ur": "نہ ان کا گوشت اللہ تک پہنچتا ہے نہ ان کا خون — لیکن اس تک تمہاری تقوی پہنچتی ہے۔"
+    }
+  },
+  "month_question": {
+    "en": "What comfort am I holding onto that is getting between me and growth?",
+    "hi": "कौन-सा आराम है जिसे मैं पकड़े हूँ और जो मुझे आगे बढ़ने से रोक रहा है?",
+    "ur": "کون سا آرام ہے جسے میں پکڑے ہوں اور جو مجھے آگے بڑھنے سے روک رہا ہے؟"
+  },
+  "total_days": 29,
+  "days": [
+    {
+      "day": 1,
+      "task_id": "a1-adab-zubaan",
+      "stage": 1
+    },
+    {
+      "day": 2,
+      "task_id": "a2-adab-salaam",
+      "stage": 1
+    },
+    {
+      "day": 3,
+      "task_id": "a3-adab-shukriya",
+      "stage": 1
+    },
+    {
+      "day": 4,
+      "task_id": "a4-adab-maafi",
+      "stage": 1
+    },
+    {
+      "day": 5,
+      "task_id": "a5-adab-taarif",
+      "stage": 1
+    },
+    {
+      "day": 6,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 1
+    },
+    {
+      "day": 7,
+      "task_id": "n2-nafs-kibr",
+      "stage": 1
+    },
+    {
+      "day": 8,
+      "task_id": "n3-nafs-hasad",
+      "stage": 1
+    },
+    {
+      "day": 9,
+      "task_id": "n4-nafs-riya",
+      "stage": 1
+    },
+    {
+      "day": 10,
+      "task_id": "n5-nafs-muhasaba",
+      "stage": 1
+    },
+    {
+      "day": 11,
+      "task_id": "h1-health-neend",
+      "stage": 1
+    },
+    {
+      "day": 12,
+      "task_id": "h2-health-khaana",
+      "stage": 1
+    },
+    {
+      "day": 13,
+      "task_id": "h3-health-harkat",
+      "stage": 1
+    },
+    {
+      "day": 14,
+      "task_id": "h4-health-bimari",
+      "stage": 1
+    },
+    {
+      "day": 15,
+      "task_id": "h5-health-zehn",
+      "stage": 1
+    },
+    {
+      "day": 16,
+      "task_id": "c1-clean-tahara",
+      "stage": 1
+    },
+    {
+      "day": 17,
+      "task_id": "c2-clean-jism",
+      "stage": 1
+    },
+    {
+      "day": 18,
+      "task_id": "c3-clean-ghar",
+      "stage": 1
+    },
+    {
+      "day": 19,
+      "task_id": "c4-clean-dil",
+      "stage": 1
+    },
+    {
+      "day": 20,
+      "task_id": "c5-clean-mahol",
+      "stage": 1
+    },
+    {
+      "day": 21,
+      "task_id": "a1-adab-zubaan",
+      "stage": 2
+    },
+    {
+      "day": 22,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 2
+    },
+    {
+      "day": 23,
+      "task_id": "h1-health-neend",
+      "stage": 2
+    },
+    {
+      "day": 24,
+      "task_id": "c1-clean-tahara",
+      "stage": 2
+    },
+    {
+      "day": 25,
+      "task_id": "a2-adab-salaam",
+      "stage": 2
+    },
+    {
+      "day": 26,
+      "task_id": "n2-nafs-kibr",
+      "stage": 2
+    },
+    {
+      "day": 27,
+      "task_id": "h2-health-khaana",
+      "stage": 2
+    },
+    {
+      "day": 28,
+      "task_id": "c2-clean-jism",
+      "stage": 2
+    },
+    {
+      "day": 29,
+      "task_id": "a3-adab-shukriya",
+      "stage": 2
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "month_key": "shawwal",
+  "month_number": 1,
+  "hijri_year": 1447,
+  "theme": {
+    "en": "Ramadan ke baad bhi rukna nahi",
+    "hi": "रमज़ान के बाद भी रुकना नहीं",
+    "ur": "رمضان کے بعد بھی رکنا نہیں"
+  },
+  "theme_arabic": "اسْتِقَامَة",
+  "theme_ayah": {
+    "surah": 16,
+    "ayah": 92,
+    "arabic": "وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ أَنكَاثًا",
+    "translation": {
+      "en": "And do not be like she who unravelled her spun thread after it was strong.",
+      "hi": "और उस औरत जैसे मत बनो जिसने मज़बूत धागा बुनने के बाद उसे उधेड़ दिया।",
+      "ur": "اور اس عورت جیسے مت بنو جس نے مضبوط دھاگا بُننے کے بعد اسے اُدھیڑ دیا۔"
+    }
+  },
+  "month_question": {
+    "en": "What from Ramadan am I actually keeping — and what have I already let go?",
+    "hi": "रमज़ान से क्या मैंने सच में पकड़ा हुआ है — और क्या छोड़ दिया?",
+    "ur": "رمضان سے کیا میں نے سچ میں پکڑا ہوا ہے — اور کیا چھوڑ دیا؟"
+  },
+  "total_days": 30,
+  "days": [
+    {
+      "day": 1,
+      "task_id": "a1-adab-zubaan",
+      "stage": 1
+    },
+    {
+      "day": 2,
+      "task_id": "a2-adab-salaam",
+      "stage": 1
+    },
+    {
+      "day": 3,
+      "task_id": "a3-adab-shukriya",
+      "stage": 1
+    },
+    {
+      "day": 4,
+      "task_id": "a4-adab-maafi",
+      "stage": 1
+    },
+    {
+      "day": 5,
+      "task_id": "a5-adab-taarif",
+      "stage": 1
+    },
+    {
+      "day": 6,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 1
+    },
+    {
+      "day": 7,
+      "task_id": "n2-nafs-kibr",
+      "stage": 1
+    },
+    {
+      "day": 8,
+      "task_id": "n3-nafs-hasad",
+      "stage": 1
+    },
+    {
+      "day": 9,
+      "task_id": "n4-nafs-riya",
+      "stage": 1
+    },
+    {
+      "day": 10,
+      "task_id": "n5-nafs-muhasaba",
+      "stage": 1
+    },
+    {
+      "day": 11,
+      "task_id": "h1-health-neend",
+      "stage": 1
+    },
+    {
+      "day": 12,
+      "task_id": "h2-health-khaana",
+      "stage": 1
+    },
+    {
+      "day": 13,
+      "task_id": "h3-health-harkat",
+      "stage": 1
+    },
+    {
+      "day": 14,
+      "task_id": "h4-health-bimari",
+      "stage": 1
+    },
+    {
+      "day": 15,
+      "task_id": "h5-health-zehn",
+      "stage": 1
+    },
+    {
+      "day": 16,
+      "task_id": "c1-clean-tahara",
+      "stage": 1
+    },
+    {
+      "day": 17,
+      "task_id": "c2-clean-jism",
+      "stage": 1
+    },
+    {
+      "day": 18,
+      "task_id": "c3-clean-ghar",
+      "stage": 1
+    },
+    {
+      "day": 19,
+      "task_id": "c4-clean-dil",
+      "stage": 1
+    },
+    {
+      "day": 20,
+      "task_id": "c5-clean-mahol",
+      "stage": 1
+    },
+    {
+      "day": 21,
+      "task_id": "a1-adab-zubaan",
+      "stage": 2
+    },
+    {
+      "day": 22,
+      "task_id": "n1-nafs-ghussa",
+      "stage": 2
+    },
+    {
+      "day": 23,
+      "task_id": "h1-health-neend",
+      "stage": 2
+    },
+    {
+      "day": 24,
+      "task_id": "c1-clean-tahara",
+      "stage": 2
+    },
+    {
+      "day": 25,
+      "task_id": "a2-adab-salaam",
+      "stage": 2
+    },
+    {
+      "day": 26,
+      "task_id": "n2-nafs-kibr",
+      "stage": 2
+    },
+    {
+      "day": 27,
+      "task_id": "h2-health-khaana",
+      "stage": 2
+    },
+    {
+      "day": 28,
+      "task_id": "c2-clean-jism",
+      "stage": 2
+    },
+    {
+      "day": 29,
+      "task_id": "a3-adab-shukriya",
+      "stage": 2
+    },
+    {
+      "day": 30,
+      "task_id": "n3-nafs-hasad",
+      "stage": 2
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "c1-clean-tahara",
+  "category": "cleanliness",
+  "name": {
+    "en": "The Meaning of Purity",
+    "hi": "पाकी का मतलब",
+    "ur": "پاکی کا مطلب"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 2, "ayah": 222,
+        "arabic": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
+        "translation": {
+          "en": "Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.",
+          "hi": "बेशक अल्लाह तौबह करने वालों से मोहब्बत करता है और पाकी रखने वालों से मोहब्बत करता है।",
+          "ur": "بے شک اللہ توبہ کرنے والوں سے محبت کرتا ہے اور پاکی رکھنے والوں سے محبت کرتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "Today, notice how you do wudu. Not whether you do it — how. Are you rushing through it? Are you present, or somewhere else? Do you feel anything in those moments with the water — or is it purely mechanical? Just observe your own wudu today without judgment.",
+        "hi": "आज, नोटिस करो कि वुज़ू कैसे करते हो। यह नहीं कि करते हो — कैसे। जल्दी में गुज़र रहे हो? मौजूद हो, या कहीं और? पानी के उन लम्हों में कुछ महसूस होता है — या यह purely mechanical है? बस आज अपने वुज़ू को बिना judge किए observe करो।",
+        "ur": "آج، نوٹس کرو کہ وضو کیسے کرتے ہو۔ یہ نہیں کہ کرتے ہو — کیسے۔ جلدی میں گزر رہے ہو؟ موجود ہو، یا کہیں اور؟ پانی کے ان لمحوں میں کچھ محسوس ہوتا ہے — یا یہ purely mechanical ہے؟ بس آج اپنے وضو کو بغیر judge کیے observe کرو۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: purity is half of iman. Not a quarter. Not a nice-to-have. Half. Why? Because tahara is not just physical — it is a state of orientation. The one who maintains wudu is always ready to stand before Allah. That readiness changes how you move through the world. You carry the awareness of being in a state of purity with you.",
+        "hi": "नबी ﷺ ने फ़रमाया: पाकी ईमान का आधा हिस्सा है। चौथाई नहीं। nice-to-have नहीं। आधा। क्यों? क्योंकि तहारह सिर्फ़ जिस्मानी नहीं है — यह एक रुख़ की हालत है। जो वुज़ू में रहता है वो हमेशा अल्लाह के सामने खड़े होने के लिए तैयार है। वो तैयारी तुम्हारे दुनिया में आगे बढ़ने के तरीक़े को बदल देती है। पाकी की हालत में होने की awareness अपने साथ लेकर चलते हो।",
+        "ur": "نبی ﷺ نے فرمایا: پاکی ایمان کا آدھا حصہ ہے۔ چوتھائی نہیں۔ nice-to-have نہیں۔ آدھا۔ کیوں؟ کیونکہ طہارہ صرف جسمانی نہیں ہے — یہ ایک رخ کی حالت ہے۔ جو وضو میں رہتا ہے وہ ہمیشہ اللہ کے سامنے کھڑے ہونے کے لیے تیار ہے۔ وہ تیاری تمہارے دنیا میں آگے بڑھنے کے طریقے کو بدل دیتی ہے۔ پاکی کی حالت میں ہونے کی awareness اپنے ساتھ لے کر چلتے ہو۔"
+      },
+      "example": {
+        "en": "Tomorrow morning, after Fajr: stay in wudu for as long as you can through the day. Renew it when it breaks. Notice how it makes you feel — whether it changes the way you speak, the way you react, the way you hold yourself. A day spent in wudu is a day lived differently. Try it once.",
+        "hi": "कल सुबह, फ़ज्र के बाद: दिन में जितना हो सके वुज़ू में रहो। जब टूटे, दोबारा करो। नोटिस करो यह कैसा feel कराता है — बात करने का तरीक़ा, react करने का तरीक़ा, ख़ुद को रखने का तरीक़ा बदलता है। वुज़ू में बिताया दिन अलग तरह से जीया जाता है। एक बार try करो।",
+        "ur": "کل صبح، فجر کے بعد: دن میں جتنا ہو سکے وضو میں رہو۔ جب ٹوٹے، دوبارہ کرو۔ نوٹس کرو یہ کیسا feel کراتا ہے — بات کرنے کا طریقہ، react کرنے کا طریقہ، خود کو رکھنے کا طریقہ بدلتا ہے۔ وضو میں بتایا دن الگ طرح سے جیا جاتا ہے۔ ایک بار try کرو۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 5, "ayah": 6,
+        "arabic": "مَا يُرِيدُ اللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ",
+        "translation": {
+          "en": "Allah does not intend to make difficulty for you, but He intends to purify you.",
+          "hi": "अल्लाह तुम्हें तकलीफ़ में डालना नहीं चाहता, बल्कि वो तुम्हें पाक करना चाहता है।",
+          "ur": "اللہ تمہیں تکلیف میں ڈالنا نہیں چاہتا، بلکہ وہ تمہیں پاک کرنا چاہتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "Learn the deeper meaning of wudu today. The hadith about sins washing away with each droplet — and the deep theology of what it means to stand before Allah in a state of purity. Also: learn the proper method and dua of wudu. Not to find mistakes in yours — to deepen what you already do.",
+        "hi": "आज वुज़ू का गहरा मतलब सीखो। हदीस जो हर बूँद के साथ गुनाह धुल जाने की बात करती है — और यह क्या मायने रखता है कि पाकी की हालत में अल्लाह के सामने खड़े हों। साथ में: वुज़ू का सही तरीक़ा और दुआ सीखो। तुम्हारे वुज़ू में ग़लतियाँ ढूँढने के लिए नहीं — जो पहले से करते हो उसे गहरा करने के लिए।",
+        "ur": "آج وضو کا گہرا مطلب سیکھو۔ حدیث جو ہر بوند کے ساتھ گناہ دھل جانے کی بات کرتی ہے — اور یہ کیا مایہ رکھتا ہے کہ پاکی کی حالت میں اللہ کے سامنے کھڑے ہوں۔ ساتھ میں: وضو کا صحیح طریقہ اور دعا سیکھو۔ تمہارے وضو میں غلطیاں ڈھونڈنے کے لیے نہیں — جو پہلے سے کرتے ہو اسے گہرا کرنے کے لیے۔"
+      },
+      "hikmah": {
+        "en": "When you wash your hands in wudu, the sins of your hands are forgiven. When you wash your face, the sins of your sight. The angels record. The water does not just clean the body — it is a ritual of spiritual renewal. You are not just preparing for salah. You are resetting. Every wudu is a small reset — a return to a cleaner version of yourself.",
+        "hi": "जब वुज़ू में हाथ धोते हो, हाथों के गुनाह माफ़ होते हैं। जब चेहरा धोते हो, नज़र के गुनाह। फ़रिश्ते लिखते हैं। पानी सिर्फ़ जिस्म साफ़ नहीं करता — यह रूहानी नवीनीकरण का रस्म है। तुम सिर्फ़ नमाज़ की तैयारी नहीं कर रहे। तुम reset कर रहे हो। हर वुज़ू एक छोटा reset है — ख़ुद के साफ़तर version की तरफ़ वापसी।",
+        "ur": "جب وضو میں ہاتھ دھوتے ہو، ہاتھوں کے گناہ معاف ہوتے ہیں۔ جب چہرہ دھوتے ہو، نظر کے گناہ۔ فرشتے لکھتے ہیں۔ پانی صرف جسم صاف نہیں کرتا — یہ روحانی تجدید کا رسم ہے۔ تم صرف نماز کی تیاری نہیں کر رہے۔ تم reset کر رہے ہو۔ ہر وضو ایک چھوٹا reset ہے — خود کے صاف تر version کی طرف واپسی۔"
+      },
+      "example": {
+        "en": "Read the full hadith about the sins washing off with each part of wudu. Then next time you make wudu: be present for each part. Hands — I am washing away what my hands did. Face — I am washing away what my eyes saw, what my mouth said. This is not religion as habit. This is religion as repair.",
+        "hi": "वो पूरी हदीस पढ़ो जो वुज़ू के हर हिस्से के साथ गुनाह धुलने के बारे में है। फिर अगली बार वुज़ू करो: हर हिस्से के लिए present रहो। हाथ — जो मेरे हाथों ने किया वो धो रहा हूँ। चेहरा — जो मेरी आँखों ने देखा, जो मेरे मुँह ने कहा वो धो रहा हूँ। यह आदत के तौर पर दीन नहीं है। यह मरम्मत के तौर पर दीन है।",
+        "ur": "وہ پوری حدیث پڑھو جو وضو کے ہر حصے کے ساتھ گناہ دھلنے کے بارے میں ہے۔ پھر اگلی بار وضو کرو: ہر حصے کے لیے present رہو۔ ہاتھ — جو میرے ہاتھوں نے کیا وہ دھو رہا ہوں۔ چہرہ — جو میری آنکھوں نے دیکھا، جو میرے منہ نے کہا وہ دھو رہا ہوں۔ یہ عادت کے طور پر دین نہیں ہے۔ یہ مرمت کے طور پر دین ہے۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 74, "ayah": 4,
+        "arabic": "وَثِيَابَكَ فَطَهِّرْ",
+        "translation": {
+          "en": "And your clothing — purify.",
+          "hi": "और अपने कपड़े पाक रखो।",
+          "ur": "اور اپنے کپڑے پاک رکھو۔"
+        }
+      },
+      "task": {
+        "en": "Today: make wudu slowly — deliberately, with presence. Say the opening dua. Wash each part properly. Say the closing dua: 'Ashhadu an la ilaha illallah wa ashhadu anna Muhammadan abduhu wa rasuluh' — and the addition: 'Allahumma aj'alni minat-tawwabin waj'alni minal-mutatahhirin.' Time it if you want. Slow wudu takes maybe 4 minutes. Give your sins 4 minutes.",
+        "hi": "आज: वुज़ू धीरे करो — जान-बूझकर, मौजूदगी के साथ। शुरुआती दुआ कहो। हर हिस्सा ठीक से धोओ। ख़त्म होने की दुआ कहो: 'अश्हदु अन्न ला इलाहा इल्लल्लाह व अश्हदु अन्न मुहम्मदन अब्दुहू व रसूलुह' — और यह जोड़: 'अल्लाहुम्मा अज्अलनी मिनत्-तव्वाबीन वज्अलनी मिनल-मुतताहिरीन।' चाहो तो time करो। धीमा वुज़ू शायद 4 मिनट लेता है। अपने गुनाहों को 4 मिनट दो।",
+        "ur": "آج: وضو آہستہ کرو — جان بوجھ کر، موجودگی کے ساتھ۔ شروعاتی دعا کہو۔ ہر حصہ ٹھیک سے دھوؤ۔ ختم ہونے کی دعا کہو: 'أشہد أن لا إلہ إلا اللہ وأشہد أن محمداً عبدہ ورسولہ' — اور یہ جوڑ: 'اللہم اجعلنی من التوابین واجعلنی من المتطہرین۔' چاہو تو time کرو۔ سست وضو شاید 4 منٹ لیتا ہے۔ اپنے گناہوں کو 4 منٹ دو۔"
+      },
+      "hikmah": {
+        "en": "The closing dua of wudu contains a promise: 'O Allah, make me of those who constantly repent and make me of those who purify themselves.' You are asking to be included in two groups that Allah explicitly says He loves. Not to be perfect — to be the kind of person who keeps turning back and keeps cleaning up. That is the whole journey, summed up in one dua.",
+        "hi": "वुज़ू की ख़त्म होने की दुआ में एक वादा है: 'ऐ अल्लाह, मुझे उनमें शामिल कर जो लगातार तौबह करते हैं और मुझे उनमें शामिल कर जो ख़ुद को पाक रखते हैं।' तुम उन दो groups में शामिल होने की माँग कर रहे हो जिन्हें अल्लाह explicitly कहता है कि वो उनसे मोहब्बत करता है। परफ़ेक्ट होने के लिए नहीं — बल्कि उस क़िस्म का इंसान बनने के लिए जो वापस आता रहता है और साफ़ करता रहता है। यही पूरा सफ़र है, एक दुआ में समेटा हुआ।",
+        "ur": "وضو کی ختم ہونے کی دعا میں ایک وعدہ ہے: 'اے اللہ، مجھے ان میں شامل کر جو لگاتار توبہ کرتے ہیں اور مجھے ان میں شامل کر جو خود کو پاک رکھتے ہیں۔' تم ان دو groups میں شامل ہونے کی مانگ کر رہے ہو جنہیں اللہ explicitly کہتا ہے کہ وہ ان سے محبت کرتا ہے۔ perfect ہونے کے لیے نہیں — بلکہ اس قسم کے انسان بننے کے لیے جو واپس آتا رہتا ہے اور صاف کرتا رہتا ہے۔ یہی پورا سفر ہے، ایک دعا میں سمیٹا ہوا۔"
+      },
+      "example": {
+        "en": "You've been making wudu for years. Today it will take 4 minutes instead of 90 seconds. That will feel wrong at first — like you're going too slowly. Push through that feeling. The reason it feels wrong is because you've been rushing something that was designed to be done with presence. The slowness is not inefficiency. It is the point.",
+        "hi": "सालों से वुज़ू कर रहे हो। आज 90 सेकंड की जगह 4 मिनट लगेंगे। पहले यह ग़लत feel होगा — जैसे बहुत धीमे जा रहे हो। उस feeling को push through करो। ग़लत इसलिए feel होता है क्योंकि तुमने उस चीज़ को जल्दी में किया है जो मौजूदगी के साथ करने के लिए बनाई गई थी। धीमापन inefficiency नहीं है। यही मक़सद है।",
+        "ur": "سالوں سے وضو کر رہے ہو۔ آج 90 سیکنڈ کی جگہ 4 منٹ لگیں گے۔ پہلے یہ غلط feel ہوگا — جیسے بہت سست جا رہے ہو۔ اس feeling کو push through کرو۔ غلط اس لیے feel ہوتا ہے کیونکہ تم نے اس چیز کو جلدی میں کیا ہے جو موجودگی کے ساتھ کرنے کے لیے بنائی گئی تھی۔ سستی inefficiency نہیں ہے۔ یہی مقصد ہے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 9, "ayah": 108,
+        "arabic": "فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ",
+        "translation": {
+          "en": "In it are men who love to purify themselves, and Allah loves those who purify themselves.",
+          "hi": "उसमें ऐसे मर्द हैं जो पाक रहना पसंद करते हैं, और अल्लाह पाक रहने वालों को पसंद करता है।",
+          "ur": "اس میں ایسے مرد ہیں جو پاک رہنا پسند کرتے ہیں، اور اللہ پاک رہنے والوں کو پسند کرتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "This week: stay in a state of wudu as much as practically possible. Renew it whenever it breaks. Notice how this changes your state through the day — your reactions, your speech, your sense of self. Keep a one-line note each evening: 'Today being in wudu made me feel ___.' After seven days, read back what you wrote.",
+        "hi": "इस हफ़्ते: जितना practically हो सके वुज़ू की हालत में रहो। जब टूटे, नया करो। नोटिस करो यह दिन भर तुम्हारी हालत को कैसे बदलता है — reactions, बात करना, ख़ुद के बारे में एहसास। हर शाम एक लाइन note रखो: 'आज वुज़ू में रहने से ___ feel हुआ।' सात दिन बाद, जो लिखा था वो पढ़ो।",
+        "ur": "اس ہفتے: جتنا practically ہو سکے وضو کی حالت میں رہو۔ جب ٹوٹے، نیا کرو۔ نوٹس کرو یہ دن بھر تمہاری حالت کو کیسے بدلتا ہے — reactions، بات کرنا، خود کے بارے میں احساس۔ ہر شام ایک لائن note رکھو: 'آج وضو میں رہنے سے ___ feel ہوا۔' سات دن بعد، جو لکھا تھا وہ پڑھو۔"
+      },
+      "hikmah": {
+        "en": "The companions would maintain wudu throughout their day — renewing it after every break. Not because it was required, but because they understood what they were carrying. A person in wudu carries a certain light with them. They move through the world differently. They are in a state of readiness — to remember Allah, to pray, to respond well. That state changes everything it touches.",
+        "hi": "सहाबा दिन भर वुज़ू में रहते थे — हर बार टूटने के बाद नया करते थे। इसलिए नहीं कि यह ज़रूरी था, बल्कि इसलिए कि वो समझते थे कि वो क्या उठाए हुए हैं। वुज़ू में रहने वाला इंसान एक ख़ास रोशनी अपने साथ लेकर चलता है। वो दुनिया में अलग तरह से आगे बढ़ता है। वो एक तैयारी की हालत में है — अल्लाह को याद करने के लिए, नमाज़ के लिए, अच्छी तरह respond करने के लिए। वो हालत हर उस चीज़ को बदल देती है जिसे वो छूती है।",
+        "ur": "صحابہ دن بھر وضو میں رہتے تھے — ہر بار ٹوٹنے کے بعد نیا کرتے تھے۔ اس لیے نہیں کہ یہ ضروری تھا، بلکہ اس لیے کہ وہ سمجھتے تھے کہ وہ کیا اٹھائے ہوئے ہیں۔ وضو میں رہنے والا انسان ایک خاص روشنی اپنے ساتھ لے کر چلتا ہے۔ وہ دنیا میں الگ طرح سے آگے بڑھتا ہے۔ وہ ایک تیاری کی حالت میں ہے — اللہ کو یاد کرنے کے لیے، نماز کے لیے، اچھی طرح respond کرنے کے لیے۔ وہ حالت ہر اس چیز کو بدل دیتی ہے جسے وہ چھوتی ہے۔"
+      },
+      "example": {
+        "en": "Day four of the week. You've been maintaining wudu pretty well. Then you get into an argument with someone at home. Notice: are you different in the argument when you're in wudu versus when you're not? Most people find they are. Not perfectly calm — but slightly more restrained, slightly more aware. That restraint is the wudu working.",
+        "hi": "हफ़्ते का चौथा दिन। वुज़ू काफ़ी अच्छे से maintain कर रहे हो। फिर घर में किसी से बहस हो जाती है। नोटिस करो: वुज़ू में होने पर बहस में अलग हो जब वुज़ू में नहीं होते? ज़्यादातर लोगों को लगता है कि वो होते हैं। परफ़ेक्ट शांत नहीं — लेकिन थोड़ा ज़्यादा restraint, थोड़ा ज़्यादा aware। वो restraint वुज़ू का काम करना है।",
+        "ur": "ہفتے کا چوتھا دن۔ وضو کافی اچھے سے maintain کر رہے ہو۔ پھر گھر میں کسی سے بحث ہو جاتی ہے۔ نوٹس کرو: وضو میں ہونے پر بحث میں الگ ہو جب وضو میں نہیں ہوتے؟ زیادہ تر لوگوں کو لگتا ہے کہ وہ ہوتے ہیں۔ perfect پرسکون نہیں — لیکن تھوڑا زیادہ restraint، تھوڑا زیادہ aware۔ وہ restraint وضو کا کام کرنا ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 87, "ayah": 14,
+        "arabic": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+        "translation": {
+          "en": "He has certainly succeeded who purifies himself.",
+          "hi": "बेशक कामयाब हुआ जिसने पाकी अपनाई।",
+          "ur": "بے شک کامیاب ہوا جس نے پاکی اپنائی۔"
+        }
+      },
+      "task": {
+        "en": "Teach a child in your life how to make wudu — properly, with presence. Not as a chore. As an act of meeting Allah. Tell them: 'When you wash your hands, you're washing away whatever your hands did wrong today. When you wash your face, you're washing away what your eyes saw.' Make it meaningful. The child who learns wudu as renewal rather than ritual carries that for life.",
+        "hi": "अपनी ज़िंदगी के किसी बच्चे को वुज़ू का तरीक़ा सिखाओ — ठीक से, मौजूदगी के साथ। काम की तरह नहीं। अल्लाह से मिलने के अमल की तरह। उन्हें बताओ: 'जब हाथ धोते हो, तुम उन हाथों को धो रहे हो जो आज ग़लत किया। जब चेहरा धोते हो, उन आँखों को जो देखा।' इसे meaningful बनाओ। जो बच्चा वुज़ू को रस्म की जगह नवीनीकरण के तौर पर सीखता है वो यह ज़िंदगी भर के लिए उठाता है।",
+        "ur": "اپنی زندگی کے کسی بچے کو وضو کا طریقہ سکھاؤ — ٹھیک سے، موجودگی کے ساتھ۔ کام کی طرح نہیں۔ اللہ سے ملنے کے عمل کی طرح۔ انہیں بتاؤ: 'جب ہاتھ دھوتے ہو، تم ان ہاتھوں کو دھو رہے ہو جو آج غلط کیا۔ جب چہرہ دھوتے ہو، ان آنکھوں کو جو دیکھا۔' اسے meaningful بناؤ۔ جو بچہ وضو کو رسم کی جگہ تجدید کے طور پر سیکھتا ہے وہ یہ زندگی بھر کے لیے اٹھاتا ہے۔"
+      },
+      "hikmah": {
+        "en": "The first time a child makes wudu with understanding — not just copying the movements, but knowing what each wash is for — something shifts in how they see themselves. They learn that they can clean up. That no matter what happened today, this water and this intention can start them fresh. That is one of the most powerful things you can give a child: the knowledge that renewal is always available.",
+        "hi": "पहली बार जब बच्चा समझ के साथ वुज़ू करता है — सिर्फ़ हरकतें copy नहीं करता, बल्कि जानता है कि हर धोना किसलिए है — कुछ बदल जाता है कि वो ख़ुद को कैसे देखते हैं। वो सीखते हैं कि साफ़ हो सकते हैं। आज चाहे जो भी हुआ, यह पानी और यह नीयत उन्हें नए सिरे से शुरू कर सकती है। यह सबसे ताक़तवर चीज़ों में से एक है जो तुम बच्चे को दे सकते हो: यह ज्ञान कि नवीनीकरण हमेशा उपलब्ध है।",
+        "ur": "پہلی بار جب بچہ سمجھ کے ساتھ وضو کرتا ہے — صرف حرکتیں copy نہیں کرتا، بلکہ جانتا ہے کہ ہر دھونا کس لیے ہے — کچھ بدل جاتا ہے کہ وہ خود کو کیسے دیکھتے ہیں۔ وہ سیکھتے ہیں کہ صاف ہو سکتے ہیں۔ آج چاہے جو بھی ہوا، یہ پانی اور یہ نیت انہیں نئے سرے سے شروع کر سکتی ہے۔ یہ سب سے طاقتور چیزوں میں سے ایک ہے جو تم بچے کو دے سکتے ہو: یہ علم کہ تجدید ہمیشہ دستیاب ہے۔"
+      },
+      "example": {
+        "en": "Your child had a hard day at school — said something mean to a friend, got into trouble. They come home dejected. Instead of a lecture: 'Come, let's make wudu together.' Do it side by side. Say the dua together. Quietly explain what each part washes away. Then say: 'Now you're clean. Tomorrow you can be different.' That is the whole lesson.",
+        "hi": "बच्चे का school में बुरा दिन रहा — दोस्त से कुछ बुरा बोला, मुश्किल में पड़ा। उदास घर आता है। lecture की जगह: 'आओ, साथ में वुज़ू करते हैं।' साथ-साथ करो। साथ दुआ कहो। चुपचाप बताओ कि हर हिस्सा क्या धोता है। फिर कहो: 'अब तुम साफ़ हो। कल अलग हो सकते हो।' यही पूरा सबक़ है।",
+        "ur": "بچے کا school میں بُرا دن رہا — دوست سے کچھ بُرا بولا، مشکل میں پڑا۔ اداس گھر آتا ہے۔ lecture کی جگہ: 'آؤ، ساتھ میں وضو کرتے ہیں۔' ساتھ ساتھ کرو۔ ساتھ دعا کہو۔ چپ چاپ بتاؤ کہ ہر حصہ کیا دھوتا ہے۔ پھر کہو: 'اب تم صاف ہو۔ کل الگ ہو سکتے ہو۔' یہی پورا سبق ہے۔"
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "h3-health-harkat",
+  "category": "health",
+  "name": {
+    "en": "Moving Your Body",
+    "hi": "जिस्म को हिलाना",
+    "ur": "جسم کو حرکت دینا"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 62,
+        "ayah": 10,
+        "arabic": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ",
+        "translation": {
+          "en": "And when the prayer is concluded, disperse through the land.",
+          "hi": "और जब नमाज़ पूरी हो जाए तो ज़मीन में फैल जाओ।",
+          "ur": "اور جب نماز پوری ہو جائے تو زمین میں پھیل جاؤ۔"
+        }
+      },
+      "task": {
+        "en": "Today, just count: how many hours did you spend sitting versus moving? Most people are shocked when they actually add it up. We were not designed to sit for 10 hours a day. Notice what your body feels like after a long sitting stretch — and after even a short walk.",
+        "hi": "आज बस गिनो: कितने घंटे बैठकर और कितने चलते-फिरते गुज़ारे? ज़्यादातर लोग जब सच में जोड़ते हैं तो हैरान हो जाते हैं। हमें दिन में दस घंटे बैठने के लिए नहीं बनाया गया। ध्यान दो — लंबे बैठने के बाद जिस्म कैसा महसूस होता है, और थोड़ी देर टहलने के बाद कैसा।",
+        "ur": "آج بس گنو: کتنے گھنٹے بیٹھ کر اور کتنے چلتے پھرتے گزارے؟ زیادہ تر لوگ جب سچ میں جوڑتے ہیں تو حیران ہو جاتے ہیں۔ ہمیں دن میں دس گھنٹے بیٹھنے کے لیے نہیں بنایا گیا۔ دھیان دو — لمبے بیٹھنے کے بعد جسم کیسا محسوس ہوتا ہے، اور تھوڑی دیر ٹہلنے کے بعد کیسا۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ walked. A lot. He walked to the masjid five times a day. He walked to visit the sick. He walked to check on his companions. Walking was not exercise for him — it was just how he moved through the world. We have engineered walking out of our lives so thoroughly that we now need to schedule it. Something has gone very wrong.",
+        "hi": "نبی ﷺ چلتے تھے۔ بہت۔\n\nنبी ﷺ بहुत चलते थे। दिन में पाँच बार मस्जिद पैदल जाते थे। बीमारों से मिलने पैदल जाते थे। साथियों का हाल जानने पैदल जाते थे। चलना उनके लिए कोई अलग से की जाने वाली चीज़ नहीं थी — बस ज़िंदगी जीने का तरीक़ा था। हमने इतनी कोशिश से चलना अपनी ज़िंदगी से बाहर कर दिया है कि अब उसके लिए अलग वक़्त निकालना पड़ता है। कहीं कुछ बहुत ग़लत हो गया।",
+        "ur": "نبی ﷺ بہت چلتے تھے۔ دن میں پانچ بار مسجد پیدل جاتے تھے۔ بیماروں سے ملنے پیدل جاتے تھے۔ ساتھیوں کا حال جاننے پیدل جاتے تھے۔ چلنا ان کے لیے کوئی الگ سے کی جانے والی چیز نہیں تھی — بس زندگی جینے کا طریقہ تھا۔ ہم نے اتنی کوشش سے چلنا اپنی زندگی سے باہر کر دیا ہے کہ اب اس کے لیے الگ وقت نکالنا پڑتا ہے۔ کہیں کچھ بہت غلط ہو گیا۔"
+      },
+      "example": {
+        "en": "After Asr today: 10-minute walk. No podcast. No phone. Just walk. Notice the sky. Notice what's around you. Notice what happens to your mind after those 10 minutes compared to sitting in your chair for 10 more minutes. The data is in your own experience — you don't need a study.",
+        "hi": "आज असर के बाद: दस मिनट टहलो। कोई गाना नहीं, फ़ोन नहीं। बस चलो। आसमान देखो। आसपास क्या है देखो। ध्यान दो — उन दस मिनटों के बाद दिमाग़ का क्या हाल होता है, कुर्सी पर दस मिनट और बैठने के मुक़ाबले। जवाब तुम्हारे अपने तजुर्बे में है — किसी किताब की ज़रूरत नहीं।",
+        "ur": "آج عصر کے بعد: دس منٹ ٹہلو۔ کوئی گانا نہیں، فون نہیں۔ بس چلو۔ آسمان دیکھو۔ آس پاس کیا ہے دیکھو۔ دھیان دو — ان دس منٹوں کے بعد دماغ کا کیا حال ہوتا ہے، کرسی پر دس منٹ اور بیٹھنے کے مقابلے۔ جواب تمہارے اپنے تجربے میں ہے — کسی کتاب کی ضرورت نہیں۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 8,
+        "ayah": 60,
+        "arabic": "وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ",
+        "translation": {
+          "en": "And prepare against them whatever you are able of strength.",
+          "hi": "और उनके मुक़ाबले में जितनी ताक़त जुटा सको जुटाओ।",
+          "ur": "اور ان کے مقابلے میں جتنی طاقت جمع کر سکو جمع کرو۔"
+        }
+      },
+      "task": {
+        "en": "Learn what the Prophet ﷺ said about physical strength — the strong believer is more beloved to Allah than the weak one. Read about the Sahaba: they rode horses, wrestled, ran, climbed. Physical capability was part of their identity. Also: look into what 20 minutes of daily walking does to the brain. The numbers are striking.",
+        "hi": "सीखो कि नबी ﷺ ने जिस्मानी ताक़त के बारे में क्या कहा — क़वी मोमिन कमज़ोर मोमिन से अल्लाह को ज़्यादा पसंद है। सहाबा के बारे में पढ़ो: घोड़े चलाते थे, कुश्ती करते थे, दौड़ते थे, पहाड़ चढ़ते थे। जिस्मानी काबिलियत उनकी पहचान का हिस्सा थी। साथ में यह भी देखो कि रोज़ बीस मिनट पैदल चलना दिमाग़ पर क्या असर डालता है। नतीजे हैरान करने वाले हैं।",
+        "ur": "سیکھو کہ نبی ﷺ نے جسمانی طاقت کے بارے میں کیا کہا — قوی مومن کمزور مومن سے اللہ کو زیادہ پسند ہے۔ صحابہ کے بارے میں پڑھو: گھوڑے چلاتے تھے، کشتی کرتے تھے، دوڑتے تھے، پہاڑ چڑھتے تھے۔ جسمانی صلاحیت ان کی پہچان کا حصہ تھی۔ ساتھ میں یہ بھی دیکھو کہ روز بیس منٹ پیدل چلنا دماغ پر کیا اثر ڈالتا ہے۔ نتائج حیران کرنے والے ہیں۔"
+      },
+      "hikmah": {
+        "en": "Islam does not separate the body from the spirit. The one who neglects their body is not more spiritual — they are less whole. You cannot do your best ibadah in a body that has been abused through neglect. Salah requires standing, bowing, prostrating — and doing it with presence. The body is the vehicle. A neglected vehicle eventually fails its rider.",
+        "hi": "इस्लाम जिस्म को रूह से अलग नहीं करता। जो जिस्म को नज़रअंदाज़ करता है वो ज़्यादा रूहानी नहीं हो जाता — वो बस कम पूरा रहता है। जिस जिस्म की ठीक से देखभाल न हो उसमें इबादत भी ठीक से नहीं होती। नमाज़ के लिए खड़ा होना, झुकना, सजदा करना — और दिल से, पूरी तरह मौजूद होकर। जिस्म एक सवारी है। जिसकी परवाह न की जाए वो सवार को एक दिन ज़रूर छोड़ देती है।",
+        "ur": "اسلام جسم کو روح سے الگ نہیں کرتا۔ جو جسم کو نظرانداز کرتا ہے وہ زیادہ روحانی نہیں ہو جاتا — وہ بس کم مکمل رہتا ہے۔ جس جسم کی ٹھیک سے دیکھ بھال نہ ہو اس میں عبادت بھی ٹھیک سے نہیں ہوتی۔ نماز کے لیے کھڑا ہونا، جھکنا، سجدہ کرنا — اور دل سے، پوری طرح حاضر ہو کر۔ جسم ایک سواری ہے۔ جس کی پرواہ نہ کی جائے وہ سوار کو ایک دن ضرور چھوڑ دیتی ہے۔"
+      },
+      "example": {
+        "en": "Look at your five daily prayers as movement. Fajr — you wake and stand and bow and prostrate. That's your morning mobility. Dhuhr — midday, you move again. Asr, Maghrib, Isha — five times a day, your body is in motion, on the floor, standing, sitting. If you pray with full presence and correct posture, that is already more movement than most people get.",
+        "hi": "अपनी पाँच नमाज़ों को हरकत की नज़र से देखो। फ़ज्र — उठते हो, खड़े होते हो, झुकते हो, सजदा करते हो। यह तुम्हारी सुबह की जिस्मानी हरकत है। ज़ुहर — दोपहर में, फिर हिलते हो। असर, मग़रिब, इशा — दिन में पाँच बार, जिस्म हरकत में है, ज़मीन पर, खड़ा, बैठा। अगर पूरी तवज्जुह और सही ढंग से नमाज़ पढ़ो, तो यह पहले ही ज़्यादातर लोगों से ज़्यादा हरकत है।",
+        "ur": "اپنی پانچ نمازوں کو حرکت کی نظر سے دیکھو۔ فجر — اٹھتے ہو، کھڑے ہوتے ہو، جھکتے ہو، سجدہ کرتے ہو۔ یہ تمہاری صبح کی جسمانی حرکت ہے۔ ظہر — دوپہر میں، پھر ہلتے ہو۔ عصر، مغرب، عشا — دن میں پانچ بار، جسم حرکت میں ہے، زمین پر، کھڑا، بیٹھا۔ اگر پوری توجہ اور سہی انداز سے نماز پڑھو، تو یہ پہلے ہی زیادہ تر لوگوں سے زیادہ حرکت ہے۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 2,
+        "ayah": 195,
+        "arabic": "وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ",
+        "translation": {
+          "en": "And do not throw yourselves into destruction.",
+          "hi": "और अपने आप को हलाकत में मत डालो।",
+          "ur": "اور اپنے آپ کو ہلاکت میں مت ڈالو۔"
+        }
+      },
+      "task": {
+        "en": "Today: 20 minutes of movement. Your choice — walk, stretch, stairs, anything. But it has to be intentional, not incidental. Before you start: say Bismillah. When you finish: say Alhamdulillah. Make it an act of worship, not just fitness. Gratitude for a body that moves is one of the most under-said things.",
+        "hi": "आज: बीस मिनट जिस्म हिलाओ। जैसा चाहो — टहलो, हाथ-पाँव खोलो, सीढ़ियाँ चढ़ो, कुछ भी। लेकिन सोचकर करो, बस हो जाए इसलिए नहीं। शुरू करने से पहले Bismillah कहो। ख़त्म होने पर Alhamdulillah। इसे इबादत का हिस्सा बनाओ, सिर्फ़ सेहत का मामला नहीं। एक ऐसे जिस्म के लिए शुक्र जो हिल सकता है — यह सबसे कम कहा जाने वाला शुक्र है।",
+        "ur": "آج: بیس منٹ جسم ہلاؤ۔ جیسا چاہو — ٹہلو، ہاتھ پاؤں کھولو، سیڑھیاں چڑھو، کچھ بھی۔ لیکن سوچ کر کرو، بس ہو جائے اس لیے نہیں۔ شروع کرنے سے پہلے بسم اللہ کہو۔ ختم ہونے پر الحمدللہ۔ اسے عبادت کا حصہ بناؤ، صرف صحت کا معاملہ نہیں۔ ایک ایسے جسم کے لیے شکر جو ہل سکتا ہے — یہ سب سے کم کہا جانے والا شکر ہے۔"
+      },
+      "hikmah": {
+        "en": "Saying Alhamdulillah after exercise is not religious decoration. It is the only honest response to what you just did. You used a body that was given to you, that breathes without your permission, whose heart beats 100,000 times a day without you asking. That body just moved for 20 minutes without failing you. That deserves more than a selfie.",
+        "hi": "कसरत के बाद Alhamdulillah कहना सिर्फ़ रस्म की बात नहीं। यह उस चीज़ का इकलौता सच्चा जवाब है जो तुमने अभी की। तुमने एक ऐसे जिस्म का इस्तेमाल किया जो तुम्हें दिया गया था — जो तुम्हारी इजाज़त के बिना साँस लेता है, जिसका दिल तुम्हारे माँगे बिना दिन में एक लाख बार धड़कता है। वो जिस्म बीस मिनट बिना थके तुम्हारे साथ रहा। यह इससे कहीं ज़्यादा क़द्र के लायक़ है।",
+        "ur": "کسرت کے بعد الحمدللہ کہنا صرف رسم کی بات نہیں۔ یہ اس چیز کا اکلوتا سچا جواب ہے جو تم نے ابھی کی۔ تم نے ایک ایسے جسم کا استعمال کیا جو تمہیں دیا گیا تھا — جو تمہاری اجازت کے بغیر سانس لیتا ہے، جس کا دل تمہارے مانگے بغیر دن میں ایک لاکھ بار دھڑکتا ہے۔ وہ جسم بیس منٹ بنا تھکے تمہارے ساتھ رہا۔ یہ اس سے کہیں زیادہ قدر کے لائق ہے۔"
+      },
+      "example": {
+        "en": "You haven't exercised in three months. The thought of 'working out' feels too big. So don't work out. Just walk to the nearest masjid instead of driving. Take the stairs instead of the lift. Park further away. Start with zero commitment to exercise — just reintroduce movement into normal daily life. That is enough for now.",
+        "hi": "तीन महीनों से कसरत नहीं की। 'कसरत शुरू करना' बड़ा काम लगता है। तो वो मत करो। बस गाड़ी की जगह पास की मस्जिद पैदल जाओ। लिफ़्ट की जगह सीढ़ियाँ लो। थोड़ा दूर गाड़ी खड़ी करो। अलग से कुछ शुरू करने की ज़रूरत नहीं — बस रोज़मर्रा की ज़िंदगी में हरकत वापस आने दो। अभी के लिए इतना ही काफ़ी है।",
+        "ur": "تین مہینوں سے کسرت نہیں کی۔ 'کسرت شروع کرنا' بڑا کام لگتا ہے۔ تو وہ مت کرو۔ بس گاڑی کی جگہ پاس کی مسجد پیدل جاؤ۔ لفٹ کی جگہ سیڑھیاں لو۔ تھوڑا دور گاڑی کھڑی کرو۔ الگ سے کچھ شروع کرنے کی ضرورت نہیں — بس روزمرہ کی زندگی میں حرکت واپس آنے دو۔ ابھی کے لیے اتنا ہی کافی ہے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 94,
+        "ayah": 7,
+        "arabic": "فَإِذَا فَرَغْتَ فَانصَبْ",
+        "translation": {
+          "en": "So when you have finished, then stand up for worship.",
+          "hi": "तो जब फ़ारिग़ हो जाओ तो मेहनत में लग जाओ।",
+          "ur": "تو جب فارغ ہو جاؤ تو محنت میں لگ جاؤ۔"
+        }
+      },
+      "task": {
+        "en": "This week: attach movement to something you already do. After Fajr — 10 minutes of stretching. After Dhuhr — a short walk. After work — something. Hook movement onto a prayer so it becomes part of the same routine. Don't create a new time slot. Use the transitions you already have.",
+        "hi": "इस हफ़्ते: जिस्म की हरकत को किसी ऐसी चीज़ से जोड़ो जो पहले से करते हो। फ़ज्र के बाद — दस मिनट हाथ-पाँव खोलो। ज़ुहर के बाद — थोड़ी देर टहलो। काम के बाद — कुछ भी। हरकत को किसी एक नमाज़ के साथ लगा दो ताकि वो उसी के दस्तूर का हिस्सा बन जाए। अलग से वक़्त निकालने की ज़रूरत नहीं। जो फ़ुर्सत के लम्हे पहले से हैं उनका फ़ायदा उठाओ।",
+        "ur": "اس ہفتے: جسم کی حرکت کو کسی ایسی چیز سے جوڑو جو پہلے سے کرتے ہو۔ فجر کے بعد — دس منٹ ہاتھ پاؤں کھولو۔ ظہر کے بعد — تھوڑی دیر ٹہلو۔ کام کے بعد — کچھ بھی۔ حرکت کو کسی ایک نماز کے ساتھ لگا دو تاکہ وہ اسی کے معمول کا حصہ بن جائے۔ الگ سے وقت نکالنے کی ضرورت نہیں۔ جو فراغت کے لمحے پہلے سے ہیں ان کا فائدہ اٹھاؤ۔"
+      },
+      "hikmah": {
+        "en": "Habit science says: the most reliable way to build a new habit is to attach it to an existing one. You already pray five times a day. That's five anchors. If you do just five minutes of movement after each prayer, that's 25 minutes of daily movement — more than the minimum recommended for health — and you haven't created a single new time slot in your day.",
+        "hi": "नई आदत बनाने का सबसे भरोसेमंद तरीक़ा यह है कि पुरानी आदत के साथ जोड़ दो। तुम पहले से दिन में पाँच बार नमाज़ पढ़ते हो — पाँच टेक। अगर हर नमाज़ के बाद सिर्फ़ पाँच मिनट हिलो-डुलो, तो पच्चीस मिनट की रोज़ाना हरकत हो जाती है — सेहत के लिए कम से कम जितनी ज़रूरत है उससे ज़्यादा — और दिन में एक भी अलग वक़्त निकाला नहीं।",
+        "ur": "نئی عادت بنانے کا سب سے بھروسہ مند طریقہ یہ ہے کہ پرانی عادت کے ساتھ جوڑ دو۔ تم پہلے سے دن میں پانچ بار نماز پڑھتے ہو — پانچ سہارے۔ اگر ہر نماز کے بعد صرف پانچ منٹ ہلو ڈلو، تو پچیس منٹ کی روزانہ حرکت ہو جاتی ہے — صحت کے لیے کم از کم جتنی ضرورت ہے اس سے زیادہ — اور دن میں ایک بھی الگ وقت نہیں نکالا۔"
+      },
+      "example": {
+        "en": "After Fajr this week: before you open your phone, do five minutes of stretching on the prayer mat. Don't overthink what to stretch. Just move. Touch your toes. Rotate your neck. Move your arms. Your body knows what it needs if you give it the time. Five minutes. Every day. That's it.",
+        "hi": "इस हफ़्ते फ़ज्र के बाद: फ़ोन खोलने से पहले, जायनमाज़ पर पाँच मिनट हाथ-पाँव खोलो। ज़्यादा मत सोचो क्या करना है। बस हिलो। पंजे छूओ। गर्दन घुमाओ। बाज़ू हिलाओ। जिस्म जानता है उसे क्या चाहिए — बस थोड़ा वक़्त दो। पाँच मिनट। हर दिन। बस।",
+        "ur": "اس ہفتے فجر کے بعد: فون کھولنے سے پہلے، جائے نماز پر پانچ منٹ ہاتھ پاؤں کھولو۔ زیادہ مت سوچو کیا کرنا ہے۔ بس ہلو۔ پنجے چھوؤ۔ گردن گھماؤ۔ بازو ہلاؤ۔ جسم جانتا ہے اسے کیا چاہیے — بس تھوڑا وقت دو۔ پانچ منٹ۔ ہر دن۔ بس۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 13,
+        "ayah": 11,
+        "arabic": "إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ",
+        "translation": {
+          "en": "Indeed, Allah will not change the condition of a people until they change what is in themselves.",
+          "hi": "बेशक अल्लाह किसी क़ौम की हालत नहीं बदलता जब तक वो ख़ुद अपने अंदर बदलाव न लाएँ।",
+          "ur": "بے شک اللہ کسی قوم کی حالت نہیں بدلتا جب تک وہ خود اپنے اندر بدلاؤ نہ لائیں۔"
+        }
+      },
+      "task": {
+        "en": "This week: invite one person — a friend, your spouse, a sibling — for a walk. Not to lecture them on health. Just to walk together. Conversation happens naturally when people are moving side by side. Some of the best talks in history happened on walks. Try it. See what comes up.",
+        "hi": "इस हफ़्ते: किसी एक इंसान को — दोस्त, घरवाले, भाई-बहन — टहलने के लिए बुलाओ। उन्हें सेहत की नसीहत देने के लिए नहीं। बस साथ चलने के लिए। जब लोग कंधे से कंधा मिलाकर चलते हैं तो बातें ख़ुद-ब-ख़ुद निकल आती हैं। इतिहास की कुछ बेहतरीन बातचीत रास्ते में हुई है। आज़माओ। देखो क्या निकलता है।",
+        "ur": "اس ہفتے: کسی ایک انسان کو — دوست، گھر والے، بھائی بہن — ٹہلنے کے لیے بلاؤ۔ انہیں صحت کی نصیحت دینے کے لیے نہیں۔ بس ساتھ چلنے کے لیے۔ جب لوگ کندھے سے کندھا ملا کر چلتے ہیں تو باتیں خود بخود نکل آتی ہیں۔ تاریخ کی کچھ بہترین گفتگو راستے میں ہوئی ہے۔ آزماؤ۔ دیکھو کیا نکلتا ہے۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ walked with people. He didn't call meetings — he walked alongside those he wanted to speak with. Walking together creates a different kind of conversation than sitting across from each other. There is less confrontation, more openness. Something about moving in the same direction makes people more willing to be honest with each other.",
+        "hi": "नبी ﷺ लोगों के साथ चलते थे। अलग से बुलावे नहीं भेजते थे — जिनसे बात करनी होती उनके साथ चल देते थे। साथ चलना आमने-सामने बैठकर बात करने से अलग क़िस्म की बात होती है। कम खिंचाव, ज़्यादा खुलापन। एक ही सिम्त चलते हुए कुछ ऐसा होता है जो लोगों को एक-दूसरे से ज़्यादा सच्ची बात करने देता है।",
+        "ur": "نبی ﷺ لوگوں کے ساتھ چلتے تھے۔ الگ سے بلاوے نہیں بھیجتے تھے — جن سے بات کرنی ہوتی ان کے ساتھ چل دیتے تھے۔ ساتھ چلنا آمنے سامنے بیٹھ کر بات کرنے سے الگ قسم کی بات ہوتی ہے۔ کم کھنچاؤ، زیادہ کھلاپن۔ ایک ہی سمت چلتے ہوئے کچھ ایسا ہوتا ہے جو لوگوں کو ایک دوسرے سے زیادہ سچی بات کرنے دیتا ہے۔"
+      },
+      "example": {
+        "en": "Your father hasn't walked much since he retired. He sits, watches news, gets heavier, gets quieter. You don't need to give him a health lecture. Just say: 'Baba, chalo thodi der chalte hain.' Start with 10 minutes. He might say no the first time. Ask again the next day. The walk is not the point — the time together is.",
+        "hi": "रिटायर होने के बाद से तुम्हारे अब्बू ज़्यादा नहीं चलते। बैठे रहते हैं, ख़बरें देखते हैं, भारे होते जाते हैं, ख़ामोश होते जाते हैं। उन्हें सेहत की नसीहत देने की ज़रूरत नहीं। बस कहो: 'बाबा, चलो थोड़ी देर टहलते हैं।' दस मिनट से शुरू करो। शायद पहली बार मना करें। अगले दिन फिर पूछो। टहलना मक़सद नहीं — साथ बिताया वक़्त मक़सद है।",
+        "ur": "ریٹائر ہونے کے بعد سے تمہارے ابو زیادہ نہیں چلتے۔ بیٹھے رہتے ہیں، خبریں دیکھتے ہیں، بھاری ہوتے جاتے ہیں، خاموش ہوتے جاتے ہیں۔ انہیں صحت کی نصیحت دینے کی ضرورت نہیں۔ بس کہو: 'بابا، چلو تھوڑی دیر ٹہلتے ہیں۔' دس منٹ سے شروع کرو۔ شاید پہلی بار انکار کریں۔ اگلے دن پھر پوچھو۔ ٹہلنا مقصد نہیں — ساتھ بتایا وقت مقصد ہے۔"
+      }
+    }
+  ]
+}

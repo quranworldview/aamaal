@@ -1,0 +1,176 @@
+{
+  "id": "n5-nafs-muhasaba",
+  "category": "nafs",
+  "name": {
+    "en": "Holding Yourself Accountable",
+    "hi": "ख़ुद का मुहासबा",
+    "ur": "خود کا محاسبہ"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 59,
+        "ayah": 18,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ",
+        "translation": {
+          "en": "O you who believe, fear Allah. And let every soul look to what it has sent forth for tomorrow.",
+          "hi": "ऐ ईमान वालो, अल्लाह से डरो। और हर नफ़्स देखे कि उसने कल के लिए क्या आगे भेजा है।",
+          "ur": "اے ایمان والو، اللہ سے ڈرو۔ اور ہر نفس دیکھے کہ اس نے کل کے لیے کیا آگے بھیجا ہے۔"
+        }
+      },
+      "task": {
+        "en": "Tonight, before you sleep: take five minutes. Replay today. Not to punish yourself — to see it honestly. What did you do well? What do you wish had gone differently? One of each. Just two things. This is the beginning of muhasaba.",
+        "hi": "आज रात, सोने से पहले: पाँच मिनट लो। आज को दोबारा देखो। ख़ुद को सज़ा देने के लिए नहीं — सच से देखने के लिए। क्या अच्छा किया? क्या चाहते हो कि अलग होता? एक-एक। बस दो चीज़ें। यह मुहासबे की शुरुआत है।",
+        "ur": "آج رات، سونے سے پہلے: پانچ منٹ لو۔ آج کو دوبارہ دیکھو۔ خود کو سزا دینے کے لیے نہیں — سچ سے دیکھنے کے لیے۔ کیا اچھا کیا؟ کیا چاہتے ہو کہ الگ ہوتا؟ ایک ایک۔ بس دو چیزیں۔ یہ محاسبے کی شروعات ہے۔"
+      },
+      "hikmah": {
+        "en": "Umar ibn al-Khattab RA said: hold yourselves accountable before you are held accountable. Weigh your deeds before they are weighed. The one who does muhasaba daily is in a permanent state of repair — catching small problems before they become large ones. The one who doesn't is always surprised by the Akhirah.",
+        "hi": "हज़रत उमर रज़ि. ने फ़रमाया: मुहासबा करने से पहले अपना मुहासबा कर लो। अपने अमलों को तोलने से पहले तौल लो। जो रोज़ मुहासबा करता है वो हमेशा सुधार की हालत में है — छोटी मुश्किलें बड़ी होने से पहले पकड़ता है। जो नहीं करता वो हमेशा आख़िरत में हैरान होता है।",
+        "ur": "حضرت عمر رضی. نے فرمایا: محاسبہ کرنے سے پہلے اپنا محاسبہ کر لو۔ اپنے اعمال کو تولنے سے پہلے تول لو۔ جو روز محاسبہ کرتا ہے وہ ہمیشہ سدھار کی حالت میں ہے — چھوٹی مشکلیں بڑی ہونے سے پہلے پکڑتا ہے۔ جو نہیں کرتا وہ ہمیشہ آخرت میں حیران ہوتا ہے۔"
+      },
+      "example": {
+        "en": "Most of us go to bed reviewing our to-do list, our phone, tomorrow's worries. Tonight: five minutes before the phone. Just today. What happened today that mattered — spiritually, not professionally? Even one thing. That one thing, named honestly, is worth more than an hour of 'good' content.",
+        "hi": "हम में से ज़्यादातर to-do list, फ़ोन, कल की फ़िक्र देखते हुए सोते हैं। आज रात: फ़ोन से पहले पाँच मिनट। बस आज। आज क्या हुआ जो मायने रखता था — रूहानी तौर पर, professional तौर पर नहीं? एक चीज़ भी। वो एक चीज़, सच से नाम लेकर, एक घंटे के 'अच्छे' content से ज़्यादा क़ीमती है।",
+        "ur": "ہم میں سے زیادہ تر to-do list، فون، کل کی فکر دیکھتے ہوئے سوتے ہیں۔ آج رات: فون سے پہلے پانچ منٹ۔ بس آج۔ آج کیا ہوا جو مایہ رکھتا تھا — روحانی طور پر، professional طور پر نہیں؟ ایک چیز بھی۔ وہ ایک چیز، سچ سے نام لے کر، ایک گھنٹے کے 'اچھے' content سے زیادہ قیمتی ہے۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 75,
+        "ayah": 2,
+        "arabic": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+        "translation": {
+          "en": "And I do swear by the self-reproaching soul.",
+          "hi": "और मैं नफ़्स-ए-लव्वामह की क़सम खाता हूँ।",
+          "ur": "اور میں نفسِ لوّامہ کی قسم کھاتا ہوں۔"
+        }
+      },
+      "task": {
+        "en": "Learn about the three stages of the nafs: ammara (the commanding self — the one that just wants), lawwama (the self-accusing self — the one that feels guilt and wants to improve), mutmainna (the peaceful self — the one that has found its rest in Allah). Which stage are you in? Where is the gap to the next one?",
+        "hi": "नफ़्स की तीन हालतें सीखो: अम्मारा (हुक्म देने वाला नफ़्स — जो बस चाहता है), लव्वामह (ख़ुद को कोसने वाला — जो पछताता है और बेहतर होना चाहता है), मुत्मइन्नह (संतुष्ट नफ़्स — जिसे अल्लाह में राहत मिल गई)। तुम किस मरहले पर हो? अगले की तरफ़ फ़ासला कहाँ है?",
+        "ur": "نفس کی تین حالتیں سیکھو: امارہ (حکم دینے والا نفس — جو بس چاہتا ہے)، لوّامہ (خود کو کوسنے والا — جو پچھتاتا ہے اور بہتر ہونا چاہتا ہے)، مطمئنہ (مطمئن نفس — جسے اللہ میں راحت مل گئی)۔ تم کس مرحلے پر ہو؟ اگلے کی طرف فاصلہ کہاں ہے؟"
+      },
+      "hikmah": {
+        "en": "The lawwama — the soul that reproaches itself — is the soul Allah swears by. Not the perfect soul. Not the arrived soul. The one still in the struggle, still feeling the guilt, still trying. If you feel bad when you fall short, that feeling is not weakness. That is the lawwama working. It is a sign of a living heart.",
+        "hi": "लव्वामह — ख़ुद को कोसने वाला नफ़्स — वो नफ़्स है जिसकी अल्लाह क़सम खाता है। मुकम्मल नफ़्स की नहीं। पहुँचे हुए नफ़्स की नहीं। जो अभी भी जद्दोजहद में है, अभी भी guilt feel करता है, अभी भी कोशिश कर रहा है। अगर कमी पर बुरा लगता है, वो feeling कमज़ोरी नहीं है। वो लव्वामह काम कर रहा है। यह ज़िंदा दिल की निशानी है।",
+        "ur": "لوّامہ — خود کو کوسنے والا نفس — وہ نفس ہے جس کی اللہ قسم کھاتا ہے۔ مکمل نفس کی نہیں۔ پہنچے ہوئے نفس کی نہیں۔ جو ابھی بھی جدوجہد میں ہے، ابھی بھی guilt feel کرتا ہے، ابھی بھی کوشش کر رہا ہے۔ اگر کمی پر برا لگتا ہے، وہ feeling کمزوری نہیں ہے۔ وہ لوّامہ کام کر رہا ہے۔ یہ زندہ دل کی نشانی ہے۔"
+      },
+      "example": {
+        "en": "Read about how the Sahaba did muhasaba. Not just before sleep — some would spend time at the end of each week, at the end of each month, reviewing where they stood. They weren't perfectionists afraid of failure. They were gardeners who checked the soil regularly so nothing went wrong before it could be fixed.",
+        "hi": "पढ़ो कि सहाबा ने मुहासबा कैसे किया। सिर्फ़ सोने से पहले नहीं — कुछ हर हफ़्ते के आख़िर में, हर महीने के आख़िर में वक़्त लगाते थे, देखते थे कि वो कहाँ खड़े हैं। वो नाकामी से डरने वाले perfectionist नहीं थे। वो माली थे जो मिट्टी नियमित रूप से जाँचते थे ताकि ठीक होने से पहले कुछ ग़लत न हो जाए।",
+        "ur": "پڑھو کہ صحابہ نے محاسبہ کیسے کیا۔ صرف سونے سے پہلے نہیں — کچھ ہر ہفتے کے آخر میں، ہر مہینے کے آخر میں وقت لگاتے تھے، دیکھتے تھے کہ وہ کہاں کھڑے ہیں۔ وہ ناکامی سے ڈرنے والے perfectionist نہیں تھے۔ وہ مالی تھے جو مٹی باقاعدگی سے جانچتے تھے تاکہ ٹھیک ہونے سے پہلے کچھ غلط نہ ہو جائے۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 17,
+        "ayah": 14,
+        "arabic": "اقْرَأْ كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا",
+        "translation": {
+          "en": "Read your record. Sufficient is yourself against you this Day as an accountant.",
+          "hi": "अपना नामा पढ़। आज अपने हिसाब के लिए ख़ुद ही काफ़ी है।",
+          "ur": "اپنا نامہ پڑھ۔ آج اپنے حساب کے لیے خود ہی کافی ہے۔"
+        }
+      },
+      "task": {
+        "en": "Tonight — and every night this week — do a three-question muhasaba before sleep. Write it down, even just one line each: (1) What good did I do today that I'm glad about? (2) What did I do that I need to ask forgiveness for? (3) What is one thing I want to do better tomorrow? Simple. Honest. Consistent.",
+        "hi": "आज रात — और इस हफ़्ते हर रात — सोने से पहले तीन सवालों का मुहासबा करो। लिखो, एक लाइन भी: (1) आज क्या अच्छा किया जिसपर ख़ुश हूँ? (2) क्या किया जिसके लिए माफ़ी माँगनी है? (3) कल एक चीज़ क्या बेहतर करना चाहता हूँ? सादा। सच्चा। consistent।",
+        "ur": "آج رات — اور اس ہفتے ہر رات — سونے سے پہلے تین سوالوں کا محاسبہ کرو۔ لکھو، ایک لائن بھی: (1) آج کیا اچھا کیا جس پر خوش ہوں؟ (2) کیا کیا جس کے لیے معافی مانگنی ہے؟ (3) کل ایک چیز کیا بہتر کرنا چاہتا ہوں؟ سادہ۔ سچا۔ consistent۔"
+      },
+      "hikmah": {
+        "en": "Muhasaba is not punishment. It is not dwelling on guilt. It is reading your own book before it is read to you. The three questions are designed to balance: good first, so you don't spiral. Forgiveness second, so you don't carry it. Intention third, so tomorrow has direction. This structure is mercy, not torture.",
+        "hi": "मुहासबा सज़ा नहीं है। guilt में डूबना नहीं है। यह अपनी किताब पढ़ना है इससे पहले कि वो तुम्हें पढ़कर सुनाई जाए। तीन सवाल balance के लिए बने हैं: पहले अच्छाई, ताकि डूबो नहीं। दूसरे माफ़ी, ताकि उठाए न चलो। तीसरे इरादा, ताकि कल का रुख़ हो। यह ढाँचा रहमत है, अज़ाब नहीं।",
+        "ur": "محاسبہ سزا نہیں ہے۔ guilt میں ڈوبنا نہیں ہے۔ یہ اپنی کتاب پڑھنا ہے اس سے پہلے کہ وہ تمہیں پڑھ کر سنائی جائے۔ تین سوال balance کے لیے بنے ہیں: پہلے اچھائی، تاکہ ڈوبو نہیں۔ دوسرے معافی، تاکہ اٹھائے نہ چلو۔ تیسرے ارادہ، تاکہ کل کا رخ ہو۔ یہ ڈھانچہ رحمت ہے، عذاب نہیں۔"
+      },
+      "example": {
+        "en": "Day 1 entry might look like: (1) I was patient with my mother even when the conversation got hard. (2) I lost my temper with the driver and said something I didn't need to say. (3) Tomorrow I want to check in with the friend I've been avoiding. That's it. Three lines. Seven days of this will change you.",
+        "hi": "पहले दिन की entry कुछ ऐसी हो सकती है: (1) अम्मी के साथ बात मुश्किल होने पर भी सब्र रखा। (2) driver पर भड़क गया और कुछ कहा जो ज़रूरी नहीं था। (3) कल उस दोस्त से बात करना चाहता हूँ जिससे बच रहा हूँ। बस। तीन लाइनें। सात दिन यह करने से बदल जाओगे।",
+        "ur": "پہلے دن کی entry کچھ ایسی ہو سکتی ہے: (1) امی کے ساتھ بات مشکل ہونے پر بھی صبر رکھا۔ (2) driver پر بھڑک گیا اور کچھ کہا جو ضروری نہیں تھا۔ (3) کل اس دوست سے بات کرنا چاہتا ہوں جس سے بچ رہا ہوں۔ بس۔ تین لائنیں۔ سات دن یہ کرنے سے بدل جاؤ گے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 2,
+        "ayah": 286,
+        "arabic": "لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ",
+        "translation": {
+          "en": "For it is what it has earned, and against it is what it has brought upon itself.",
+          "hi": "उसके लिए वो है जो उसने कमाया, और उसके ख़िलाफ़ वो है जो उसने किया।",
+          "ur": "اس کے لیے وہ ہے جو اس نے کمایا، اور اس کے خلاف وہ ہے جو اس نے کیا۔"
+        }
+      },
+      "task": {
+        "en": "This week, add a weekly muhasaba on top of the nightly one. Sunday night: look at the whole week. Not just what you did — who you were. Were you the person you want to be in your relationships? In your work? In your worship? Identify one quality to strengthen next week. One. Not ten.",
+        "hi": "इस हफ़्ते, रात के मुहासबे के साथ एक हफ़्तावार मुहासबा जोड़ो। रविवार की रात: पूरा हफ़्ता देखो। सिर्फ़ क्या किया नहीं — तुम कौन थे। क्या तुम अपने रिश्तों में, काम में, इबादत में वो इंसान थे जो बनना चाहते हो? अगले हफ़्ते मज़बूत करने के लिए एक ख़ासियत identify करो। एक। दस नहीं।",
+        "ur": "اس ہفتے، رات کے محاسبے کے ساتھ ایک ہفتہ وار محاسبہ جوڑو۔ اتوار کی رات: پورا ہفتہ دیکھو۔ صرف کیا کیا نہیں — تم کون تھے۔ کیا تم اپنے رشتوں میں، کام میں، عبادت میں وہ انسان تھے جو بننا چاہتے ہو؟ اگلے ہفتے مضبوط کرنے کے لیے ایک خاصیت identify کرو۔ ایک۔ دس نہیں۔"
+      },
+      "hikmah": {
+        "en": "The person who improves one quality per week improves 52 qualities in a year. The person who tries to fix everything at once usually fixes nothing. This is why the Prophet ﷺ said the most beloved deeds to Allah are the most consistent, even if small. Consistency with one thing beats perfection with fifty things, every time.",
+        "hi": "जो इंसान हर हफ़्ते एक ख़ासियत बेहतर करता है, वो साल में 52 ख़ासियतें बेहतर करता है। जो सब कुछ एक साथ ठीक करने की कोशिश करता है वो आम तौर पर कुछ भी ठीक नहीं करता। इसीलिए नबी ﷺ ने फ़रमाया: अल्लाह को सबसे पसंद अमल वो है जो सबसे consistent हो, चाहे छोटा ही हो। एक चीज़ में consistency पचास चीज़ों में कमालियत को हर बार हरा देती है।",
+        "ur": "جو انسان ہر ہفتے ایک خاصیت بہتر کرتا ہے، وہ سال میں 52 خاصیتیں بہتر کرتا ہے۔ جو سب کچھ ایک ساتھ ٹھیک کرنے کی کوشش کرتا ہے وہ عام طور پر کچھ بھی ٹھیک نہیں کرتا۔ اسی لیے نبی ﷺ نے فرمایا: اللہ کو سب سے پسند عمل وہ ہے جو سب سے consistent ہو، چاہے چھوٹا ہی ہو۔ ایک چیز میں consistency پچاس چیزوں میں کمالیت کو ہر بار ہرا دیتی ہے۔"
+      },
+      "example": {
+        "en": "After three weeks of nightly muhasaba, you notice a pattern: the 'forgiveness' entry is almost always about your tone with people — you're not unkind, but you're often curt. One quality to work on: slowing down before you speak. Just that. For a whole week. Watch what one small, sustained intention does.",
+        "hi": "तीन हफ़्ते के रात के मुहासबे के बाद, एक pattern दिखता है: 'माफ़ी' वाली entry लगभग हमेशा लोगों से बात करने के तरीक़े के बारे में है — तुम बुरे नहीं हो, लेकिन अक्सर रूखे हो। काम करने के लिए एक ख़ासियत: बोलने से पहले थोड़ा धीमा होना। बस यही। पूरे एक हफ़्ते के लिए। देखो एक छोटा, consistent इरादा क्या करता है।",
+        "ur": "تین ہفتوں کے رات کے محاسبے کے بعد، ایک pattern دکھتا ہے: 'معافی' والی entry لگ بھگ ہمیشہ لوگوں سے بات کرنے کے طریقے کے بارے میں ہے — تم برے نہیں ہو، لیکن اکثر روکھے ہو۔ کام کرنے کے لیے ایک خاصیت: بولنے سے پہلے تھوڑا سست ہونا۔ بس یہی۔ پورے ایک ہفتے کے لیے۔ دیکھو ایک چھوٹا، consistent ارادہ کیا کرتا ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 103,
+        "ayah": 3,
+        "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "translation": {
+          "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+          "hi": "सिवाय उनके जो ईमान लाए और नेक अमल किए और एक-दूसरे को हक़ की नसीहत की और एक-दूसरे को सब्र की नसीहत की।",
+          "ur": "سوائے ان کے جو ایمان لائے اور نیک اعمال کیے اور ایک دوسرے کو حق کی نصیحت کی اور ایک دوسرے کو صبر کی نصیحت کی۔"
+        }
+      },
+      "task": {
+        "en": "Start a muhasaba accountability partnership. One person. Weekly check-in — not to confess every sin, but to ask each other the three questions. What went well. What needs forgiveness. What's the intention for next week. Two people holding the mirror for each other is more powerful than one person alone.",
+        "hi": "एक मुहासबा accountability partnership शुरू करो। एक इंसान। हफ़्तावार check-in — हर गुनाह confess करने के लिए नहीं, बल्कि एक-दूसरे से तीन सवाल पूछने के लिए। क्या अच्छा रहा। किस के लिए माफ़ी चाहिए। अगले हफ़्ते का इरादा क्या है। दो लोग एक-दूसरे के लिए आईना पकड़ें, यह अकेले से ज़्यादा ताक़तवर है।",
+        "ur": "ایک محاسبہ accountability partnership شروع کرو۔ ایک انسان۔ ہفتہ وار check-in — ہر گناہ confess کرنے کے لیے نہیں، بلکہ ایک دوسرے سے تین سوال پوچھنے کے لیے۔ کیا اچھا رہا۔ کس کے لیے معافی چاہیے۔ اگلے ہفتے کا ارادہ کیا ہے۔ دو لوگ ایک دوسرے کے لیے آئینہ پکڑیں، یہ اکیلے سے زیادہ طاقتور ہے۔"
+      },
+      "hikmah": {
+        "en": "The companions held each other accountable. They weren't just friends — they were witnesses to each other's lives. When you ask someone 'how did your week go, spiritually?' you are creating a container for growth that neither of you could create alone. This is what Surah Al-Asr means by tawasi bil-haqq — mutual counsel in truth. Not preaching. Witnessing.",
+        "hi": "सहाबा एक-दूसरे का मुहासबा करते थे। वो सिर्फ़ दोस्त नहीं थे — वो एक-दूसरे की ज़िंदगियों के गवाह थे। जब तुम किसी से पूछते हो 'रूहानी तौर पर हफ़्ता कैसा रहा?' — तुम एक ऐसा container बना रहे हो जो अकेले तुम में से कोई नहीं बना सकता। यही है जो सूरह अल-अस्र 'तवासौ बिल-हक़' से मुराद रखता है — सच में परस्पर नसीहत। ख़ुतबा नहीं। गवाही।",
+        "ur": "صحابہ ایک دوسرے کا محاسبہ کرتے تھے۔ وہ صرف دوست نہیں تھے — وہ ایک دوسرے کی زندگیوں کے گواہ تھے۔ جب تم کسی سے پوچھتے ہو 'روحانی طور پر ہفتہ کیسا رہا؟' — تم ایک ایسا container بنا رہے ہو جو اکیلے تم میں سے کوئی نہیں بنا سکتا۔ یہی ہے جو سورہ العصر 'تواصوا بالحق' سے مراد رکھتا ہے — سچ میں باہمی نصیحت۔ خطبہ نہیں۔ گواہی۔"
+      },
+      "example": {
+        "en": "Six months in, a friend says: 'You seem different lately — more settled.' You tell them about the three questions. They want to try. You do the weekly check-in together for a month. One day they say: 'This is the most honest conversation I have all week.' That is tawasi bil-haqq. That is Surah Al-Asr lived.",
+        "hi": "छह महीने बाद, दोस्त कहता है: 'आजकल तुम अलग लग रहे हो — ज़्यादा settle।' तुम तीन सवालों के बारे में बताते हो। वो try करना चाहते हैं। एक महीने साथ weekly check-in करते हो। एक दिन कहते हैं: 'यह मेरे पूरे हफ़्ते की सबसे ईमानदार बातचीत है।' यह तवासी बिल-हक़ है। यह जिया हुआ सूरह अल-अस्र है।",
+        "ur": "چھ مہینے بعد، دوست کہتا ہے: 'آجکل تم الگ لگ رہے ہو — زیادہ settle۔' تم تین سوالوں کے بارے میں بتاتے ہو۔ وہ try کرنا چاہتے ہیں۔ ایک مہینے ساتھ weekly check-in کرتے ہو۔ ایک دن کہتے ہیں: 'یہ میرے پورے ہفتے کی سب سے ایماندار گفتگو ہے۔' یہ تواصی بالحق ہے۔ یہ جیا ہوا سورہ العصر ہے۔"
+      }
+    }
+  ]
+}

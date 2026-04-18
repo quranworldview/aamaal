@@ -1,0 +1,151 @@
+{
+  "id": "c2-clean-jism",
+  "category": "cleanliness",
+  "name": {
+    "en": "Taking Care of Your Body",
+    "hi": "जिस्म की देखभाल",
+    "ur": "جسم کی دیکھ بھال"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 7, "ayah": 26,
+        "arabic": "يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا",
+        "translation": {
+          "en": "O children of Adam, We have bestowed upon you clothing to conceal your shame and as adornment.",
+          "hi": "ऐ आदम की औलाद, हमने तुम पर लिबास उतारा जो तुम्हारी शर्मगाहों को ढाँपे और ज़ीनत के लिए।",
+          "ur": "اے آدم کی اولاد، ہم نے تم پر لباس اتارا جو تمہاری شرمگاہوں کو ڈھانپے اور زینت کے لیے۔"
+        }
+      },
+      "task": {
+        "en": "Today, just honestly notice: how much attention do you give to your personal cleanliness — not for others to see, but as a private act of self-respect? The teeth. The nails. The clothes you wear at home versus outside. The way you smell at the end of the day. No judgment — just honest observation.",
+        "hi": "आज, बस ईमानदारी से नोटिस करो: अपनी personal सफ़ाई पर कितना ध्यान देते हो — दूसरों को दिखाने के लिए नहीं, बल्कि ख़ुद के सम्मान के एक ख़ानगी अमल के तौर पर? दाँत। नाख़ून। घर पर पहनने के कपड़े बनाम बाहर के। दिन के आख़िर में तुम्हारी smell। कोई judge नहीं — बस ईमानदार observation।",
+        "ur": "آج، بس ایمانداری سے نوٹس کرو: اپنی personal صفائی پر کتنا دھیان دیتے ہو — دوسروں کو دکھانے کے لیے نہیں، بلکہ خود کے احترام کے ایک خانگی عمل کے طور پر؟ دانت۔ ناخن۔ گھر پر پہننے کے کپڑے بمقابلہ باہر کے۔ دن کے آخر میں تمہاری smell۔ کوئی judge نہیں — بس ایماندار observation۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ had a list — called the fitra — of ten acts of personal hygiene. Trimming the moustache. Trimming nails. Cleaning the armpits. Cleaning the private areas. Rinsing the mouth. Cleaning the nostrils. Using the siwak. These were not optional extras — they were defining characteristics of what it means to be a Muslim. Cleanliness of the body is part of the identity.",
+        "hi": "नबी ﷺ की एक list थी — फ़ितरत — दस personal hygiene के अमल। मूँछ काटना। नाख़ून काटना। बग़ल साफ़ करना। शर्मगाह साफ़ करना। कुल्ला करना। नाक साफ़ करना। मिस्वाक इस्तेमाल करना। यह optional extras नहीं थे — यह मुसलमान होने का मतलब क्या है इसकी पहचान थी। जिस्म की सफ़ाई पहचान का हिस्सा है।",
+        "ur": "نبی ﷺ کی ایک list تھی — فطرت — دس personal hygiene کے اعمال۔ مونچھ کاٹنا۔ ناخن کاٹنا۔ بغل صاف کرنا۔ شرمگاہ صاف کرنا۔ کلی کرنا۔ ناک صاف کرنا۔ مسواک استعمال کرنا۔ یہ optional extras نہیں تھے — یہ مسلمان ہونے کا مطلب کیا ہے اس کی پہچان تھی۔ جسم کی صفائی پہچان کا حصہ ہے۔"
+      },
+      "example": {
+        "en": "You dress well to go out. But at home — the same clothes for three days. Hair uncombed. Teeth brushed once. Your family sees this version of you more than anyone else does. The Prophet ﷺ would look in the mirror before leaving, and he was as careful about his appearance at home. Who sees you at home deserves the same respect as the world outside.",
+        "hi": "बाहर जाने के लिए अच्छे कपड़े पहनते हो। लेकिन घर पर — तीन दिन एक ही कपड़े। बाल बिखरे। दाँत एक बार ब्रश। तुम्हारे घरवाले तुम्हारे इस version को बाकी सबसे ज़्यादा देखते हैं। नबी ﷺ निकलने से पहले आईना देखते थे, और घर पर भी अपने appearance के बारे में उतने ही careful थे। जो तुम्हें घर पर देखते हैं वो उतने ही सम्मान के हक़दार हैं जितना बाहर की दुनिया।",
+        "ur": "باہر جانے کے لیے اچھے کپڑے پہنتے ہو۔ لیکن گھر پر — تین دن ایک ہی کپڑے۔ بال بکھرے۔ دانت ایک بار brush۔ تمہارے گھر والے تمہارے اس version کو باقی سب سے زیادہ دیکھتے ہیں۔ نبی ﷺ نکلنے سے پہلے آئینہ دیکھتے تھے، اور گھر پر بھی اپنے appearance کے بارے میں اتنے ہی careful تھے۔ جو تمہیں گھر پر دیکھتے ہیں وہ اتنے ہی احترام کے حقدار ہیں جتنا باہر کی دنیا۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 74, "ayah": 4,
+        "arabic": "وَثِيَابَكَ فَطَهِّرْ",
+        "translation": {
+          "en": "And your clothing — purify.",
+          "hi": "और अपने कपड़े पाक रखो।",
+          "ur": "اور اپنے کپڑے پاک رکھو۔"
+        }
+      },
+      "task": {
+        "en": "Learn the full list of the fitra practices today — all ten. For each one: look up the hadith or scholarly explanation for why it matters. The siwak alone has multiple hadith — its rewards, the Prophet ﷺ using it before every salah. This is not a hygiene checklist. It is a spiritual practice that happens to be hygienic.",
+        "hi": "आज फ़ितरत के अमलों की पूरी list सीखो — सभी दस। हर एक के लिए: हदीस या उलमा की वजह देखो कि यह क्यों मायने रखता है। सिर्फ़ मिस्वाक के कई हदीस हैं — इसके अज्र, नबी ﷺ हर नमाज़ से पहले इसका इस्तेमाल करते थे। यह hygiene checklist नहीं है। यह एक रूहानी practice है जो hygiene भी है।",
+        "ur": "آج فطرت کے اعمال کی پوری list سیکھو — سبھی دس۔ ہر ایک کے لیے: حدیث یا علما کی وجہ دیکھو کہ یہ کیوں مایہ رکھتا ہے۔ صرف مسواک کی کئی احادیث ہیں — اس کے اجر، نبی ﷺ ہر نماز سے پہلے اس کا استعمال کرتے تھے۔ یہ hygiene checklist نہیں ہے۔ یہ ایک روحانی practice ہے جو hygiene بھی ہے۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: the siwak purifies the mouth and pleases the Lord. Two things in one sentence: purifies the mouth — a physical benefit. Pleases the Lord — a spiritual one. In Islam, the physical and the spiritual are never separated. Cleaning your teeth with intention is an act of worship. That reframing changes everything about how you do it.",
+        "hi": "नबी ﷺ ने फ़रमाया: मिस्वाक मुँह को पाक करती है और रब को ख़ुश करती है। एक जुमले में दो चीज़ें: मुँह पाक करती है — जिस्मानी फ़ायदा। रब को ख़ुश करती है — रूहानी। इस्लाम में जिस्मानी और रूहानी कभी अलग नहीं होते। नीयत के साथ दाँत साफ़ करना इबादत का अमल है। वो reframing बदल देती है कि तुम इसे कैसे करते हो।",
+        "ur": "نبی ﷺ نے فرمایا: مسواک منہ کو پاک کرتی ہے اور رب کو خوش کرتی ہے۔ ایک جملے میں دو چیزیں: منہ پاک کرتی ہے — جسمانی فائدہ۔ رب کو خوش کرتی ہے — روحانی۔ اسلام میں جسمانی اور روحانی کبھی الگ نہیں ہوتے۔ نیت کے ساتھ دانت صاف کرنا عبادت کا عمل ہے۔ وہ reframing بدل دیتی ہے کہ تم اسے کیسے کرتے ہو۔"
+      },
+      "example": {
+        "en": "Pick one fitra practice you've been neglecting — maybe nails not trimmed in weeks, or the moustache overdue, or you've never really used a siwak. Learn the specific Sunnah for that one. Then do it today with the intention: this is fitra. This is what it means to be who I am. That intention turns maintenance into worship.",
+        "hi": "एक fitra अमल चुनो जिसे तुम नज़रअंदाज़ कर रहे हो — शायद हफ़्तों से नाख़ून नहीं काटे, या मूँछ overdue है, या कभी सच में मिस्वाक नहीं इस्तेमाल की। उस एक की specific Sunnah सीखो। फिर आज नीयत के साथ करो: यह फ़ितरत है। यही है मेरा होना मतलब। वो नीयत maintenance को इबादत बना देती है।",
+        "ur": "ایک fitra عمل چنو جسے تم نظرانداز کر رہے ہو — شاید ہفتوں سے ناخن نہیں کاٹے، یا مونچھ overdue ہے، یا کبھی سچ میں مسواک استعمال نہیں کی۔ اس ایک کی specific Sunnah سیکھو۔ پھر آج نیت کے ساتھ کرو: یہ فطرت ہے۔ یہی ہے میرا ہونا مطلب۔ وہ نیت maintenance کو عبادت بنا دیتی ہے۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 56, "ayah": 79,
+        "arabic": "لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+        "translation": {
+          "en": "None touch it except the purified.",
+          "hi": "उसे सिर्फ़ पाक लोग ही छू सकते हैं।",
+          "ur": "اسے صرف پاک لوگ ہی چھو سکتے ہیں۔"
+        }
+      },
+      "task": {
+        "en": "Today: do a complete fitra check. Nails — trimmed? Moustache — neat? Body — clean, deodorant, clean clothes? Teeth — brushed properly, siwak if you have one? Before Friday, the Prophet ﷺ emphasised ghusl, clean clothes, fragrance. Make today a full fitra day — not for the outside world, but as a private act between you and Allah.",
+        "hi": "आज: एक complete fitra check करो। नाख़ून — कटे? मूँछ — साफ़? जिस्म — साफ़, deodorant, साफ़ कपड़े? दाँत — ठीक से ब्रश, मिस्वाक अगर है? जुमे से पहले नबी ﷺ ने ग़ुस्ल, साफ़ कपड़े, ख़ुशबू पर ज़ोर दिया। आज एक पूरा fitra day बनाओ — बाहर की दुनिया के लिए नहीं, बल्कि तुम्हारे और अल्लाह के बीच एक ख़ानगी अमल की तरह।",
+        "ur": "آج: ایک complete fitra check کرو۔ ناخن — کٹے؟ مونچھ — صاف؟ جسم — صاف، deodorant، صاف کپڑے؟ دانت — ٹھیک سے brush، مسواک اگر ہے؟ جمعے سے پہلے نبی ﷺ نے غسل، صاف کپڑے، خوشبو پر زور دیا۔ آج ایک پورا fitra day بناؤ — باہر کی دنیا کے لیے نہیں، بلکہ تمہارے اور اللہ کے درمیان ایک خانگی عمل کی طرح۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: Allah is beautiful and loves beauty. He also said: be clean, for Islam is built on cleanliness. These are not metaphors. They are a lived reality. When you take care of your body with the consciousness that Allah sees you, it stops being routine and becomes something else entirely — a continuous acknowledgement that this body belongs to the One who made it.",
+        "hi": "नबी ﷺ ने फ़रमाया: अल्लाह ख़ूबसूरत है और ख़ूबसूरती से मोहब्बत करता है। यह भी फ़रमाया: पाक रहो, क्योंकि इस्लाम पाकी पर बना है। यह metaphors नहीं हैं। यह एक जी हुई हक़ीक़त है। जब तुम अपने जिस्म की देखभाल इस होश के साथ करते हो कि अल्लाह देख रहा है, तो यह routine नहीं रहता और कुछ और बन जाता है — एक लगातार acknowledgement कि यह जिस्म उसका है जिसने बनाया।",
+        "ur": "نبی ﷺ نے فرمایا: اللہ خوبصورت ہے اور خوبصورتی سے محبت کرتا ہے۔ یہ بھی فرمایا: پاک رہو، کیونکہ اسلام پاکی پر بنا ہے۔ یہ metaphors نہیں ہیں۔ یہ ایک جی ہوئی حقیقت ہے۔ جب تم اپنے جسم کی دیکھ بھال اس ہوش کے ساتھ کرتے ہو کہ اللہ دیکھ رہا ہے، تو یہ routine نہیں رہتا اور کچھ اور بن جاتا ہے — ایک لگاتار acknowledgement کہ یہ جسم اس کا ہے جس نے بنایا۔"
+      },
+      "example": {
+        "en": "Friday morning. Before Jumu'ah: ghusl, clean clothes, a little fragrance — not cologne to impress anyone, just something clean. Go to the masjid in a state of complete care. Notice how you feel in salah when your body is fully prepared versus when you came rushing in your work clothes. The preparation is not separate from the worship.",
+        "hi": "जुमे की सुबह। जुमे से पहले: ग़ुस्ल, साफ़ कपड़े, थोड़ी ख़ुशबू — किसी को impress करने के लिए cologne नहीं, बस कुछ साफ़। पूरी देखभाल की हालत में मस्जिद जाओ। नोटिस करो नमाज़ में कैसा feel होता है जब जिस्म पूरी तरह तैयार हो बनाम जब काम के कपड़ों में भागते हुए आए। तैयारी इबादत से अलग नहीं है।",
+        "ur": "جمعے کی صبح۔ جمعے سے پہلے: غسل، صاف کپڑے، تھوڑی خوشبو — کسی کو impress کرنے کے لیے cologne نہیں، بس کچھ صاف۔ پوری دیکھ بھال کی حالت میں مسجد جاؤ۔ نوٹس کرو نماز میں کیسا feel ہوتا ہے جب جسم پوری طرح تیار ہو بمقابلہ جب کام کے کپڑوں میں بھاگتے ہوئے آئے۔ تیاری عبادت سے الگ نہیں ہے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 4, "ayah": 43,
+        "arabic": "وَإِن كُنتُم مَّرْضَىٰ أَوْ عَلَىٰ سَفَرٍ... فَتَيَمَّمُوا صَعِيدًا طَيِّبًا",
+        "translation": {
+          "en": "And if you are ill or on a journey... then seek clean earth and wipe over your faces.",
+          "hi": "और अगर तुम बीमार हो या सफ़र पर... तो पाक मिट्टी से तयम्मुम करो।",
+          "ur": "اور اگر تم بیمار ہو یا سفر پر... تو پاک مٹی سے تیمم کرو۔"
+        }
+      },
+      "task": {
+        "en": "This week: build a consistent Friday preparation. Ghusl before Jumu'ah. Clean clothes laid out the night before. Siwak or toothbrush before salah. It takes 20 extra minutes. But those 20 minutes are the difference between arriving at Jumu'ah and presenting yourself at Jumu'ah. That difference matters to Allah.",
+        "hi": "इस हफ़्ते: एक consistent जुमे की तैयारी बनाओ। जुमे से पहले ग़ुस्ल। रात पहले साफ़ कपड़े रखे। नमाज़ से पहले मिस्वाक या toothbrush। इसमें 20 extra मिनट लगते हैं। लेकिन वो 20 मिनट जुमे पहुँचने और जुमे पर ख़ुद को पेश करने का फ़र्क़ हैं। वो फ़र्क़ अल्लाह को मायने रखता है।",
+        "ur": "اس ہفتے: ایک consistent جمعے کی تیاری بناؤ۔ جمعے سے پہلے غسل۔ رات پہلے صاف کپڑے رکھے۔ نماز سے پہلے مسواک یا toothbrush۔ اس میں 20 extra منٹ لگتے ہیں۔ لیکن وہ 20 منٹ جمعے پہنچنے اور جمعے پر خود کو پیش کرنے کا فرق ہیں۔ وہ فرق اللہ کو مایہ رکھتا ہے۔"
+      },
+      "hikmah": {
+        "en": "The person who maintains fitra practices consistently is different in how they carry themselves — not visibly, not for others, but in their own sense of self. There is a dignity that comes from being clean and well-kept. Not vanity — dignity. The word in Arabic, karama, means both honour and being cared for. To care for your body is to honour the gift you were given.",
+        "hi": "जो इंसान consistently fitra के अमल maintain करता है वो अलग तरह से ख़ुद को carry करता है — ज़ाहिर में नहीं, दूसरों के लिए नहीं, बल्कि ख़ुद के बारे में अपने एहसास में। साफ़ और अच्छी तरह से rakhे हुए होने से एक वक़ार आता है। vanity नहीं — वक़ार। अरबी में लफ़्ज़ karāma का मतलब सम्मान भी है और देखभाल किए जाना भी। जिस्म की देखभाल करना उस तोहफ़े का सम्मान करना है जो दिया गया।",
+        "ur": "جو انسان consistently fitra کے اعمال maintain کرتا ہے وہ الگ طرح سے خود کو carry کرتا ہے — ظاہر میں نہیں، دوسروں کے لیے نہیں، بلکہ خود کے بارے میں اپنے احساس میں۔ صاف اور اچھی طرح سے رکھے ہوئے ہونے سے ایک وقار آتا ہے۔ vanity نہیں — وقار۔ عربی میں لفظ karāma کا مطلب سم‍مان بھی ہے اور دیکھ بھال کیے جانا بھی۔ جسم کی دیکھ بھال کرنا اس تحفے کا احترام کرنا ہے جو دیا گیا۔"
+      },
+      "example": {
+        "en": "End of the week: compare how you felt this Friday at Jumu'ah — having prepared properly — versus last Friday when you arrived five minutes late in the same clothes you wore to work. The salah was the same words. But the state you brought to it was different. That state matters. That is why the preparation is part of the worship.",
+        "hi": "हफ़्ते के आख़िर में: इस जुमे जुमे में कैसा feel हुआ — ठीक से तैयार होकर — बनाम पिछले जुमे जब काम के कपड़ों में पाँच मिनट देर से पहुँचे। नमाज़ वही अल्फ़ाज़ थे। लेकिन जो हालत लेकर आए वो अलग थी। वो हालत मायने रखती है। इसीलिए तैयारी इबादत का हिस्सा है।",
+        "ur": "ہفتے کے آخر میں: اس جمعے جمعے میں کیسا feel ہوا — ٹھیک سے تیار ہو کر — بمقابلہ پچھلے جمعے جب کام کے کپڑوں میں پانچ منٹ دیر سے پہنچے۔ نماز وہی الفاظ تھے۔ لیکن جو حالت لے کر آئے وہ الگ تھی۔ وہ حالت مایہ رکھتی ہے۔ اسی لیے تیاری عبادت کا حصہ ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 2, "ayah": 222,
+        "arabic": "وَيُحِبُّ الْمُتَطَهِّرِينَ",
+        "translation": {
+          "en": "And He loves those who purify themselves.",
+          "hi": "और वो पाकी रखने वालों से मोहब्बत करता है।",
+          "ur": "اور وہ پاکی رکھنے والوں سے محبت کرتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "This week: make Friday preparation a household practice, not just your own. Lay out clean clothes for your children the night before. Make ghusl a normal Friday morning thing for everyone. Not as a rule — as a shared ritual. 'Friday is our special day. We all prepare properly.' Over time this becomes the family's identity. That is how culture is built.",
+        "hi": "इस हफ़्ते: जुमे की तैयारी सिर्फ़ अपनी नहीं, घर की practice बनाओ। बच्चों के लिए रात पहले साफ़ कपड़े रखो। ग़ुस्ल को सबके लिए जुमे की सुबह की normal चीज़ बनाओ। rule की तरह नहीं — साझे रस्म की तरह। 'जुमा हमारा ख़ास दिन है। हम सब ठीक से तैयार होते हैं।' वक़्त के साथ यह family की पहचान बन जाती है। ऐसे culture बनती है।",
+        "ur": "اس ہفتے: جمعے کی تیاری صرف اپنی نہیں، گھر کی practice بناؤ۔ بچوں کے لیے رات پہلے صاف کپڑے رکھو۔ غسل کو سب کے لیے جمعے کی صبح کی normal چیز بناؤ۔ rule کی طرح نہیں — مشترکہ رسم کی طرح۔ 'جمعہ ہمارا خاص دن ہے۔ ہم سب ٹھیک سے تیار ہوتے ہیں۔' وقت کے ساتھ یہ family کی پہچان بن جاتی ہے۔ ایسے culture بنتی ہے۔"
+      },
+      "hikmah": {
+        "en": "Children who grow up in homes where Friday has a distinct atmosphere — cleaner, more careful, more intentional — carry that into adulthood. They feel the difference when they don't prepare. The practice becomes part of who they are. You are not just teaching hygiene. You are teaching that certain days and certain states of being are sacred. That is one of the most valuable things a home can transmit.",
+        "hi": "जो बच्चे ऐसे घरों में पलते हैं जहाँ जुमे का माहौल अलग हो — साफ़, ज़्यादा careful, ज़्यादा intentional — वो यह बड़े होने पर भी साथ लेकर चलते हैं। जब तैयार न हों तो फ़र्क़ महसूस होता है। यह practice उनकी पहचान का हिस्सा बन जाती है। तुम सिर्फ़ hygiene नहीं सिखा रहे। तुम सिखा रहे हो कि कुछ दिन और कुछ हालतें पवित्र हैं। यह सबसे क़ीमती चीज़ों में से एक है जो घर दे सकता है।",
+        "ur": "جو بچے ایسے گھروں میں پلتے ہیں جہاں جمعے کا ماحول الگ ہو — صاف، زیادہ careful، زیادہ intentional — وہ یہ بڑے ہونے پر بھی ساتھ لے کر چلتے ہیں۔ جب تیار نہ ہوں تو فرق محسوس ہوتا ہے۔ یہ practice ان کی پہچان کا حصہ بن جاتی ہے۔ تم صرف hygiene نہیں سکھا رہے۔ تم سکھا رہے ہو کہ کچھ دن اور کچھ حالتیں مقدس ہیں۔ یہ سب سے قیمتی چیزوں میں سے ایک ہے جو گھر دے سکتا ہے۔"
+      },
+      "example": {
+        "en": "Your son is eight. Next Friday: tell him the night before — 'Tomorrow is Jumu'ah. Special day. We're going to prepare together in the morning.' Help him lay out his clothes. Do ghusl together if appropriate. Walk to the masjid together. After Jumu'ah, let him choose where to eat. That entire Friday becomes a memory. Those memories become values.",
+        "hi": "बेटा आठ साल का है। अगले जुमे: रात पहले बताओ — 'कल जुमा है। ख़ास दिन। हम सुबह साथ में तैयार होंगे।' उसके कपड़े रखने में मदद करो। अगर ठीक हो तो साथ ग़ुस्ल करो। साथ मस्जिद चलो। जुमे के बाद उसे चुनने दो कहाँ खाना है। वो पूरा जुमा एक याद बन जाता है। वो यादें values बन जाती हैं।",
+        "ur": "بیٹا آٹھ سال کا ہے۔ اگلے جمعے: رات پہلے بتاؤ — 'کل جمعہ ہے۔ خاص دن۔ ہم صبح ساتھ میں تیار ہوں گے۔' اس کے کپڑے رکھنے میں مدد کرو۔ اگر ٹھیک ہو تو ساتھ غسل کرو۔ ساتھ مسجد چلو۔ جمعے کے بعد اسے چننے دو کہاں کھانا ہے۔ وہ پورا جمعہ ایک یاد بن جاتا ہے۔ وہ یادیں values بن جاتی ہیں۔"
+      }
+    }
+  ]
+}

@@ -1,321 +1,1154 @@
 /*
- * components.css — Aamaal-Specific Components
+ * components.css — Aamaal Components
  * QUR'AN WORLD VIEW · Aamaal
  *
- * App-specific component styles.
- * Never redefine variables from design.css — only extend.
- *
- * Sections (grow as screens are built):
- *   NAVBAR
- *   MONTH BANNER
- *   STATS ROW
- *   TASK CARD
- *   CALENDAR DOTS
- *   REFLECTION SCREEN
- *   ARCHIVE SCREEN
- *   RAMADAN SPECIAL
+ * Aesthetic: Sacred daily ritual. Warm, dark, intentional.
+ * Middle ground — meaningful tracking, not gamification.
+ * Self-explanatory UI. Beautiful readability.
  */
 
-/* ── NAVBAR ─────────────────────────────────────────────────────────────── */
-.aamaal-nav {
-  position: sticky;
-  top: 0;
-  z-index: 100;
+/* ── ROOT ────────────────────────────────────────────────────────────────── */
+.aamaal-root {
+  min-height: 100vh;
   background: var(--bg);
-  border-bottom: 1px solid var(--border);
-  padding: var(--sp-sm) var(--sp-md);
+  padding-bottom: 80px; /* clearance for bottom nav */
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+/* ── BOTTOM NAV ──────────────────────────────────────────────────────────── */
+.bottom-nav {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 200;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  background: rgba(10,12,16,0.96);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-top: 1px solid var(--border);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.bottom-nav-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 10px 4px 10px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  transition: color 0.18s ease;
+  -webkit-tap-highlight-color: transparent;
+  text-decoration: none;
+}
+
+.bottom-nav-item:hover {
+  color: var(--gold);
+}
+
+.bottom-nav-item.active {
+  color: var(--gold);
+}
+
+.bottom-nav-icon {
+  width: 22px;
+  height: 22px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  justify-content: center;
+  position: relative;
+}
+
+/* Active indicator dot under icon */
+.bottom-nav-item.active .bottom-nav-icon::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--gold);
+}
+
+.bottom-nav-label {
+  font-family: var(--font-display);
+  font-size: 0.56rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+/* Brand mark — hidden on mobile, shown on desktop sidebar */
+.bottom-nav-brand {
+  display: none;
+}
+
+@media (min-width: 800px) {
+  .bottom-nav-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 32px 24px 40px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 8px;
+  }
+  .bottom-nav-logo {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    border-radius: 10px;
+  }
+}
+
+/* ── NAVBAR ──────────────────────────────────────────────────────────────── */
+.aamaal-nav {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center;
+  padding: 12px 20px;
+  background: rgba(10,12,16,0.88);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  min-height: 56px;
+}
+
+/* Mobile logo — hidden on desktop (sidebar has it) */
+.nav-logo-mobile {
+  height: 34px; width: 34px;
+  object-fit: contain;
+  border-radius: 6px;
+  flex-shrink: 0;
 }
 
 .aamaal-nav-logo {
   font-family: var(--font-display);
-  font-size: 1.1rem;
-  color: var(--gold);
-  letter-spacing: 0.08em;
+  font-size: 0.72rem; font-weight: 600;
+  letter-spacing: 0.22em;
+  background: linear-gradient(135deg, var(--gold-dim), var(--gold-bright));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
-.aamaal-nav-actions {
+/* Desktop nav links — hidden on mobile */
+.desktop-nav-links {
+  display: none;
+}
+
+
+.nav-settings-wrap {
+  position: relative;
+  margin-left: auto; /* always push to right edge of navbar */
+}
+
+/* ── HOME QUICK NAV ──────────────────────────────────────────────────────── */
+.home-quick-nav {
   display: flex;
-  align-items: center;
-  gap: var(--sp-sm);
+  gap: 8px;
+  padding: 16px 20px 0;
 }
 
-/* Language toggle — all three always visible */
-.lang-toggle {
-  display: flex;
-  gap: 2px;
-  background: var(--bg-surface);
-  border-radius: var(--r-sm);
-  padding: 2px;
-}
-
-.lang-btn {
-  background: transparent;
-  border: none;
-  color: var(--text-muted);
-  font-family: var(--font-body);
-  font-size: 0.75rem;
-  font-weight: 500;
-  padding: 4px 8px;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all var(--transition);
-  letter-spacing: 0.04em;
-}
-
-.lang-btn.active {
-  background: var(--bg-card);
-  color: var(--gold);
-}
-
-/* Theme cycle button */
-.theme-btn {
-  background: transparent;
-  border: 1px solid var(--border);
-  color: var(--text-muted);
-  width: 32px;
-  height: 32px;
-  border-radius: var(--r-sm);
-  cursor: pointer;
+.home-quick-btn {
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.9rem;
+  gap: 7px;
+  padding: 10px 8px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--r-md);
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.home-quick-btn:hover {
+  border-color: var(--border-gold);
+  color: var(--gold);
+  background: rgba(201,168,76,0.06);
+}
+
+@media (min-width: 800px) {
+  /* On desktop the bottom nav is gone — keep quick nav for sidebar left column */
+  .home-quick-nav { padding: 16px 0 0; }
+}
+
+.settings-btn {
+  display: flex; align-items: center; justify-content: center;
+  width: 34px; height: 34px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm);
+  color: var(--text-muted);
+  cursor: pointer;
   transition: all var(--transition);
 }
-.theme-btn:hover { border-color: var(--border-gold); color: var(--gold); }
+.settings-btn:hover {
+  border-color: var(--border-gold);
+  color: var(--gold);
+}
 
-/* ── MONTH BANNER ───────────────────────────────────────────────────────── */
-.month-banner {
-  background: linear-gradient(135deg, var(--crimson), #3A0800);
-  border-bottom: 1px solid var(--border-gold);
-  padding: var(--sp-lg) var(--sp-md);
+/* ── SETTINGS PANEL ──────────────────────────────────────────────────────── */
+.settings-panel {
+  position: fixed;       /* fixed on mobile so it can't clip off screen */
+  top: 60px;
+  right: 16px;           /* always 16px from right edge of viewport */
+  min-width: 220px;
+  max-width: calc(100vw - 32px); /* never wider than screen */
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--r-lg);
+  padding: 16px;
+  z-index: 500;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  animation: settingsFadeIn 0.15s ease;
+}
+
+@keyframes settingsFadeIn {
+  from { opacity: 0; transform: translateY(-6px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.settings-section-label {
+  font-family: var(--font-display);
+  font-size: 0.58rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 2px;
+}
+
+.settings-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 2px 0;
+}
+
+/* Language */
+.settings-lang-group {
+  display: flex; gap: 6px;
+}
+.settings-lang-btn {
+  flex: 1;
+  padding: 7px 4px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm);
+  color: var(--text-muted);
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  cursor: pointer;
+  transition: all var(--transition);
   text-align: center;
-  position: relative;
-  overflow: hidden;
+}
+.settings-lang-btn.active {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: #1A0A00;
+  font-weight: 600;
+}
+.settings-lang-btn:not(.active):hover {
+  border-color: var(--border-gold);
+  color: var(--gold);
 }
 
-[data-season="ramadan"] .month-banner {
-  background: linear-gradient(135deg, #2A0E00, #1A0500, #0F0800);
-  border-bottom-color: var(--gold);
+/* Text size */
+.settings-scale-group {
+  display: flex; gap: 6px;
+}
+.settings-scale-btn {
+  flex: 1;
+  padding: 7px 4px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm);
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 0.62rem;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  transition: all var(--transition);
+  text-align: center;
+  white-space: nowrap;
+}
+.settings-scale-btn.active {
+  background: rgba(201,168,76,0.12);
+  border-color: var(--gold);
+  color: var(--gold);
+}
+.settings-scale-btn:not(.active):hover {
+  border-color: var(--border-gold);
+  color: var(--gold);
 }
 
+/* Theme */
+.settings-theme-group {
+  display: flex; gap: 6px;
+}
+.settings-theme-btn {
+  flex: 1;
+  padding: 8px 4px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm);
+  color: var(--text-muted);
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  cursor: pointer;
+  transition: all var(--transition);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+.settings-theme-btn.active {
+  background: rgba(201,168,76,0.1);
+  border-color: var(--gold);
+  color: var(--gold);
+}
+.settings-theme-btn:not(.active):hover {
+  border-color: var(--border-gold);
+  color: var(--gold);
+}
+.settings-signout-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  background: none;
+  border: 1px solid rgba(224, 112, 112, 0.2);
+  border-radius: var(--r-sm);
+  padding: 8px 12px;
+  font-family: var(--font-display);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #E07070;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.settings-signout-btn:hover {
+  background: rgba(224, 112, 112, 0.08);
+  border-color: rgba(224, 112, 112, 0.4);
+}
+
+
+
+/* ── MONTH BANNER ────────────────────────────────────────────────────────── */
+.month-banner {
+  position: relative; overflow: hidden;
+  padding: 28px 24px 26px;
+  text-align: center;
+  background:
+    radial-gradient(ellipse at 50% -10%, rgba(201,168,76,0.14) 0%, transparent 65%),
+    linear-gradient(180deg, rgba(120,15,0,0.15) 0%, var(--bg) 100%);
+  border-bottom: 1px solid var(--border-gold);
+}
+
+/* Slow shimmer sweep */
 .month-banner::before {
   content: '';
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.08) 0%, transparent 70%);
+  position: absolute; top: 0; left: -100%;
+  width: 50%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(201,168,76,0.05), transparent);
+  animation: bannerShimmer 5s ease-in-out infinite;
   pointer-events: none;
+}
+@keyframes bannerShimmer {
+  0%   { left: -100%; }
+  100% { left: 220%;  }
+}
+
+.banner-eyebrow {
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 0.22em;
+  color: var(--gold-dim);
+  text-transform: uppercase;
+  margin-bottom: 8px;
 }
 
 .month-name {
   font-family: var(--font-display);
-  font-size: 1.3rem;
-  color: var(--gold);
+  font-size: clamp(1.5rem, 6vw, 2.2rem);
+  font-weight: 500;
   letter-spacing: 0.1em;
+  background: linear-gradient(135deg, var(--gold-dim), var(--gold-bright), var(--gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
   margin-bottom: 4px;
+  line-height: 1.2;
 }
 
-.month-theme-label {
-  font-size: 0.8rem;
+.month-theme {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--text);
+  letter-spacing: 0.01em;
+}
+
+/* ── RING CALENDAR ───────────────────────────────────────────────────────── */
+/*
+  Self-explanatory design principles:
+  - Gold arc segment = day completed
+  - Dim arc = partial (task only, no reflection)
+  - Empty arc gap = missed day (visually absent, like a gap in a chain)
+  - Glowing segment = today
+  - Center shows WHAT month (Arabic theme word) + WHERE you are (Day X/30)
+  No legend needed — the ring tells the whole story.
+*/
+
+.ring-section {
+  padding: 24px 20px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.ring-wrapper {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  flex-shrink: 0;
+}
+
+.ring-svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg); /* start from top */
+}
+
+/* Ring center content */
+.ring-center {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 2px;
+  padding: 20px;
+}
+
+.ring-center-arabic {
+  font-family: var(--font-arabic);
+  font-size: 1.6rem;
+  color: var(--gold);
+  line-height: 1.4;
+  direction: rtl;
+}
+
+.ring-center-day {
+  font-family: var(--font-display);
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
   color: var(--text-muted);
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin-bottom: var(--sp-xs);
+  margin-top: 2px;
 }
 
-.month-theme-value {
-  font-family: var(--font-serif);
+.ring-center-daynum {
+  font-family: var(--font-display);
   font-size: 1.1rem;
   color: var(--off-white);
-  font-style: italic;
+  line-height: 1;
 }
 
-.ramadan-badge {
-  display: inline-block;
-  background: rgba(232,192,96,0.15);
-  border: 1px solid var(--border-gold);
-  color: var(--gold);
-  font-size: 0.75rem;
-  padding: 2px 10px;
-  border-radius: 999px;
-  margin-top: var(--sp-sm);
-  letter-spacing: 0.08em;
+/* Ring stats below the circle */
+.ring-stats {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
-/* ── STATS ROW ──────────────────────────────────────────────────────────── */
-.stats-row {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: var(--sp-sm);
-  padding: var(--sp-md);
+.ring-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
 }
 
-.stat-item {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--r-md);
-  padding: var(--sp-md) var(--sp-sm);
+.ring-stat-value {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--off-white);
+  line-height: 1;
+}
+
+.ring-stat-label {
+  font-family: var(--font-display);
+  font-size: 0.58rem;
+  letter-spacing: 0.14em;
+  color: var(--text-muted);
+  text-transform: uppercase;
   text-align: center;
 }
 
-.stat-value {
+/* Tooltip for ring segments — appears on tap/hover */
+.ring-tooltip {
+  position: fixed;
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--r-md);
+  padding: 8px 14px;
   font-family: var(--font-display);
-  font-size: 1.5rem;
-  color: var(--gold);
-  line-height: 1;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--text);
+  pointer-events: none;
+  z-index: 200;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+.ring-tooltip.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ── TASK SECTION HEADER ─────────────────────────────────────────────────── */
+.task-section-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 20px;
+  margin-top: 4px;
   margin-bottom: 4px;
 }
 
-.stat-label {
-  font-size: 0.72rem;
-  color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
+.task-section-heading-line {
+  flex: 1; height: 1px;
+  background: linear-gradient(90deg, var(--border-gold), transparent);
 }
 
-/* ── TASK CARD ──────────────────────────────────────────────────────────── */
+.task-section-heading-text {
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  color: var(--gold-dim);
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* ── TASK CARD ───────────────────────────────────────────────────────────── */
 .task-card {
-  margin: 0 var(--sp-md) var(--sp-md);
+  margin: 0 16px;
   background: var(--bg-card);
   border: 1px solid var(--border-gold);
   border-radius: var(--r-lg);
   overflow: hidden;
-  box-shadow: var(--shadow-gold);
+  box-shadow:
+    0 2px 24px rgba(0,0,0,0.35),
+    0 0 0 1px rgba(201,168,76,0.04),
+    inset 0 1px 0 rgba(255,255,255,0.03);
+  transition: box-shadow 0.3s ease;
+}
+
+.task-card:hover {
+  box-shadow:
+    0 4px 32px rgba(0,0,0,0.45),
+    0 0 0 1px rgba(201,168,76,0.08),
+    inset 0 1px 0 rgba(255,255,255,0.04);
 }
 
 .task-card.completed {
   border-color: var(--border);
-  box-shadow: none;
-  opacity: 0.85;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+  opacity: 0.75;
 }
 
+/* Card header */
 .task-card-header {
-  padding: var(--sp-md) var(--sp-lg);
-  border-bottom: 1px solid var(--border);
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, rgba(201,168,76,0.04) 0%, transparent 100%);
 }
 
 .task-day-label {
-  font-size: 0.75rem;
-  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 0.18em;
+  color: var(--gold-dim);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 
 .task-completed-badge {
-  font-size: 0.78rem;
+  display: flex; align-items: center; gap: 5px;
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 0.1em;
   color: var(--gold);
+  text-transform: uppercase;
 }
 
+/* Card sections */
 .task-section {
-  padding: var(--sp-lg);
+  padding: 18px 20px;
   border-bottom: 1px solid var(--border);
 }
 .task-section:last-of-type { border-bottom: none; }
 
 .task-section-label {
-  font-size: 0.72rem;
+  font-family: var(--font-display);
+  font-size: 0.58rem;
+  letter-spacing: 0.2em;
   color: var(--gold-dim);
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin-bottom: var(--sp-sm);
-  font-family: var(--font-display);
+  margin-bottom: 10px;
+  display: flex; align-items: center; gap: 8px;
+}
+.task-section-label::after {
+  content: '';
+  flex: 1; height: 1px;
+  background: linear-gradient(90deg, var(--border-gold), transparent);
 }
 
+/* Content typography — this is where readability matters most */
 .task-text {
-  font-size: 1rem;
+  font-size: 1.05rem;
   color: var(--off-white);
-  line-height: 1.7;
-  font-weight: 500;
+  line-height: 1.75;
+  font-weight: 400;
+  /* Slightly larger, highest contrast — the task itself */
 }
 
 .task-hikmah {
-  font-size: 0.92rem;
+  font-family: var(--font-serif);
+  font-size: 0.98rem;
   color: var(--text);
-  line-height: 1.8;
+  line-height: 1.9;
+  /* Serif for wisdom — feels like reading a book */
 }
 
 .task-example {
-  font-size: 0.88rem;
-  color: var(--text-muted);
-  line-height: 1.7;
+  font-family: var(--font-serif);
+  font-size: 0.9rem;
   font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.85;
+  padding-left: 14px;
+  border-left: 2px solid var(--border-gold);
+  /* Indented quote style — clearly a scenario, not instruction */
 }
 
-.task-actions {
-  padding: var(--sp-md) var(--sp-lg);
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--sp-sm);
-}
-
-.task-actions.single { grid-template-columns: 1fr; }
-
-/* ── GEM EARNED BANNER ──────────────────────────────────────────────────── */
-.gem-earned-banner {
-  margin: var(--sp-sm) var(--sp-md);
-  background: rgba(201,168,76,0.08);
+/* Ayah block */
+.ayah-block {
+  background: var(--bg-surface);
   border: 1px solid var(--border-gold);
   border-radius: var(--r-md);
-  padding: var(--sp-md);
-  text-align: center;
-  font-size: 0.9rem;
-  color: var(--gold);
-  animation: fadeIn 0.4s ease;
+  padding: 16px 18px;
+  text-align: right;
 }
 
-/* ── CALENDAR DOTS ──────────────────────────────────────────────────────── */
-.calendar-section {
-  padding: var(--sp-md);
+.ayah-arabic {
+  margin-bottom: 10px;
+  line-height: 2.1;
 }
 
-.calendar-title {
-  font-size: 0.75rem;
+.ayah-translation {
+  font-family: var(--font-serif);
+  font-size: 0.88rem;
   color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-bottom: var(--sp-md);
+  text-align: left;
+  font-style: italic;
+  line-height: 1.75;
+  margin-bottom: 8px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+[dir="rtl"] .ayah-translation { text-align: right; }
+
+.ayah-ref {
   font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  color: var(--gold-dim);
+  text-align: right;
 }
 
-.calendar-grid {
+/* Action buttons */
+.task-actions {
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  gap: 6px;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  padding: 16px 20px;
+  background: rgba(0,0,0,0.15);
+  border-top: 1px solid var(--border);
+}
+.task-actions.single { grid-template-columns: 1fr; }
+
+/* ── REFLECTION NUDGE (shown after task done) ────────────────────────────── */
+.reflect-nudge {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 20px;
+  background: rgba(201,168,76,0.05);
+  border-top: 1px solid var(--border-gold);
 }
 
-.calendar-dot {
-  aspect-ratio: 1;
-  border-radius: 50%;
-  cursor: pointer;
-  transition: transform var(--transition);
-  position: relative;
+.reflect-nudge-text {
+  font-family: var(--font-serif);
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--text-muted);
+  flex: 1;
+  line-height: 1.5;
 }
-.calendar-dot:hover { transform: scale(1.2); }
 
-.dot-full    { background: var(--gold); }
-.dot-partial { background: var(--gold-dim); }
-.dot-missed  { background: transparent; border: 1px solid var(--border); }
-.dot-future  { background: transparent; border: 1px dashed var(--border); opacity: 0.4; cursor: default; }
-.dot-today   { box-shadow: 0 0 0 2px var(--gold); }
-
-/* ── COME BACK MESSAGE ──────────────────────────────────────────────────── */
-.come-back-message {
-  padding: var(--sp-xl) var(--sp-md);
+/* ── COMPLETION CARD ─────────────────────────────────────────────────────── */
+.come-back-card {
+  margin: 0 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--r-lg);
+  padding: 36px 24px 32px;
   text-align: center;
+  position: relative;
+  overflow: hidden;
 }
 
-.come-back-icon { font-size: 2rem; margin-bottom: var(--sp-md); }
+.come-back-card::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.07) 0%, transparent 65%);
+  pointer-events: none;
+}
+
+.seal-icon {
+  font-size: 2.8rem;
+  display: block;
+  margin-bottom: 16px;
+  animation: sealFloat 3.5s ease-in-out infinite;
+}
+@keyframes sealFloat {
+  0%,100% { transform: translateY(0);    }
+  50%      { transform: translateY(-7px); }
+}
+
 .come-back-title {
   font-family: var(--font-display);
+  font-size: 0.95rem;
+  letter-spacing: 0.1em;
   color: var(--gold);
-  margin-bottom: var(--sp-sm);
+  margin-bottom: 8px;
+  text-transform: uppercase;
 }
-.come-back-body { color: var(--text-muted); font-size: 0.9rem; }
+
+.come-back-ayah {
+  font-family: var(--font-serif);
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 18px;
+}
+
+.gem-earned-line {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 7px 18px;
+  background: rgba(201,168,76,0.08);
+  border: 1px solid var(--border-gold);
+  border-radius: 999px;
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: var(--gold);
+}
+
+/* ── CELEBRATION OVERLAY ─────────────────────────────────────────────────── */
+.celebration-overlay {
+  position: fixed; inset: 0; z-index: 999;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(5,8,15,0.94);
+  backdrop-filter: blur(10px);
+  animation: celebFadeIn 0.35s ease both;
+}
+@keyframes celebFadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.celebration-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--r-xl);
+  padding: 44px 32px 36px;
+  text-align: center;
+  max-width: 320px;
+  width: 88%;
+  position: relative; overflow: hidden;
+  animation: celebRise 0.5s cubic-bezier(0.34,1.56,0.64,1) both;
+}
+@keyframes celebRise {
+  from { transform: translateY(32px) scale(0.92); opacity: 0; }
+  to   { transform: translateY(0) scale(1);       opacity: 1; }
+}
+
+.celebration-card::before {
+  content: '';
+  position: absolute; top: -60%; left: -60%;
+  width: 220%; height: 220%;
+  background: radial-gradient(ellipse at center, rgba(201,168,76,0.07) 0%, transparent 55%);
+  pointer-events: none;
+}
+
+/* Decorative top line */
+.celebration-card::after {
+  content: '';
+  position: absolute; top: 0; left: 20%; right: 20%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+.celebration-icon {
+  font-size: 3.2rem;
+  display: block;
+  margin-bottom: 18px;
+  animation: celebBounce 0.55s cubic-bezier(0.34,1.56,0.64,1) 0.15s both;
+}
+@keyframes celebBounce {
+  from { transform: scale(0.3) rotate(-15deg); opacity: 0; }
+  to   { transform: scale(1) rotate(0deg);     opacity: 1; }
+}
+
+.celebration-title {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  letter-spacing: 0.15em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.celebration-subtitle {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--text);
+  line-height: 1.65;
+  margin-bottom: 20px;
+}
+
+.celebration-gem {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 7px 18px;
+  background: rgba(201,168,76,0.1);
+  border: 1px solid var(--border-gold);
+  border-radius: 999px;
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: var(--gold);
+  margin-bottom: 8px;
+}
+
+.celebration-points {
+  font-family: var(--font-display);
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  margin-bottom: 24px;
+  text-transform: uppercase;
+}
+
+.celebration-dismiss {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 10px 28px;
+  border-radius: var(--r-md);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.celebration-dismiss:hover {
+  border-color: var(--border-gold);
+  color: var(--gold);
+}
+
+/* ── PARTICLE SYSTEM ─────────────────────────────────────────────────────── */
+.particle {
+  position: fixed;
+  pointer-events: none;
+  animation: particleFall linear forwards;
+  z-index: 1000;
+}
+@keyframes particleFall {
+  0%   { transform: translateY(-10px) rotate(0deg) scale(1);   opacity: 1; }
+  80%  { opacity: 0.8; }
+  100% { transform: translateY(100vh) rotate(540deg) scale(0); opacity: 0; }
+}
+
+/* ── LIGHT MODE ──────────────────────────────────────────────────────────── */
+[data-theme="light"] .aamaal-nav {
+  background: rgba(246,241,232,0.92);
+}
+[data-theme="light"] .settings-panel {
+  box-shadow: 0 8px 40px rgba(0,0,0,0.15);
+}
+[data-theme="light"] .bottom-nav {
+  background: rgba(246,241,232,0.96);
+  border-top-color: rgba(0,0,0,0.1);
+}
+[data-theme="light"] .month-banner {
+  background:
+    radial-gradient(ellipse at 50% -10%, rgba(154,112,32,0.1) 0%, transparent 65%),
+    linear-gradient(180deg, rgba(154,112,32,0.08) 0%, var(--bg) 100%);
+}
+[data-theme="light"] .task-card {
+  box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+}
+[data-theme="light"] .task-example {
+  border-left-color: var(--border-gold);
+}
+[data-theme="light"] .stage-indicator-inner {
+  background: var(--bg-card);
+}
+
+/* ── RAMADAN SEASON ──────────────────────────────────────────────────────── */
+[data-season="ramadan"] .month-banner {
+  background:
+    radial-gradient(ellipse at 50% -10%, rgba(232,192,96,0.16) 0%, transparent 65%),
+    linear-gradient(180deg, rgba(139,26,0,0.2) 0%, var(--bg) 100%);
+}
+[data-season="ramadan"] .task-card {
+  border-color: rgba(232,192,96,0.3);
+  box-shadow: 0 0 40px rgba(232,192,96,0.06), 0 2px 24px rgba(0,0,0,0.4);
+}
+
+/* ── RESPONSIVE — TABLET (480px+) ───────────────────────────────────────── */
+@media (min-width: 480px) {
+  .ring-wrapper   { width: 220px; height: 220px; }
+  .task-card      { margin: 0 20px; }
+  .task-section   { padding: 20px 24px; }
+  .task-actions   { padding: 16px 24px; }
+  .come-back-card { margin: 0 20px; }
+  .ring-section   { padding: 28px 24px 20px; }
+}
+
+/* ── RESPONSIVE — DESKTOP (800px+) ─────────────────────────────────────── */
+/*
+ * Desktop is a proper website — not a phone emulator.
+ *
+ * Layout:
+ *   - Full-width top navbar: logo left · nav links centre · settings right
+ *   - Bottom nav becomes top nav links (hidden as a bar)
+ *   - Content: max-width 1100px, centred, full breathing room
+ *   - Home screen: ring/stats LEFT · task card RIGHT (side by side)
+ *   - No sidebar. No padding-left offsets.
+ */
+@media (min-width: 800px) {
+
+  /* ── Root — full width centred ── */
+  .aamaal-root {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+    /* no padding-left — sidebar is gone */
+  }
+
+  /* ── Bottom nav — HIDDEN on desktop (nav links move to top navbar) ── */
+  .bottom-nav {
+    display: none;
+  }
+
+  /* ── Top navbar — full width website header ── */
+  .aamaal-nav {
+    max-width: 100%;
+    margin: 0;
+    padding: 0 40px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  /* Show mobile logo on desktop too — it's the brand */
+  .nav-logo-mobile {
+    display: block;
+    height: 36px;
+    width: 36px;
+  }
+
+  /* Nav links — injected into navbar on desktop */
+  .desktop-nav-links {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .desktop-nav-link {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 8px 16px;
+    background: transparent;
+    border: none;
+    border-radius: var(--r-md);
+    color: var(--text-muted);
+    font-family: var(--font-display);
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all var(--transition);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .desktop-nav-link:hover {
+    color: var(--gold);
+    background: rgba(201,168,76,0.06);
+  }
+
+  .desktop-nav-link.active {
+    color: var(--gold);
+    background: rgba(201,168,76,0.1);
+    border: 1px solid var(--border-gold);
+  }
+
+  /* ── Month banner — full width, less padding ── */
+  .month-banner {
+    padding: 40px 40px 32px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+  }
+
+  .month-banner-left {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  /* ── Main content area — two columns ── */
+  .desktop-layout {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 0;
+    align-items: start;
+    min-height: 70vh;
+  }
+
+  /* LEFT column — ring + stats, sticky */
+  .desktop-left {
+    position: sticky;
+    top: 60px;
+    padding: 32px 24px 32px 40px;
+    border-right: 1px solid var(--border);
+  }
+
+  /* RIGHT column — task content */
+  .desktop-right {
+    padding: 24px 40px 40px 32px;
+    min-width: 0; /* prevents grid blowout */
+  }
+
+  /* Ring bigger on desktop */
+  .ring-wrapper   { width: 240px; height: 240px; }
+  .ring-section   { padding: 0; }
+
+  /* Stats stack vertically in left column */
+  .ring-stats {
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 24px;
+    align-items: flex-start;
+    padding: 0;
+  }
+
+  .ring-stat {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+    padding: 0;
+    border: none;
+    flex: unset;
+    width: 100%;
+    padding: 12px 16px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--r-md);
+  }
+
+  .ring-stat-value {
+    font-size: 1.2rem;
+    min-width: 56px;
+  }
+
+  .ring-stat-label {
+    font-size: 0.6rem;
+    text-align: left;
+  }
+
+  /* Task card — full width of right column */
+  .task-card      { margin: 0; }
+  .come-back-card { margin: 0; }
+  .task-section   { padding: 22px 28px; }
+  .stage-indicator { margin: 0 0 12px; }
+
+  /* Section heading */
+  .task-section-heading {
+    margin: 0 0 12px;
+  }
+}
+
+/* ── RESPONSIVE — WIDE DESKTOP (1280px+) ────────────────────────────────── */
+@media (min-width: 1280px) {
+
+  .aamaal-root {
+    max-width: 1200px;
+  }
+
+  .desktop-layout {
+    grid-template-columns: 360px 1fr;
+  }
+
+  .desktop-left {
+    padding: 36px 28px 36px 48px;
+  }
+
+  .desktop-right {
+    padding: 28px 48px 48px 36px;
+  }
+
+  .aamaal-nav {
+    padding: 0 48px;
+  }
+}

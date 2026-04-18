@@ -1,0 +1,151 @@
+{
+  "id": "h4-health-bimari",
+  "category": "health",
+  "name": {
+    "en": "When the Body is Tested",
+    "hi": "जब जिस्म आज़माया जाए",
+    "ur": "جب جسم آزمایا جائے"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 2, "ayah": 155,
+        "arabic": "وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ",
+        "translation": {
+          "en": "And We will surely test you with something of fear and hunger and a loss of wealth and lives.",
+          "hi": "और हम ज़रूर तुम्हें डर, भूख, माल, जानों और फलों की कमी से आज़माएँगे।",
+          "ur": "اور ہم ضرور تمہیں ڈر، بھوک، مال، جانوں اور پھلوں کی کمی سے آزمائیں گے۔"
+        }
+      },
+      "task": {
+        "en": "Today, think about your relationship with physical pain or illness — your own, or in people close to you. Do you get angry when you're sick? Do you feel like it's a punishment? Or can you sit with it differently? Just notice your default response to physical difficulty — without judging it yet.",
+        "hi": "आज, जिस्मानी दर्द या बीमारी के साथ अपने रिश्ते के बारे में सोचो — अपनी, या क़रीबी लोगों की। बीमार होने पर ग़ुस्सा होते हो? लगता है सज़ा है? या अलग तरह से उसके साथ बैठ सकते हो? बस नोटिस करो जिस्मानी मुश्किल के प्रति तुम्हारा default response क्या है — अभी judge किए बिना।",
+        "ur": "آج، جسمانی درد یا بیماری کے ساتھ اپنے رشتے کے بارے میں سوچو — اپنی، یا قریبی لوگوں کی۔ بیمار ہونے پر غصہ ہوتے ہو؟ لگتا ہے سزا ہے؟ یا الگ طرح سے اس کے ساتھ بیٹھ سکتے ہو؟ بس نوٹس کرو جسمانی مشکل کے لیے تمہارا default response کیا ہے — ابھی judge کیے بغیر۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: no fatigue, illness, anxiety, sorrow, harm, or distress touches a Muslim — even the prick of a thorn — except that Allah uses it to expiate some of his sins. Illness is not punishment. It is a transaction. Every moment of pain, borne with patience, is clearing a debt you did not know you had.",
+        "hi": "नबी ﷺ ने फ़रमाया: कोई भी थकान, बीमारी, फ़िक्र, ग़म, तकलीफ़, या परेशानी किसी मुसलमान को नहीं छूती — यहाँ तक कि काँटे की चुभन भी — मगर अल्लाह उससे उसके कुछ गुनाह मिटा देता है। बीमारी सज़ा नहीं है। यह एक लेन-देन है। दर्द का हर पल, सब्र के साथ बिताया, एक क़र्ज़ उतार रहा है जिसका तुम्हें पता नहीं था।",
+        "ur": "نبی ﷺ نے فرمایا: کوئی بھی تھکان، بیماری، فکر، غم، تکلیف، یا پریشانی کسی مسلمان کو نہیں چھوتی — یہاں تک کہ کانٹے کی چبھن بھی — مگر اللہ اس سے اس کے کچھ گناہ مٹا دیتا ہے۔ بیماری سزا نہیں ہے۔ یہ ایک لین دین ہے۔ درد کا ہر پل، صبر کے ساتھ بتایا، ایک قرض اتار رہا ہے جس کا تمہیں پتا نہیں تھا۔"
+      },
+      "example": {
+        "en": "You have a persistent headache, a bad back, or some chronic ache that you've been fighting and resenting. Today: try saying 'Alhamdulillah ala kulli hal' — praise be to Allah in every condition. Not as resignation, as trust. The pain is still there. But your relationship with it can change. That shift is what kaffarah feels like from the inside.",
+        "hi": "एक persistent सिरदर्द है, पीठ का दर्द है, या कोई chronic तकलीफ़ है जिससे लड़ रहे हो और नाराज़ हो। आज: 'अलहम्दुलिल्लाह अला कुल्लि हाल' कहने की कोशिश करो — हर हाल में अल्लाह का शुक्र। resign करने के तौर पर नहीं, भरोसे के तौर पर। दर्द अभी भी है। लेकिन उसके साथ तुम्हारा रिश्ता बदल सकता है। वो बदलाव है जैसा अंदर से कफ़्फ़ारा feel होता है।",
+        "ur": "ایک persistent سردرد ہے، پیٹھ کا درد ہے، یا کوئی chronic تکلیف ہے جس سے لڑ رہے ہو اور ناراض ہو۔ آج: 'الحمدللہ علی کل حال' کہنے کی کوشش کرو — ہر حال میں اللہ کا شکر۔ resign کرنے کے طور پر نہیں، بھروسے کے طور پر۔ درد ابھی بھی ہے۔ لیکن اس کے ساتھ تمہارا رشتہ بدل سکتا ہے۔ وہ بدلاؤ ہے جیسا اندر سے کفارہ feel ہوتا ہے۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 39, "ayah": 10,
+        "arabic": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+        "translation": {
+          "en": "Indeed, the patient will be given their reward without account.",
+          "hi": "बेशक सब्र करने वालों को उनका अज्र बेहिसाब दिया जाएगा।",
+          "ur": "بے شک صبر کرنے والوں کو ان کا اجر بے حساب دیا جائے گا۔"
+        }
+      },
+      "task": {
+        "en": "Learn about the Islamic concept of sabr with illness — not passive suffering, but active trust. Read about how the Prophet ﷺ himself was ill — severe headaches, fever, and how he behaved during those times. Also: read the ruqya duas for illness. Learn what to say when your body hurts — for yourself and for those you love.",
+        "hi": "बीमारी के साथ सब्र के इस्लामी concept के बारे में सीखो — passive suffering नहीं, बल्कि active trust। पढ़ो कि नबी ﷺ ख़ुद कैसे बीमार पड़े — तेज़ सिरदर्द, बुख़ार, और उन वक़्तों में कैसे behave किए। साथ में: बीमारी की रुक़्या दुआएँ पढ़ो। सीखो जब जिस्म में दर्द हो तो क्या कहते हैं — ख़ुद के लिए और उनके लिए जिन्हें चाहते हो।",
+        "ur": "بیماری کے ساتھ صبر کے اسلامی concept کے بارے میں سیکھو — passive suffering نہیں، بلکہ active trust۔ پڑھو کہ نبی ﷺ خود کیسے بیمار پڑے — تیز سردرد، بخار، اور ان وقتوں میں کیسے behave کیے۔ ساتھ میں: بیماری کی رقیہ دعائیں پڑھو۔ سیکھو جب جسم میں درد ہو تو کیا کہتے ہیں — خود کے لیے اور ان کے لیے جنہیں چاہتے ہو۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ fell ill. He suffered. He experienced intense pain. And he was still the Prophet ﷺ. Illness is not a sign that Allah has abandoned you — it is sometimes a sign that He is paying close attention. The ones Allah loves most, He tests most. Not because He wants them to suffer — but because only through difficulty does the deepest tawakkul grow.",
+        "hi": "नबी ﷺ बीमार पड़े। उन्होंने suffer किया। तेज़ दर्द experience किया। और वो अभी भी नबी ﷺ थे। बीमारी इस बात की निशानी नहीं है कि अल्लाह ने तुम्हें छोड़ दिया — यह कभी-कभी इस बात की निशानी है कि वो बहुत ध्यान दे रहा है। जिन्हें अल्लाह सबसे ज़्यादा पसंद करता है, उन्हें सबसे ज़्यादा आज़माता है। इसलिए नहीं कि वो उन्हें suffer करवाना चाहता है — बल्कि इसलिए कि सबसे गहरा तवक्कुल सिर्फ़ मुश्किल से बढ़ता है।",
+        "ur": "نبی ﷺ بیمار پڑے۔ انہوں نے suffer کیا۔ تیز درد experience کیا۔ اور وہ ابھی بھی نبی ﷺ تھے۔ بیماری اس بات کی نشانی نہیں ہے کہ اللہ نے تمہیں چھوڑ دیا — یہ کبھی کبھی اس بات کی نشانی ہے کہ وہ بہت دھیان دے رہا ہے۔ جنہیں اللہ سب سے زیادہ پسند کرتا ہے، انہیں سب سے زیادہ آزماتا ہے۔ اس لیے نہیں کہ وہ انہیں suffer کروانا چاہتا ہے — بلکہ اس لیے کہ سب سے گہرا توکل صرف مشکل سے بڑھتا ہے۔"
+      },
+      "example": {
+        "en": "Learn 'Allahumma rabbi an-naas adhhibil-ba's, ishfi antash-shaafi…' — the dua of the Prophet ﷺ for the sick. Memorise it. Use it. When someone you love is unwell, sit with them and read it over them. The act of making dua for a sick person is itself a form of presence that modern medicine cannot provide.",
+        "hi": "'अल्लाहुम्मा रब्बन-नास अज़्हिबिल-बास, इश्फ़ि अन्तश-शाफ़ी…' — बीमारों के लिए नबी ﷺ की दुआ सीखो। याद करो। इस्तेमाल करो। जब कोई अज़ीज़ बीमार हो, उनके पास बैठो और यह उन पर पढ़ो। किसी बीमार के लिए दुआ करने का अमल ख़ुद मौजूदगी का एक रूप है जो आधुनिक दवाई नहीं दे सकती।",
+        "ur": "'اللہم رب الناس أذہب البأس، اشف أنت الشافی…' — بیماروں کے لیے نبی ﷺ کی دعا سیکھو۔ یاد کرو۔ استعمال کرو۔ جب کوئی عزیز بیمار ہو، ان کے پاس بیٹھو اور یہ ان پر پڑھو۔ کسی بیمار کے لیے دعا کرنے کا عمل خود موجودگی کی ایک شکل ہے جو جدید دوائی نہیں دے سکتی۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 2, "ayah": 286,
+        "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+        "translation": {
+          "en": "Allah does not burden a soul beyond that it can bear.",
+          "hi": "अल्लाह किसी नफ़्स पर उसकी ताक़त से ज़्यादा बोझ नहीं डालता।",
+          "ur": "اللہ کسی نفس پر اس کی طاقت سے زیادہ بوجھ نہیں ڈالتا۔"
+        }
+      },
+      "task": {
+        "en": "Today: visit or call someone who is unwell or in chronic pain. Not to fix them — to be with them. Bring something if you can. Read the illness dua over them. Ask what they need, then listen properly. The visit of the sick is one of the rights of a Muslim over another Muslim. It is not optional.",
+        "hi": "आज: किसी बीमार या chronic दर्द में रहने वाले से मिलो या call करो। उन्हें ठीक करने के लिए नहीं — उनके साथ रहने के लिए। हो सके तो कुछ लाओ। बीमारी की दुआ उन पर पढ़ो। पूछो उन्हें क्या चाहिए, फिर ठीक से सुनो। बीमार की तीमारदारी एक मुसलमान का दूसरे पर हक़ है। यह optional नहीं है।",
+        "ur": "آج: کسی بیمار یا chronic درد میں رہنے والے سے ملو یا call کرو۔ انہیں ٹھیک کرنے کے لیے نہیں — ان کے ساتھ رہنے کے لیے۔ ہو سکے تو کچھ لاؤ۔ بیماری کی دعا ان پر پڑھو۔ پوچھو انہیں کیا چاہیے، پھر ٹھیک سے سنو۔ بیمار کی عیادت ایک مسلمان کا دوسرے پر حق ہے۔ یہ optional نہیں ہے۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: visit the sick, feed the hungry, free the captive. The visit of the sick is listed first. Why? Because illness is isolation. The moment a person falls ill, the world carries on while they are left behind. Your visit — even 15 minutes — tells them: you are not forgotten. That is sometimes the most powerful medicine.",
+        "hi": "नबी ﷺ ने फ़रमाया: बीमार से मिलो, भूखे को खिलाओ, क़ैदी को आज़ाद करो। बीमार की तीमारदारी पहले listed है। क्यों? क्योंकि बीमारी अकेलापन है। जिस पल इंसान बीमार पड़ता है, दुनिया आगे चलती रहती है जबकि वो पीछे छूट जाता है। तुम्हारी तीमारदारी — 15 मिनट की भी — उन्हें बताती है: तुम्हें भुलाया नहीं गया। यह कभी-कभी सबसे ताक़तवर दवाई है।",
+        "ur": "نبی ﷺ نے فرمایا: بیمار سے ملو، بھوکے کو کھلاؤ، قیدی کو آزاد کرو۔ بیمار کی عیادت پہلے listed ہے۔ کیوں؟ کیونکہ بیماری اکیلاپن ہے۔ جس پل انسان بیمار پڑتا ہے، دنیا آگے چلتی رہتی ہے جبکہ وہ پیچھے چھوٹ جاتا ہے۔ تمہاری عیادت — 15 منٹ کی بھی — انہیں بتاتی ہے: تمہیں بھلایا نہیں گیا۔ یہ کبھی کبھی سب سے طاقتور دوائی ہے۔"
+      },
+      "example": {
+        "en": "Your aunt has been dealing with chronic back pain for two years. You've asked about it on WhatsApp. But you haven't visited. This week: go. Sit with her for an hour. Don't offer solutions unless she asks. Just be there. The presence matters more than the conversation.",
+        "hi": "तुम्हारी ख़ाला दो साल से chronic पीठदर्द से जूझ रही हैं। WhatsApp पर पूछा है। लेकिन मिलने नहीं गए। इस हफ़्ते: जाओ। एक घंटे उनके साथ बैठो। तब तक solutions मत दो जब तक वो न माँगें। बस वहाँ रहो। मौजूदगी बातचीत से ज़्यादा मायने रखती है।",
+        "ur": "تمہاری خالہ دو سال سے chronic کمر درد سے جوجھ رہی ہیں۔ WhatsApp پر پوچھا ہے۔ لیکن ملنے نہیں گئے۔ اس ہفتے: جاؤ۔ ایک گھنٹہ ان کے ساتھ بیٹھو۔ تب تک solutions مت دو جب تک وہ نہ مانگیں۔ بس وہاں رہو۔ موجودگی گفتگو سے زیادہ مایہ رکھتی ہے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 94, "ayah": 5,
+        "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "translation": {
+          "en": "For indeed, with hardship will be ease.",
+          "hi": "तो बेशक मुश्किल के साथ आसानी है।",
+          "ur": "تو بے شک مشکل کے ساتھ آسانی ہے۔"
+        }
+      },
+      "task": {
+        "en": "This week: when any discomfort or minor illness comes — a cold, a headache, tiredness — practice saying 'Alhamdulillah ala kulli hal' and the dua for pain: 'A'udhu billahi wa qudratihi min sharri ma ajidu wa uhaadhiru.' Don't fight the feeling — be present with it, and speak to Allah about it. Make illness a conversation, not just an inconvenience.",
+        "hi": "इस हफ़्ते: जब भी कोई तकलीफ़ या मामूली बीमारी आए — ज़ुकाम, सिरदर्द, थकान — 'अलहम्दुलिल्लाह अला कुल्लि हाल' और दर्द की दुआ कहने की practice करो: 'अऊज़ु बिल्लाहि व क़ुद्रतिहि मिन शर्रि मा अजिदु व उहाज़िरु।' feeling से मत लड़ो — उसके साथ present रहो, और उसके बारे में अल्लाह से बात करो। बीमारी को बातचीत बनाओ, सिर्फ़ inconvenience नहीं।",
+        "ur": "اس ہفتے: جب بھی کوئی تکلیف یا معمولی بیماری آئے — زکام، سردرد، تھکان — 'الحمدللہ علی کل حال' اور درد کی دعا کہنے کی practice کرو: 'أعوذ باللہ وقدرتہ من شر ما أجد وأحاذر۔' feeling سے مت لڑو — اس کے ساتھ present رہو، اور اس کے بارے میں اللہ سے بات کرو۔ بیماری کو گفتگو بناؤ، صرف inconvenience نہیں۔"
+      },
+      "hikmah": {
+        "en": "The person who has learned to bear illness with sabr has learned something that will never be taken from them — not by age, not by hardship, not by loss. Sabr with physical pain is one of the most transferable qualities a human can develop. It will make you a better parent, a better friend, a better patient, and ultimately a more trusting servant of Allah.",
+        "hi": "जिस इंसान ने सब्र के साथ बीमारी सहना सीख लिया, उसने कुछ ऐसा सीख लिया जो कभी नहीं छीना जाएगा — न उम्र से, न मुश्किल से, न नुक़सान से। जिस्मानी दर्द के साथ सब्र सबसे transferable qualities में से एक है जो इंसान develop कर सकता है। यह तुम्हें बेहतर माँ-बाप, बेहतर दोस्त, बेहतर मरीज़, और आख़िरकार अल्लाह का ज़्यादा भरोसेमंद बंदा बनाएगा।",
+        "ur": "جس انسان نے صبر کے ساتھ بیماری سہنا سیکھ لیا، اس نے کچھ ایسا سیکھ لیا جو کبھی نہیں چھینا جائے گا — نہ عمر سے، نہ مشکل سے، نہ نقصان سے۔ جسمانی درد کے ساتھ صبر سب سے transferable qualities میں سے ایک ہے جو انسان develop کر سکتا ہے۔ یہ تمہیں بہتر ماں باپ، بہتر دوست، بہتر مریض، اور آخرکار اللہ کا زیادہ بھروسہ مند بندہ بنائے گا۔"
+      },
+      "example": {
+        "en": "Middle of the week: you're running a fever and you have things to do. The old response is to push through and be irritable. Try something different: rest properly, make the dua, say 'this is kaffarah' — and actually believe it. Then let the people around you help. Accepting care from others is also an act of humility.",
+        "hi": "हफ़्ते के बीच में: बुख़ार है और काम हैं। पुराना जवाब: धकेलते रहो और चिड़चिड़े रहो। कुछ अलग try करो: ठीक से आराम करो, दुआ करो, कहो 'यह कफ़्फ़ारा है' — और सच में यक़ीन करो। फिर आसपास के लोगों को मदद करने दो। दूसरों की देखभाल क़बूल करना भी इंकिसारी का एक अमल है।",
+        "ur": "ہفتے کے بیچ میں: بخار ہے اور کام ہیں۔ پرانا جواب: دھکیلتے رہو اور چڑچڑے رہو۔ کچھ الگ try کرو: ٹھیک سے آرام کرو، دعا کرو، کہو 'یہ کفارہ ہے' — اور سچ میں یقین کرو۔ پھر آس پاس کے لوگوں کو مدد کرنے دو۔ دوسروں کی دیکھ بھال قبول کرنا بھی انکساری کا ایک عمل ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 76, "ayah": 8,
+        "arabic": "وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+        "translation": {
+          "en": "And they give food, in spite of their love for it, to the poor, the orphan, and the captive.",
+          "hi": "और वो खाना देते हैं, उससे मोहब्बत के बावजूद, मिस्कीन को, यतीम को, और क़ैदी को।",
+          "ur": "اور وہ کھانا دیتے ہیں، اس سے محبت کے باوجود، مسکین کو، یتیم کو، اور قیدی کو۔"
+        }
+      },
+      "task": {
+        "en": "Is there someone in your community who is chronically ill, disabled, or elderly and struggling alone? Not just to visit — but to build a consistent presence. Once a week. A meal dropped off. A task done. Small, regular, reliable. That reliability is what the sick and elderly need most, and it is almost never given.",
+        "hi": "क्या तुम्हारी community में कोई ऐसा है जो chronically बीमार है, disabled है, या अकेले struggle कर रहा बुज़ुर्ग है? सिर्फ़ मिलने के लिए नहीं — बल्कि consistent मौजूदगी बनाने के लिए। हफ़्ते में एक बार। खाना पहुँचाना। कोई काम करना। छोटा, regular, भरोसेमंद। यही reliability बीमार और बुज़ुर्गों को सबसे ज़्यादा चाहिए, और यह लगभग कभी नहीं दी जाती।",
+        "ur": "کیا تمہاری community میں کوئی ایسا ہے جو chronically بیمار ہے، disabled ہے، یا اکیلے struggle کر رہا بزرگ ہے؟ صرف ملنے کے لیے نہیں — بلکہ consistent موجودگی بنانے کے لیے۔ ہفتے میں ایک بار۔ کھانا پہنچانا۔ کوئی کام کرنا۔ چھوٹا، regular، بھروسہ مند۔ یہی reliability بیمار اور بزرگوں کو سب سے زیادہ چاہیے، اور یہ تقریباً کبھی نہیں دی جاتی۔"
+      },
+      "hikmah": {
+        "en": "The rewards for serving the sick and elderly are described in terms that make every other good deed seem small. And yet it is one of the most abandoned acts in our communities. Why? Because it is inconvenient. It requires showing up regularly, without applause, without social media, for someone who cannot give you anything back. That is the very definition of the deeds that endure.",
+        "hi": "बीमार और बुज़ुर्गों की सेवा के अज्र को उन अल्फ़ाज़ में बयान किया गया है जो हर दूसरे नेक अमल को छोटा बना देते हैं। और फिर भी यह हमारी communities में सबसे छोड़े जाने वाले अमलों में से एक है। क्यों? क्योंकि inconvenient है। इसके लिए regular दिखना पड़ता है, तालियों के बिना, social media के बिना, किसी के लिए जो तुम्हें कुछ वापस नहीं दे सकता। यही उन अमलों की परिभाषा है जो टिकते हैं।",
+        "ur": "بیمار اور بزرگوں کی خدمت کے اجر کو ان الفاظ میں بیان کیا گیا ہے جو ہر دوسرے نیک عمل کو چھوٹا بنا دیتے ہیں۔ اور پھر بھی یہ ہماری communities میں سب سے چھوڑے جانے والے اعمال میں سے ایک ہے۔ کیوں؟ کیونکہ inconvenient ہے۔ اس کے لیے regular دکھنا پڑتا ہے، تالیوں کے بغیر، social media کے بغیر، کسی کے لیے جو تمہیں کچھ واپس نہیں دے سکتا۔ یہی ان اعمال کی تعریف ہے جو ٹکتے ہیں۔"
+      },
+      "example": {
+        "en": "Your elderly neighbour's husband passed away last year. She is alone. You've said 'let me know if you need anything' which is kind but vague. This week: knock on her door. Ask what she actually needs. Then show up next week too. The second visit matters more than the first. The tenth matters most of all.",
+        "hi": "पड़ोसी बुज़ुर्ग औरत के शौहर पिछले साल गुज़र गए। वो अकेली हैं। तुमने कहा है 'ज़रूरत हो तो बताओ' जो अच्छा है लेकिन vague है। इस हफ़्ते: दरवाज़ा खटखटाओ। पूछो उन्हें असल में क्या चाहिए। फिर अगले हफ़्ते भी जाओ। दूसरी तीमारदारी पहली से ज़्यादा मायने रखती है। दसवीं सबसे ज़्यादा।",
+        "ur": "پڑوسی بزرگ عورت کے شوہر پچھلے سال گزر گئے۔ وہ اکیلی ہیں۔ تم نے کہا ہے 'ضرورت ہو تو بتاؤ' جو اچھا ہے لیکن vague ہے۔ اس ہفتے: دروازہ کھٹکھٹاؤ۔ پوچھو انہیں اصل میں کیا چاہیے۔ پھر اگلے ہفتے بھی جاؤ۔ دوسری عیادت پہلی سے زیادہ مایہ رکھتی ہے۔ دسویں سب سے زیادہ۔"
+      }
+    }
+  ]
+}

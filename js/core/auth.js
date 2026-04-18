@@ -144,3 +144,22 @@ function _markReady(user) {
   _readyCallbacks.forEach(cb => cb(user));
   _readyCallbacks = [];
 }
+
+// ─────────────────────────────────────────────
+// SIGN IN
+// ─────────────────────────────────────────────
+
+/**
+ * signInWithEmail(email, password)
+ * Signs the user in with Firebase email/password auth.
+ * Returns { success: true } or { success: false, code, message }
+ */
+export async function signInWithEmail(email, password) {
+  try {
+    await auth.signInWithEmailAndPassword(email, password);
+    return { success: true };
+  } catch (e) {
+    console.error('[auth] Sign in failed:', e.code);
+    return { success: false, code: e.code, message: e.message };
+  }
+}

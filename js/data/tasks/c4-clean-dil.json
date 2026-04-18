@@ -1,0 +1,151 @@
+{
+  "id": "c4-clean-dil",
+  "category": "cleanliness",
+  "name": {
+    "en": "Cleaning What Is Inside",
+    "hi": "अंदर की सफ़ाई",
+    "ur": "اندر کی صفائی"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 26, "ayah": 89,
+        "arabic": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+        "translation": {
+          "en": "Except one who comes to Allah with a sound heart.",
+          "hi": "सिवाय उसके जो अल्लाह के पास सालिम दिल लेकर आए।",
+          "ur": "سوائے اس کے جو اللہ کے پاس سالم دل لے کر آئے۔"
+        }
+      },
+      "task": {
+        "en": "Today, be honest about what you're carrying inside — not feelings in general, but specific named things. Resentment toward someone. A grudge you haven't let go. Contempt for a particular person. A wound you've been nursing. Name them. Not to fix them today — just to stop pretending they're not there.",
+        "hi": "आज, अंदर क्या उठाए हुए हो इसके बारे में ईमानदार रहो — general feelings नहीं, बल्कि specific नाम की चीज़ें। किसी के प्रति कड़वाहट। वो शिकायत जो नहीं छोड़ी। किसी के लिए contempt। कोई ज़ख़्म जिसे तुम पाल रहे हो। उन्हें नाम दो। आज ठीक करने के लिए नहीं — बस यह pretend करना बंद करने के लिए कि वो हैं नहीं।",
+        "ur": "آج، اندر کیا اٹھائے ہوئے ہو اس کے بارے میں ایماندار رہو — general feelings نہیں، بلکہ specific نام کی چیزیں۔ کسی کے لیے کڑواہٹ۔ وہ شکایت جو نہیں چھوڑی۔ کسی کے لیے contempt۔ کوئی زخم جسے تم پال رہے ہو۔ انہیں نام دو۔ آج ٹھیک کرنے کے لیے نہیں — بس یہ pretend کرنا بند کرنے کے لیے کہ وہ ہیں نہیں۔"
+      },
+      "hikmah": {
+        "en": "Allah describes the successful person on Yawm al-Qiyamah as the one who comes with a qalb salim — a sound, pure, clean heart. Not the one with the most deeds. Not the one who prayed the most. The one with the cleanest heart. Everything else — all the prayers, all the fasts, all the sadaqah — is in service of this. The heart is the destination.",
+        "hi": "अल्लाह यौमुल क़ियामह के कामयाब इंसान को उसके तौर पर बयान करता है जो क़ल्ब सलीम — सालिम, पाक, साफ़ दिल — लेकर आए। सबसे ज़्यादा अमल वाले के तौर पर नहीं। सबसे ज़्यादा नमाज़ पढ़ने वाले के तौर पर नहीं। सबसे साफ़ दिल वाले के तौर पर। बाक़ी सब — सभी नमाज़ें, सभी रोज़े, सभी सदक़ह — इसी की ख़िदमत में हैं। दिल मंज़िल है।",
+        "ur": "اللہ یوم القیامہ کے کامیاب انسان کو اس کے طور پر بیان کرتا ہے جو قلب سلیم — سالم، پاک، صاف دل — لے کر آئے۔ سب سے زیادہ اعمال والے کے طور پر نہیں۔ سب سے زیادہ نماز پڑھنے والے کے طور پر نہیں۔ سب سے صاف دل والے کے طور پر۔ باقی سب — سبھی نمازیں، سبھی روزے، سبھی صدقہ — اسی کی خدمت میں ہیں۔ دل منزل ہے۔"
+      },
+      "example": {
+        "en": "There is someone you haven't forgiven. You've never said it out loud — but when their name comes up, something in you tightens. You change the subject slightly. You say something almost-neutral. That tightening is the thing to notice today. You don't have to call them. You don't have to forgive yet. Just honestly name what is in your chest when you think of them.",
+        "hi": "एक इंसान है जिसे तुमने माफ़ नहीं किया। तुमने कभी ज़ोर से नहीं कहा — लेकिन उनका नाम आने पर तुम्हारे अंदर कुछ कस जाता है। बात थोड़ी बदल देते हो। कुछ almost-neutral कह देते हो। वो कसाव है जिसे आज नोटिस करना है। उन्हें call नहीं करना। अभी माफ़ नहीं करना। बस ईमानदारी से नाम दो कि उनके बारे में सोचते वक़्त सीने में क्या है।",
+        "ur": "ایک انسان ہے جسے تم نے معاف نہیں کیا۔ تم نے کبھی زور سے نہیں کہا — لیکن ان کا نام آنے پر تمہارے اندر کچھ کس جاتا ہے۔ بات تھوڑی بدل دیتے ہو۔ کچھ almost-neutral کہہ دیتے ہو۔ وہ کساؤ ہے جسے آج نوٹس کرنا ہے۔ انہیں call نہیں کرنا۔ ابھی معاف نہیں کرنا۔ بس ایمانداری سے نام دو کہ ان کے بارے میں سوچتے وقت سینے میں کیا ہے۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 91, "ayah": 9,
+        "arabic": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+        "translation": {
+          "en": "He has succeeded who purifies it.",
+          "hi": "कामयाब हुआ जिसने उसे पाक किया।",
+          "ur": "کامیاب ہوا جس نے اسے پاک کیا۔"
+        }
+      },
+      "task": {
+        "en": "Learn what Islamic scholars say about the diseases of the heart — hasad, kibr, hiqd (malice), ghish (deception), 'ujb (self-admiration). These are not metaphors. They are described with clinical precision in classical Islamic scholarship. Read about one of them today — the one you identified yesterday. What is its cause? What is its cure?",
+        "hi": "इस्लामी उलमा दिल की बीमारियों के बारे में क्या कहते हैं सीखो — हसद, किब्र, हिक़्द (मालिस), ग़िश (धोखा), उज्ब (ख़ुद की तारीफ़)। यह metaphors नहीं हैं। इन्हें क्लासिकल इस्लामी scholarship में clinical precision के साथ बयान किया गया है। आज उनमें से एक के बारे में पढ़ो — जो कल तुमने identify की। इसकी वजह क्या है? इसका इलाज क्या है?",
+        "ur": "اسلامی علما دل کی بیماریوں کے بارے میں کیا کہتے ہیں سیکھو — حسد، کبر، حقد (کینہ)، غش (دھوکہ)، عجب (خود کی تعریف)۔ یہ metaphors نہیں ہیں۔ انہیں کلاسیکل اسلامی scholarship میں clinical precision کے ساتھ بیان کیا گیا ہے۔ آج ان میں سے ایک کے بارے میں پڑھو — جو کل تم نے identify کی۔ اس کی وجہ کیا ہے؟ اس کا علاج کیا ہے؟"
+      },
+      "hikmah": {
+        "en": "Al-Ghazali spent hundreds of pages on the diseases of the heart. Not because he was morbid — but because he understood that what is inside you shapes every action outside. You can pray five times a day and still have a heart full of hiqd. The prayer is valid — but the destination (qalb salim) has not been reached. The outer acts are the scaffold. The inner work is the building.",
+        "hi": "अल-ग़ज़ाली ने दिल की बीमारियों पर सैकड़ों pages लिखे। इसलिए नहीं कि वो morbid थे — बल्कि इसलिए कि उन्होंने समझा कि तुम्हारे अंदर जो है वो बाहर के हर अमल को shape करता है। दिन में पाँच बार नमाज़ पढ़ सकते हो और फिर भी हिक़्द से भरा दिल हो सकता है। नमाज़ valid है — लेकिन मंज़िल (क़ल्ब सलीम) तक नहीं पहुँचे। बाहरी अमल scaffolding हैं। अंदर का काम इमारत है।",
+        "ur": "الغزالی نے دل کی بیماریوں پر سینکڑوں pages لکھے۔ اس لیے نہیں کہ وہ morbid تھے — بلکہ اس لیے کہ انہوں نے سمجھا کہ تمہارے اندر جو ہے وہ باہر کے ہر عمل کو shape کرتا ہے۔ دن میں پانچ بار نماز پڑھ سکتے ہو اور پھر بھی حقد سے بھرا دل ہو سکتا ہے۔ نماز valid ہے — لیکن منزل (قلب سلیم) تک نہیں پہنچے۔ باہری اعمال scaffolding ہیں۔ اندر کا کام عمارت ہے۔"
+      },
+      "example": {
+        "en": "You have hiqd — malice — toward someone. You know it. You've read about it. Now ask: what is its origin? Most hiqd comes from a wound that was never addressed. Either they wronged you and you never repaired it, or you wronged them and you never apologised. Trace it back. The beginning of the cure is understanding where the disease started.",
+        "hi": "किसी के प्रति हिक़्द — मालिस — है। तुम जानते हो। इसके बारे में पढ़ा। अब पूछो: इसकी उत्पत्ति क्या है? ज़्यादातर हिक़्द उस ज़ख़्म से आता है जिसे कभी address नहीं किया। या तो उन्होंने तुम्हारे साथ ग़लत किया और तुमने कभी ठीक नहीं किया, या तुमने उनके साथ ग़लत किया और कभी माफ़ी नहीं माँगी। पीछे trace करो। इलाज की शुरुआत यह समझना है कि बीमारी कहाँ से शुरू हुई।",
+        "ur": "کسی کے لیے حقد — کینہ — ہے۔ تم جانتے ہو۔ اس کے بارے میں پڑھا۔ اب پوچھو: اس کی اصل کیا ہے؟ زیادہ تر حقد اس زخم سے آتا ہے جسے کبھی address نہیں کیا۔ یا تو انہوں نے تمہارے ساتھ غلط کیا اور تم نے کبھی ٹھیک نہیں کیا، یا تم نے ان کے ساتھ غلط کیا اور کبھی معافی نہیں مانگی۔ پیچھے trace کرو۔ علاج کی شروعات یہ سمجھنا ہے کہ بیماری کہاں سے شروع ہوئی۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 59, "ayah": 10,
+        "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا",
+        "translation": {
+          "en": "Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts any resentment.",
+          "hi": "ऐ हमारे रब, हमें और हमारे उन भाइयों को माफ़ कर जो हमसे पहले ईमान लाए, और हमारे दिलों में कोई किना मत रहने दे।",
+          "ur": "اے ہمارے رب، ہمیں اور ہمارے ان بھائیوں کو معاف کر جو ہم سے پہلے ایمان لائے، اور ہمارے دلوں میں کوئی کینہ مت رہنے دے۔"
+        }
+      },
+      "task": {
+        "en": "Today: make dua for the person you have hiqd toward. Specifically, by name, ask Allah to give them good. Not because you feel it — because you want your heart to be clean. Say it three times: 'Allahumma barik li [name] wa aslih sha'nahu/sha'naha.' This is the beginning of cleaning what wudu cannot reach.",
+        "hi": "आज: जिसके प्रति हिक़्द है उसके लिए दुआ करो। ख़ास तौर पर, नाम लेकर, अल्लाह से माँगो कि उन्हें अच्छाई दे। इसलिए नहीं कि feel होता है — बल्कि इसलिए कि दिल साफ़ होना चाहते हो। तीन बार कहो: 'अल्लाहुम्मा बारिक ली [नाम] व अस्लिह शा'नहु/शा'नहा।' यह उस चीज़ की सफ़ाई की शुरुआत है जहाँ वुज़ू नहीं पहुँच सकता।",
+        "ur": "آج: جس کے لیے حقد ہے اس کے لیے دعا کرو۔ خاص طور پر، نام لے کر، اللہ سے مانگو کہ انہیں اچھائی دے۔ اس لیے نہیں کہ feel ہوتا ہے — بلکہ اس لیے کہ دل صاف ہونا چاہتے ہو۔ تین بار کہو: 'اللہم بارک لـ[نام] وأصلح شأنہ/شأنہا۔' یہ اس چیز کی صفائی کی شروعات ہے جہاں وضو نہیں پہنچ سکتا۔"
+      },
+      "hikmah": {
+        "en": "Making dua for someone you resent is one of the hardest and most powerful acts of heart-cleaning available. It forces a contradiction: your tongue is asking for their goodness while your heart holds bitterness. Over time, if you keep doing it, the heart follows the tongue. That is not weakness — that is using the tools you have to move a mountain that feelings alone cannot move.",
+        "hi": "जिससे नफ़रत करते हो उसके लिए दुआ करना दिल की सफ़ाई के सबसे मुश्किल और ताक़तवर अमलों में से एक है। यह एक contradiction मजबूर करता है: तुम्हारी ज़बान उनकी भलाई माँग रही है जबकि दिल में कड़वाहट है। वक़्त के साथ, अगर करते रहे, दिल ज़बान का पीछा करता है। यह कमज़ोरी नहीं — यह उन tools का इस्तेमाल है जो तुम्हारे पास हैं उस पहाड़ को हिलाने के लिए जिसे feelings अकेले नहीं हिला सकतीं।",
+        "ur": "جس سے نفرت کرتے ہو اس کے لیے دعا کرنا دل کی صفائی کے سب سے مشکل اور طاقتور اعمال میں سے ایک ہے۔ یہ ایک contradiction مجبور کرتا ہے: تمہاری زبان ان کی بھلائی مانگ رہی ہے جبکہ دل میں کڑواہٹ ہے۔ وقت کے ساتھ، اگر کرتے رہے، دل زبان کا پیچھا کرتا ہے۔ یہ کمزوری نہیں — یہ ان tools کا استعمال ہے جو تمہارے پاس ہیں اس پہاڑ کو ہلانے کے لیے جسے feelings اکیلے نہیں ہلا سکتیں۔"
+      },
+      "example": {
+        "en": "You said the dua today. It felt strange — almost dishonest, since you don't actually want good for them right now. That strangeness is normal. You're not performing sincerity — you're building toward it. The dua is not a feeling. It is an action that creates a direction. Say it again tomorrow. And the day after. The feeling will eventually follow the action.",
+        "hi": "आज दुआ की। अजीब लगा — लगभग बेईमान, क्योंकि अभी असल में उनके लिए अच्छा नहीं चाहते। वो अजीबपन normal है। सच्चाई perform नहीं कर रहे — उसकी तरफ़ build कर रहे हो। दुआ feeling नहीं है। यह एक direction बनाने वाला अमल है। कल फिर कहो। और उसके अगले दिन। feeling आख़िरकार अमल का पीछा करेगी।",
+        "ur": "آج دعا کی۔ عجیب لگا — تقریباً بے ایمانی، کیونکہ ابھی اصل میں ان کے لیے اچھا نہیں چاہتے۔ وہ عجیبپن normal ہے۔ سچائی perform نہیں کر رہے — اس کی طرف build کر رہے ہو۔ دعا feeling نہیں ہے۔ یہ ایک direction بنانے والا عمل ہے۔ کل پھر کہو۔ اور اس کے اگلے دن۔ feeling آخرکار عمل کا پیچھا کرے گی۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 83, "ayah": 14,
+        "arabic": "كَلَّا بَلْ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ",
+        "translation": {
+          "en": "No! Rather, the stain has covered their hearts from what they were earning.",
+          "hi": "नहीं! बल्कि उन्होंने जो कमाया उसने उनके दिलों पर जंग चढ़ा दी।",
+          "ur": "نہیں! بلکہ انہوں نے جو کمایا اس نے ان کے دلوں پر زنگ چڑھا دیا۔"
+        }
+      },
+      "task": {
+        "en": "This week: add a daily 'heart check' to your muhasaba. After the three questions of the day, add one more: 'Is there anything in my heart right now that shouldn't be there? Any hiqd, any kibr, any riya, any hasad?' Just name it. The naming is the cleaning. A heart checked daily does not accumulate the rust that a neglected heart does.",
+        "hi": "इस हफ़्ते: अपने मुहासबे में रोज़ाना 'दिल की जाँच' जोड़ो। दिन के तीन सवालों के बाद, एक और जोड़ो: 'अभी मेरे दिल में कुछ ऐसा है जो नहीं होना चाहिए? कोई हिक़्द, कोई किब्र, कोई रिया, कोई हसद?' बस नाम दो। नाम देना सफ़ाई है। रोज़ जाँचा गया दिल उतना जंग नहीं जमाता जितना नज़रअंदाज़ किया गया।",
+        "ur": "اس ہفتے: اپنے محاسبے میں روزانہ 'دل کی جانچ' جوڑو۔ دن کے تین سوالوں کے بعد، ایک اور جوڑو: 'ابھی میرے دل میں کچھ ایسا ہے جو نہیں ہونا چاہیے؟ کوئی حقد، کوئی کبر، کوئی ریا، کوئی حسد؟' بس نام دو۔ نام دینا صفائی ہے۔ روز جانچا گیا دل اتنا زنگ نہیں جماتا جتنا نظرانداز کیا گیا۔"
+      },
+      "hikmah": {
+        "en": "The Quran describes the heart that accumulates sins as covered in ran — a kind of spiritual rust. Small sins, left unaddressed, layer upon each other until the heart cannot see clearly. Daily muhasaba is the daily polishing. Not a deep clean — a maintenance clean. The person who polishes daily never needs the emergency surgery that neglect makes necessary.",
+        "hi": "क़ुरआन गुनाह जमा करने वाले दिल को रान — एक क़िस्म की रूहानी जंग — से ढका हुआ बताता है। छोटे गुनाह, address नहीं किए, एक के ऊपर एक जमते हैं जब तक दिल clearly नहीं देख सकता। रोज़ाना मुहासबा रोज़ाना polish करना है। गहरी सफ़ाई नहीं — maintenance। जो रोज़ polish करता है उसे कभी वो emergency surgery नहीं चाहिए जो नज़रअंदाज़ी ज़रूरी बना देती है।",
+        "ur": "قرآن گناہ جمع کرنے والے دل کو رین — ایک قسم کی روحانی زنگ — سے ڈھکا ہوا بتاتا ہے۔ چھوٹے گناہ، address نہیں کیے، ایک کے اوپر ایک جمتے ہیں جب تک دل clearly نہیں دیکھ سکتا۔ روزانہ محاسبہ روزانہ polish کرنا ہے۔ گہری صفائی نہیں — maintenance۔ جو روز polish کرتا ہے اسے کبھی وہ emergency surgery نہیں چاہیے جو نظرانداز زروری بنا دیتی ہے۔"
+      },
+      "example": {
+        "en": "Day four: the daily heart check reveals something you'd rather not name — you're still carrying resentment toward a family member after a disagreement last month. You almost skip writing it down. Write it down anyway. Then make the dua for them. It doesn't have to feel resolved. It just has to be named and handed over. That is the practice.",
+        "hi": "चौथा दिन: रोज़ाना दिल की जाँच कुछ ऐसा reveal करती है जिसका नाम नहीं लेना चाहते — पिछले महीने की बहस के बाद से family member के प्रति अभी भी कड़वाहट है। लगभग लिखना skip कर देते हो। फिर भी लिखो। फिर उनके लिए दुआ करो। resolve feel होना ज़रूरी नहीं। बस नाम लेना और सौंप देना ज़रूरी है। यही practice है।",
+        "ur": "چوتھا دن: روزانہ دل کی جانچ کچھ ایسا reveal کرتی ہے جس کا نام نہیں لینا چاہتے — پچھلے مہینے کی بحث کے بعد سے family member کے لیے ابھی بھی کڑواہٹ ہے۔ تقریباً لکھنا skip کر دیتے ہو۔ پھر بھی لکھو۔ پھر ان کے لیے دعا کرو۔ resolve feel ہونا ضروری نہیں۔ بس نام لینا اور سونپ دینا ضروری ہے۔ یہی practice ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 49, "ayah": 10,
+        "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ",
+        "translation": {
+          "en": "The believers are but brothers, so make peace between your brothers.",
+          "hi": "मोमिन तो बस भाई-भाई हैं, तो अपने दोनों भाइयों के बीच सुलह कराओ।",
+          "ur": "مومن تو بس بھائی بھائی ہیں، تو اپنے دونوں بھائیوں کے درمیان صلح کراؤ۔"
+        }
+      },
+      "task": {
+        "en": "Is there a broken relationship in your family or close circle that has been left unrepaired? Not yours to own entirely — but one where you could be the catalyst for repair. This week: take one small step. Not a full reconciliation — one step. A message. A visit. A shared meal. The first crack in the wall is all that is needed for the rest to follow.",
+        "hi": "क्या तुम्हारे परिवार या क़रीबी दायरे में कोई टूटा हुआ रिश्ता है जिसे बिना ठीक किए छोड़ दिया गया है? पूरी तरह तुम्हारा नहीं — लेकिन जहाँ तुम मरम्मत के लिए catalyst हो सकते हो। इस हफ़्ते: एक छोटा क़दम उठाओ। पूरी सुलह नहीं — एक क़दम। एक message। एक मुलाक़ात। साझा खाना। दीवार में पहली दरार ही काफ़ी है बाकी के लिए।",
+        "ur": "کیا تمہارے خاندان یا قریبی دائرے میں کوئی ٹوٹا ہوا رشتہ ہے جسے بغیر ٹھیک کیے چھوڑ دیا گیا ہے؟ پوری طرح تمہارا نہیں — لیکن جہاں تم مرمت کے لیے catalyst ہو سکتے ہو۔ اس ہفتے: ایک چھوٹا قدم اٹھاؤ۔ پوری صلح نہیں — ایک قدم۔ ایک message۔ ایک ملاقات۔ مشترکہ کھانا۔ دیوار میں پہلی دراڑ ہی کافی ہے باقی کے لیے۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: the gates of Jannah are opened on Monday and Thursday — and every Muslim is forgiven, except the one who has enmity with his brother. Two are left unforgiven until they reconcile. That exception should terrify us. All the salah, all the fasting, all the dhikr — and two people estranged can lose it all for each other. The clean heart is not a private affair. It involves those around you.",
+        "hi": "नबी ﷺ ने फ़रमाया: सोमवार और गुरुवार को जन्नत के दरवाज़े खुलते हैं — और हर मुसलमान को माफ़ किया जाता है, सिवाय उसके जिसका अपने भाई से बैर हो। दो बिना माफ़ी के रहते हैं जब तक सुलह न हो। यह exception हमें डराना चाहिए। सभी नमाज़ें, सभी रोज़े, सभी ज़िक्र — और दो estranged लोग एक-दूसरे के लिए यह सब खो सकते हैं। साफ़ दिल ख़ानगी मामला नहीं है। इसमें तुम्हारे आसपास के लोग शामिल हैं।",
+        "ur": "نبی ﷺ نے فرمایا: پیر اور جمعرات کو جنت کے دروازے کھلتے ہیں — اور ہر مسلمان کو معاف کیا جاتا ہے، سوائے اس کے جس کا اپنے بھائی سے بیر ہو۔ دو بغیر معافی کے رہتے ہیں جب تک صلح نہ ہو۔ یہ exception ہمیں ڈرانا چاہیے۔ سبھی نمازیں، سبھی روزے، سبھی ذکر — اور دو estranged لوگ ایک دوسرے کے لیے یہ سب کھو سکتے ہیں۔ صاف دل خانگی معاملہ نہیں ہے۔ اس میں تمہارے آس پاس کے لوگ شامل ہیں۔"
+      },
+      "example": {
+        "en": "Your cousin and your uncle haven't spoken in two years. You've stayed out of it — neutral. But neutral also means watching two people both lose their Monday and Thursday forgiveness, week after week. This week: call your cousin. Not to fix it in one call. Just to say: 'I miss you both in the same room. Is there anything I can do?' Plant the seed. Then water it.",
+        "hi": "तुम्हारे cousin और uncle दो साल से नहीं बोले। तुम दूर रहे — neutral। लेकिन neutral का मतलब यह भी है कि दो लोगों को हर हफ़्ते सोमवार और गुरुवार की माफ़ी खोते देखना। इस हफ़्ते: cousin को call करो। एक call में ठीक करने के लिए नहीं। बस कहने के लिए: 'एक कमरे में तुम दोनों को miss करता हूँ। कुछ कर सकता हूँ?' बीज बोओ। फिर पानी दो।",
+        "ur": "تمہارے cousin اور uncle دو سال سے نہیں بولے۔ تم دور رہے — neutral۔ لیکن neutral کا مطلب یہ بھی ہے کہ دو لوگوں کو ہر ہفتے پیر اور جمعرات کی معافی کھوتے دیکھنا۔ اس ہفتے: cousin کو call کرو۔ ایک call میں ٹھیک کرنے کے لیے نہیں۔ بس کہنے کے لیے: 'ایک کمرے میں تم دونوں کو miss کرتا ہوں۔ کچھ کر سکتا ہوں؟' بیج بوؤ۔ پھر پانی دو۔"
+      }
+    }
+  ]
+}

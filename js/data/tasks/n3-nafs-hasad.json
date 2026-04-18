@@ -1,0 +1,176 @@
+{
+  "id": "n3-nafs-hasad",
+  "category": "nafs",
+  "name": {
+    "en": "Dealing with Envy",
+    "hi": "हसद से लड़ना",
+    "ur": "حسد سے لڑنا"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 4,
+        "ayah": 54,
+        "arabic": "أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ",
+        "translation": {
+          "en": "Or do they envy people for what Allah has given them of His bounty?",
+          "hi": "या वो लोगों से उस चीज़ पर हसद करते हैं जो अल्लाह ने अपने फ़ज़्ल से उन्हें दी है?",
+          "ur": "یا وہ لوگوں سے اس چیز پر حسد کرتے ہیں جو اللہ نے اپنے فضل سے انہیں دی ہے؟"
+        }
+      },
+      "task": {
+        "en": "Today, be honest with yourself: who do you envy? Not who you admire — who you envy. There's a difference. Admiration feels warm. Envy feels tight. When you see their good news, something drops in you. Name that person. Name what they have. Just notice — no shame yet.",
+        "hi": "आज ख़ुद से ईमानदार रहो: तुम किससे हसद करते हो? जिसे तुम admire करते हो वो नहीं — जिससे हसद करते हो। फ़र्क़ है। admiration warm लगती है। हसद tight लगता है। जब उनकी अच्छी ख़बर सुनते हो, अंदर कुछ गिरता है। उस इंसान को नाम दो। उनके पास जो है उसे नाम दो। बस नोटिस करो — अभी शर्म नहीं।",
+        "ur": "آج خود سے ایماندار رہو: تم کس سے حسد کرتے ہو؟ جسے تم admire کرتے ہو وہ نہیں — جس سے حسد کرتے ہو۔ فرق ہے۔ admiration warm لگتی ہے۔ حسد tight لگتا ہے۔ جب ان کی اچھی خبر سنتے ہو، اندر کچھ گرتا ہے۔ اس انسان کو نام دو۔ ان کے پاس جو ہے اسے نام دو۔ بس نوٹس کرو — ابھی شرم نہیں۔"
+      },
+      "hikmah": {
+        "en": "Hasad is described as eating good deeds the way fire eats wood. Not because Allah punishes the jealous person — but because jealousy is its own punishment. Every moment you spend wanting someone else's life is a moment you cannot invest in your own. It is the most efficient way to destroy yourself.",
+        "hi": "हसद को उस तरह नेकियाँ खाने वाला बताया गया है जैसे आग लकड़ी खाती है। इसलिए नहीं कि अल्लाह हसद करने वाले को सज़ा देता है — बल्कि इसलिए कि हसद ख़ुद ही सज़ा है। जो एक पल तुम किसी की ज़िंदगी चाहने में लगाते हो, वो पल तुम अपनी ज़िंदगी में नहीं लगा सकते। ख़ुद को बर्बाद करने का सबसे कारगर तरीक़ा यही है।",
+        "ur": "حسد کو اس طرح نیکیاں کھانے والا بتایا گیا ہے جیسے آگ لکڑی کھاتی ہے۔ اس لیے نہیں کہ اللہ حسد کرنے والے کو سزا دیتا ہے — بلکہ اس لیے کہ حسد خود ہی سزا ہے۔ جو ایک پل تم کسی کی زندگی چاہنے میں لگاتے ہو، وہ پل تم اپنی زندگی میں نہیں لگا سکتے۔ خود کو برباد کرنے کا سب سے کارگر طریقہ یہی ہے۔"
+      },
+      "example": {
+        "en": "A friend announces they've bought a house. Or got a promotion. Or their child got into a great school. Your public reaction is warm. Your internal reaction — be honest — is it purely happy? Or is there a 'what about me' underneath? Just today: sit with what's actually there.",
+        "hi": "दोस्त announce करता है कि घर ख़रीदा। या promotion मिली। या बच्चे का अच्छे school में दाख़िला हुआ। Public reaction तुम्हारा warm है। अंदरूनी reaction — ईमानदार रहो — क्या वो सच में ख़ुशी है? या नीचे कोई 'मेरे बारे में क्या' भी है? बस आज: जो असल में है उसके साथ बैठो।",
+        "ur": "دوست announce کرتا ہے کہ گھر خریدا۔ یا promotion ملی۔ یا بچے کا اچھے school میں داخلہ ہوا۔ public reaction تمہارا warm ہے۔ اندرونی reaction — ایماندار رہو — کیا وہ سچ میں خوشی ہے؟ یا نیچے کوئی 'میرے بارے میں کیا' بھی ہے؟ بس آج: جو اصل میں ہے اس کے ساتھ بیٹھو۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 15,
+        "ayah": 88,
+        "arabic": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ",
+        "translation": {
+          "en": "Do not extend your eyes toward what We have given some of them to enjoy.",
+          "hi": "उनमें से जोड़ों को जो हमने दिया है, उसकी तरफ़ आँखें मत उठाओ।",
+          "ur": "ان میں سے جوڑوں کو جو ہم نے دیا ہے، اس کی طرف آنکھیں مت اٹھاؤ۔"
+        }
+      },
+      "task": {
+        "en": "Learn the difference between hasad and ghibtah. Hasad wants the other person to lose what they have. Ghibtah wants the same for yourself without wanting them to lose it. One is a disease. One is permitted — even praiseworthy. Read about this distinction. Which of the two have you been feeling?",
+        "hi": "हसद और ग़िब्तह का फ़र्क़ सीखो। हसद चाहता है कि दूसरे के पास जो है वो चला जाए। ग़िब्तह ख़ुद के लिए वैसा ही चाहता है, बिना उन्हें खोने की ख़्वाहिश के। एक बीमारी है। एक जायज़ है — बल्कि क़ाबिले तारीफ़। यह फ़र्क़ पढ़ो। दोनों में से तुम कौन-सा महसूस करते रहे हो?",
+        "ur": "حسد اور غبطہ کا فرق سیکھو۔ حسد چاہتا ہے کہ دوسرے کے پاس جو ہے وہ چلا جائے۔ غبطہ خود کے لیے ویسا ہی چاہتا ہے، بغیر انہیں کھونے کی خواہش کے۔ ایک بیماری ہے۔ ایک جائز ہے — بلکہ قابل تعریف۔ یہ فرق پڑھو۔ دونوں میں سے تم کون سا محسوس کرتے رہے ہو؟"
+      },
+      "hikmah": {
+        "en": "Social media has industrialised hasad. Before it existed, you compared yourself to maybe thirty people in your circle. Now you compare yourself to thousands, curated at their best moments, all day, every day. Your nafs was not designed for this volume of comparison. No nafs was. This is why the feeling is so overwhelming — it's not weakness. It's overload.",
+        "hi": "Social media ने हसद को industry बना दिया है। इससे पहले, तुम अपने दायरे में शायद तीस लोगों से ख़ुद को compare करते थे। अब तुम हज़ारों से compare करते हो, उनके बेहतरीन पलों में, दिनभर, हर दिन। तुम्हारे नफ़्स को इतनी तुलना के लिए नहीं बनाया गया। किसी नफ़्स को नहीं। इसीलिए यह feeling इतनी overwhelm करती है — यह कमज़ोरी नहीं है। यह overload है।",
+        "ur": "Social media نے حسد کو industry بنا دیا ہے۔ اس سے پہلے، تم اپنے دائرے میں شاید تیس لوگوں سے خود کو compare کرتے تھے۔ اب تم ہزاروں سے compare کرتے ہو، ان کے بہترین لمحوں میں، دن بھر، ہر دن۔ تمہارے نفس کو اتنے موازنے کے لیے نہیں بنایا گیا۔ کسی نفس کو نہیں۔ اسی لیے یہ feeling اتنی overwhelm کرتی ہے — یہ کمزوری نہیں ہے۔ یہ overload ہے۔"
+      },
+      "example": {
+        "en": "Look at your phone usage today. When you scroll and see someone's success — a new car, a holiday, a business milestone — pause before you react. Is what you feel ghibtah ('I want that too, maasha Allah for them') or hasad ('why them and not me')? Just name it honestly. Naming it is half the cure.",
+        "hi": "आज अपना फ़ोन usage देखो। जब scroll करते हो और किसी की success देखते हो — नई गाड़ी, छुट्टी, business milestone — react करने से पहले रुको। जो तुम महसूस करते हो वो ग़िब्तह है ('मुझे भी चाहिए, माशाअल्लाह उनके लिए') या हसद ('क्यों वो, मैं क्यों नहीं')? बस सच से नाम दो। नाम देना आधा इलाज है।",
+        "ur": "آج اپنا فون usage دیکھو۔ جب scroll کرتے ہو اور کسی کی success دیکھتے ہو — نئی گاڑی، چھٹی، business milestone — react کرنے سے پہلے رکو۔ جو تم محسوس کرتے ہو وہ غبطہ ہے ('مجھے بھی چاہیے، ماشاءاللہ ان کے لیے') یا حسد ('کیوں وہ، میں کیوں نہیں')؟ بس سچ سے نام دو۔ نام دینا آدھا علاج ہے۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 59,
+        "ayah": 10,
+        "arabic": "وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا",
+        "translation": {
+          "en": "And put not in our hearts resentment toward those who have believed.",
+          "hi": "और हमारे दिलों में ईमान वालों के लिए कोई किना मत डाल।",
+          "ur": "اور ہمارے دلوں میں ایمان والوں کے لیے کوئی کینہ مت ڈال۔"
+        }
+      },
+      "task": {
+        "en": "Today: the person you identified as someone you envy — do something genuinely good for them. A sincere dua. A congratulations you actually mean. A share of their work. Not to perform generosity — to break the hold. Hasad loses its grip when you actively wish good for the one you envied.",
+        "hi": "आज: जिस इंसान को तुमने identify किया जिससे हसद करते हो — उनके लिए सच में कुछ अच्छा करो। दिल से दुआ। सच में मीनिंगफ़ुल मुबारकबाद। उनके काम को share करना। सख़ावत दिखाने के लिए नहीं — पकड़ तोड़ने के लिए। हसद की पकड़ ढीली होती है जब तुम जिससे हसद करते हो उसके लिए actively अच्छा चाहते हो।",
+        "ur": "آج: جس انسان کو تم نے identify کیا جس سے حسد کرتے ہو — ان کے لیے سچ میں کچھ اچھا کرو۔ دل سے دعا۔ سچ میں meaningful مبارکباد۔ ان کے کام کو share کرنا۔ سخاوت دکھانے کے لیے نہیں — پکڑ توڑنے کے لیے۔ حسد کی پکڑ ڈھیلی ہوتی ہے جب تم جس سے حسد کرتے ہو اس کے لیے actively اچھا چاہتے ہو۔"
+      },
+      "hikmah": {
+        "en": "The cure for hasad is not just to stop the feeling — it's to actively replace it. Every time you make dua for someone you envy, you are doing two things: asking Allah to give them more, and training your heart to want good for others. The heart, like the body, goes in the direction you point it. Keep pointing it toward generosity.",
+        "hi": "हसद का इलाज सिर्फ़ feeling रोकना नहीं है — उसे actively replace करना है। जब भी तुम किसी ऐसे के लिए दुआ करते हो जिससे हसद करते हो, तुम दो काम कर रहे हो: अल्लाह से उन्हें और देने की माँग, और अपने दिल को दूसरों का भला चाहना सिखाना। दिल, जिस्म की तरह, उस दिशा में जाता है जहाँ तुम इशारा करते हो। इसे सख़ावत की तरफ़ इशारा करते रहो।",
+        "ur": "حسد کا علاج صرف feeling روکنا نہیں ہے — اسے actively replace کرنا ہے۔ جب بھی تم کسی ایسے کے لیے دعا کرتے ہو جس سے حسد کرتے ہو، تم دو کام کر رہے ہو: اللہ سے انہیں اور دینے کی مانگ، اور اپنے دل کو دوسروں کا بھلا چاہنا سکھانا۔ دل، جسم کی طرح، اس سمت میں جاتا ہے جہاں تم اشارہ کرتے ہو۔ اسے سخاوت کی طرف اشارہ کرتے رہو۔"
+      },
+      "example": {
+        "en": "Your colleague got the project you wanted. For a week you've been half-hoping it goes badly. Today: go to them, genuinely ask how it's going, and actually root for them to succeed. Say maasha Allah and mean it. Notice what shifts inside you when you do.",
+        "hi": "साथी को वो project मिला जो तुम चाहते थे। एक हफ़्ते से half-hoping रहे हो कि ग़लत हो जाए। आज: उनके पास जाओ, सच में पूछो कैसा चल रहा है, और सच में चाहो कि वो सफल हों। माशाअल्लाह कहो और मतलब हो। देखो जब तुम करते हो तो अंदर क्या बदलता है।",
+        "ur": "ساتھی کو وہ project ملا جو تم چاہتے تھے۔ ایک ہفتے سے half-hoping رہے ہو کہ غلط ہو جائے۔ آج: ان کے پاس جاؤ، سچ میں پوچھو کیسا چل رہا ہے، اور سچ میں چاہو کہ وہ کامیاب ہوں۔ ماشاءاللہ کہو اور مطلب ہو۔ دیکھو جب تم کرتے ہو تو اندر کیا بدلتا ہے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 20,
+        "ayah": 131,
+        "arabic": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا",
+        "translation": {
+          "en": "And do not extend your eyes toward what We have given some of them to enjoy — the splendour of worldly life.",
+          "hi": "और जो हमने उनमें से कुछ को दुनिया की ज़िंदगी की रौनक़ के तौर पर दिया है, उसकी तरफ़ आँखें मत उठाओ।",
+          "ur": "اور جو ہم نے ان میں سے کچھ کو دنیوی زندگی کی رونق کے طور پر دیا ہے، اس کی طرف آنکھیں مت اٹھاؤ۔"
+        }
+      },
+      "task": {
+        "en": "This week: every time you feel the twinge of envy — someone's post, someone's news, someone's success — immediately say 'Allahumma barik lahum' and then write one thing you are genuinely grateful for in your own life. Not to suppress the feeling — to redirect the energy. Envy in, gratitude out.",
+        "hi": "इस हफ़्ते: जब भी हसद की चुभन महसूस हो — किसी की post, किसी की ख़बर, किसी की success — फ़ौरन 'अल्लाहुम्मा बारिक लहुम' कहो और फिर अपनी ज़िंदगी में एक चीज़ लिखो जिसके लिए सच में शुक्रगुज़ार हो। feeling दबाने के लिए नहीं — energy redirect करने के लिए। हसद अंदर, शुक्र बाहर।",
+        "ur": "اس ہفتے: جب بھی حسد کی چبھن محسوس ہو — کسی کی post، کسی کی خبر، کسی کی success — فوری 'اللہم بارک لہم' کہو اور پھر اپنی زندگی میں ایک چیز لکھو جس کے لیے سچ میں شکرگزار ہو۔ feeling دبانے کے لیے نہیں — energy redirect کرنے کے لیے۔ حسد اندر، شکر باہر۔"
+      },
+      "hikmah": {
+        "en": "Allah's rizq is not a pie where someone else getting more means you get less. When He gave them what they have, He did not take it from you. Their blessing is not your shortage. But hasad makes you feel exactly that — that the world is a zero-sum game and you are losing. It is a lie. A very convincing lie. But a lie.",
+        "hi": "अल्लाह का रिज़्क़ पाई नहीं है जहाँ किसी को ज़्यादा मिलने का मतलब तुम्हें कम मिलना है। जब उसने उन्हें वो दिया, तो तुमसे नहीं लिया। उनकी नेमत तुम्हारी कमी नहीं है। लेकिन हसद तुम्हें बिल्कुल ऐसा ही महसूस कराता है — कि दुनिया zero-sum game है और तुम हार रहे हो। यह झूठ है। बहुत यक़ीनदिलाने वाला झूठ। लेकिन झूठ।",
+        "ur": "اللہ کا رزق پائی نہیں ہے جہاں کسی کو زیادہ ملنے کا مطلب تمہیں کم ملنا ہے۔ جب اس نے انہیں وہ دیا، تو تم سے نہیں لیا۔ ان کی نعمت تمہاری کمی نہیں ہے۔ لیکن حسد تمہیں بالکل ایسا ہی محسوس کراتا ہے — کہ دنیا zero-sum game ہے اور تم ہار رہے ہو۔ یہ جھوٹ ہے۔ بہت یقین دلانے والا جھوٹ۔ لیکن جھوٹ۔"
+      },
+      "example": {
+        "en": "End of the week: look at how many times you said 'Allahumma barik lahum' and meant it. Day one, it felt forced. Day four, it started to feel real. Day seven, something has genuinely shifted. That shift — that is your nafs being cleaned. Don't stop.",
+        "hi": "हफ़्ते के आख़िर में: देखो कितनी बार 'अल्लाहुम्मा बारिक लहुम' कहा और मतलब था। पहले दिन forced लगा। चौथे दिन real लगने लगा। सातवें दिन कुछ सच में बदल गया। वो बदलाव — वो तुम्हारा नफ़्स साफ़ हो रहा है। रुको मत।",
+        "ur": "ہفتے کے آخر میں: دیکھو کتنی بار 'اللہم بارک لہم' کہا اور مطلب تھا۔ پہلے دن forced لگا۔ چوتھے دن real لگنے لگا۔ ساتویں دن کچھ سچ میں بدل گیا۔ وہ بدلاؤ — وہ تمہارا نفس صاف ہو رہا ہے۔ رکو مت۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 113,
+        "ayah": 5,
+        "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "translation": {
+          "en": "And from the evil of the envier when he envies.",
+          "hi": "और हसद करने वाले की बुराई से जब वो हसद करे।",
+          "ur": "اور حسد کرنے والے کی برائی سے جب وہ حسد کرے۔"
+        }
+      },
+      "task": {
+        "en": "Someone around you is clearly drowning in comparison — their self-worth rises and falls with other people's highlights. They don't know they have hasad; they think they have low self-esteem. Share what you now know — gently, from your own experience. 'Yaar, I used to feel exactly like that. Can I share what helped?'",
+        "hi": "तुम्हारे आसपास कोई clearly तुलना में डूब रहा है — उनकी self-worth दूसरों के highlights के साथ ऊपर-नीचे होती है। उन्हें पता नहीं कि उन्हें हसद है; उन्हें लगता है उनमें self-esteem की कमी है। जो तुम अब जानते हो वो share करो — आहिस्ता, अपने तजुर्बे से। 'यार, मुझे भी बिल्कुल ऐसा ही लगता था। मैं share करूँ क्या जिससे फ़र्क़ पड़ा?'",
+        "ur": "تمہارے آس پاس کوئی clearly موازنے میں ڈوب رہا ہے — ان کی self-worth دوسروں کے highlights کے ساتھ اوپر نیچے ہوتی ہے۔ انہیں پتا نہیں کہ انہیں حسد ہے؛ انہیں لگتا ہے ان میں self-esteem کی کمی ہے۔ جو تم اب جانتے ہو وہ share کرو — آہستہ، اپنے تجربے سے۔ 'یار، مجھے بھی بالکل ایسا ہی لگتا تھا۔ میں share کروں کیا جس سے فرق پڑا؟'"
+      },
+      "hikmah": {
+        "en": "Hasad is one of the most universal human experiences — and one of the least talked about. Nobody admits it. By being the first to admit it in your circle — to say 'I struggled with this and here's what I found' — you give others permission to be honest about something they've been carrying alone for years.",
+        "hi": "हसद सबसे universal इंसानी तजुर्बों में से एक है — और सबसे कम बात होने वाले में। कोई नहीं मानता। अपने दायरे में पहले मानने वाले बनकर — 'मुझे यह problem थी और यह मिला' — तुम दूसरों को उस चीज़ के बारे में ईमानदार होने की इजाज़त देते हो जो वो सालों से अकेले उठाए चल रहे हैं।",
+        "ur": "حسد سب سے universal انسانی تجربوں میں سے ایک ہے — اور سب سے کم بات ہونے والوں میں۔ کوئی نہیں مانتا۔ اپنے دائرے میں پہلے ماننے والے بن کر — 'مجھے یہ problem تھی اور یہ ملا' — تم دوسروں کو اس چیز کے بارے میں ایماندار ہونے کی اجازت دیتے ہو جو وہ سالوں سے اکیلے اٹھائے چل رہے ہیں۔"
+      },
+      "example": {
+        "en": "Someone in your circle gets something wonderful. You feel the old twinge — then you catch it, name it, say 'Allahumma barik lahum' and mean it. The person next to you says: 'You seem genuinely happy for them.' You are. That moment is the fruit of months of work. Don't let it go to waste.",
+        "hi": "दायरे में किसी को कुछ शानदार मिलता है। पुरानी चुभन महसूस होती है — फिर पकड़ते हो, नाम देते हो, 'अल्लाहुम्मा बारिक लहुम' कहते हो और मतलब होता है। पास वाला कहता है: 'तुम सच में उनके लिए ख़ुश लग रहे हो।' हो भी। वो पल महीनों की मेहनत का फल है। ज़ाया मत होने दो।",
+        "ur": "دائرے میں کسی کو کچھ شاندار ملتا ہے۔ پرانی چبھن محسوس ہوتی ہے — پھر پکڑتے ہو، نام دیتے ہو، 'اللہم بارک لہم' کہتے ہو اور مطلب ہوتا ہے۔ پاس والا کہتا ہے: 'تم سچ میں ان کے لیے خوش لگ رہے ہو۔' ہو بھی۔ وہ پل مہینوں کی محنت کا پھل ہے۔ ضائع مت ہونے دو۔"
+      }
+    }
+  ]
+}

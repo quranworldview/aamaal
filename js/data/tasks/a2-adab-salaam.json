@@ -1,0 +1,176 @@
+{
+  "id": "a2-adab-salaam",
+  "category": "adab",
+  "name": {
+    "en": "Give Salaam First",
+    "hi": "सलाम पहले",
+    "ur": "سلام پہلے"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": {
+        "en": "Think about it",
+        "hi": "सोचना",
+        "ur": "سوچنا"
+      },
+      "ayah": {
+        "surah": 4,
+        "ayah": 86,
+        "arabic": "وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا",
+        "translation": {
+          "en": "When you are greeted with a greeting, greet with one better than it, or return it.",
+          "hi": "जब तुम्हें सलाम किया जाए तो उससे बेहतर सलाम करो या उसी को लौटाओ।",
+          "ur": "جب تمہیں سلام کیا جائے تو اس سے بہتر سلام کرو یا اسی کو لوٹاؤ۔"
+        }
+      },
+      "task": {
+        "en": "Today, just notice: who do you greet first, and who do you wait for them to greet you? Your family at home, colleagues at work, the watchman, the shopkeeper. Just observe the pattern.",
+        "hi": "आज नोटिस करो: तुम पहले सलाम किसे करते हो, और किसके सलाम का इंतज़ार करते हो? घर में, काम पर, दरबान को, दुकानदार को। बस पैटर्न देखो।",
+        "ur": "آج نوٹس کرو: تم پہلے سلام کسے کرتے ہو، اور کس کے سلام کا انتظار کرتے ہو؟ گھر میں، کام پر، دربان کو، دکاندار کو۔ بس pattern دیکھو۔"
+      },
+      "hikmah": {
+        "en": "We give salaam first to people we respect or want to impress. We wait when we feel superior. The Prophet ﷺ gave salaam to children first. Think about what that means.",
+        "hi": "हम पहले सलाम उन्हें करते हैं जिन्हें हम respect करते हैं या impress करना चाहते हैं। और रुक जाते हैं जब ख़ुद को बड़ा समझते हैं। नबी ﷺ बच्चों को पहले सलाम देते थे। सोचो — इसका मतलब क्या है।",
+        "ur": "ہم پہلے سلام انہیں کرتے ہیں جنہیں respect کرتے ہیں یا impress کرنا چاہتے ہیں۔ اور رک جاتے ہیں جب خود کو بڑا سمجھتے ہیں۔ نبی ﷺ بچوں کو پہلے سلام دیتے تھے۔ سوچو — اس کا مطلب کیا ہے۔"
+      },
+      "example": {
+        "en": "You walk into the office. The peon is mopping the floor. Do you say salaam — or do you look at your phone and walk past? Today just notice what you actually do.",
+        "hi": "तुम ऑफ़िस में घुसते हो। प्यून पोछा लगा रहा है। क्या तुम सलाम करते हो — या फ़ोन देखते हुए निकल जाते हो? आज बस देखो तुम सच में क्या करते हो।",
+        "ur": "تم آفس میں گھستے ہو۔ پیون پوچھا لگا رہا ہے۔ کیا تم سلام کرتے ہو — یا فون دیکھتے ہوئے نکل جاتے ہو؟ آج بس دیکھو تم سچ میں کیا کرتے ہو۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": {
+        "en": "Learn about it",
+        "hi": "सीखना",
+        "ur": "سیکھنا"
+      },
+      "ayah": {
+        "surah": 24,
+        "ayah": 61,
+        "arabic": "فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ اللَّهِ",
+        "translation": {
+          "en": "When you enter houses, greet one another with a greeting from Allah.",
+          "hi": "जब घर में दाख़िल हो तो आपस में सलाम करो — अल्लाह की तरफ़ से एक दुआ।",
+          "ur": "جب گھر میں داخل ہو تو آپس میں سلام کرو — اللہ کی طرف سے ایک دعا۔"
+        }
+      },
+      "task": {
+        "en": "Today, look up what the scholars said about salaam — not a long article, just the basics. Why did the Prophet ﷺ say spreading salaam spreads love? What is the connection between a greeting and peace in a community?",
+        "hi": "आज देखो: उलमा ने सलाम के बारे में क्या कहा — लंबी आर्टिकल नहीं, बस बुनियादी बात। नबी ﷺ ने क्यों फ़रमाया कि सलाम फैलाना मोहब्बत फैलाता है? एक सलाम और मोहब्बत में क्या रिश्ता है?",
+        "ur": "آج دیکھو: علماء نے سلام کے بارے میں کیا کہا — لمبی آرٹیکل نہیں، بس بنیادی بات۔ نبی ﷺ نے کیوں فرمایا کہ سلام پھیلانا محبت پھیلاتا ہے؟ ایک سلام اور محبت میں کیا رشتہ ہے؟"
+      },
+      "hikmah": {
+        "en": "As-salamu alaykum is not just 'hello.' It is a prayer — you are literally asking Allah for peace upon that person. When you say it without thinking, you're wasting a prayer. When you say it with intention, you're making dua for a human being.",
+        "hi": "अस्सलामु अलैकुम सिर्फ़ 'हेलो' नहीं है। यह एक दुआ है — तुम सच में अल्लाह से उस इंसान के लिए सलामती माँग रहे हो। बिन सोचे कहना — एक दुआ ज़ाया करना है। नियत से कहना — किसी इंसान के लिए दुआ करना है।",
+        "ur": "السلام علیکم صرف 'ہیلو' نہیں ہے۔ یہ ایک دعا ہے — تم سچ میں اللہ سے اس انسان کے لیے سلامتی مانگ رہے ہو۔ بن سوچے کہنا — ایک دعا ضائع کرنا ہے۔ نیت سے کہنا — کسی انسان کے لیے دعا کرنا ہے۔"
+      },
+      "example": {
+        "en": "You've been saying salaam your whole life. But have you ever said it slowly, feeling the words? Try it today with one person — say it like you mean it. Watch their face.",
+        "hi": "सारी ज़िंदगी सलाम कहते आए हो। लेकिन कभी धीरे से, मतलब समझते हुए कहा? आज एक इंसान को ऐसे कहो — जैसे सच में बोल रहे हो। उनका चेहरा देखो।",
+        "ur": "ساری زندگی سلام کہتے آئے ہو۔ لیکن کبھی آہستہ سے، مطلب سمجھتے ہوئے کہا؟ آج ایک انسان کو ایسے کہو — جیسے سچ میں بول رہے ہو۔ ان کا چہرہ دیکھو۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": {
+        "en": "Do it",
+        "hi": "करना",
+        "ur": "کرنا"
+      },
+      "ayah": {
+        "surah": 6,
+        "ayah": 54,
+        "arabic": "وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ عَلَيْكُمْ",
+        "translation": {
+          "en": "When those come to you who believe in Our signs, say: Peace be upon you.",
+          "hi": "जब तुम्हारे पास आएँ वो जो हमारी आयतों पर ईमान रखते हैं, तो कहो: तुम पर सलामती हो।",
+          "ur": "جب تمہارے پاس آئیں وہ جو ہماری آیات پر ایمان رکھتے ہیں، تو کہو: تم پر سلامتی ہو۔"
+        }
+      },
+      "task": {
+        "en": "This week — you give salaam first. Every single time. To family, colleagues, the guard, the driver, children. You don't wait. You don't see who speaks first. You go first. Every time.",
+        "hi": "इस हफ़्ते — तुम पहले सलाम दो। हर बार। घर वालों को, colleagues को, गार्ड को, ड्राइवर को, बच्चों को। इंतज़ार मत करो। मत देखो कि पहले कौन बोलता है। तुम पहले जाओ। हर बार।",
+        "ur": "اس ہفتے — تم پہلے سلام دو۔ ہر بار۔ گھر والوں کو، colleagues کو، گارڈ کو، ڈرائیور کو، بچوں کو۔ انتظار مت کرو۔ مت دیکھو کہ پہلے کون بولتا ہے۔ تم پہلے جاؤ۔ ہر بار۔"
+      },
+      "hikmah": {
+        "en": "Going first takes something specific: letting go of your ego. It means you're not keeping score. It means you're not deciding whether they deserve your salaam. That is the sunnah — not because they earned it, but because your heart is big enough to give it unconditionally.",
+        "hi": "पहले जाने के लिए एक ख़ास चीज़ चाहिए: अपनी अना छोड़ना। इसका मतलब है तुम हिसाब नहीं रख रहे। इसका मतलब है तुम नहीं सोच रहे कि वो सलाम के लायक़ है या नहीं। यही सुन्नत है — इसलिए नहीं कि उसने कमाया, बल्कि इसलिए कि तुम्हारा दिल इतना बड़ा है।",
+        "ur": "پہلے جانے کے لیے ایک خاص چیز چاہیے: اپنی انا چھوڑنا۔ اس کا مطلب ہے تم حساب نہیں رکھ رہے۔ اس کا مطلب ہے تم نہیں سوچ رہے کہ وہ سلام کے لائق ہے یا نہیں۔ یہی سنت ہے — اس لیے نہیں کہ اس نے کمایا، بلکہ اس لیے کہ تمہارا دل اتنا بڑا ہے۔"
+      },
+      "example": {
+        "en": "There's a neighbour you've had tension with. You haven't spoken properly in months. This week: when you see them, you go first. Not to resolve anything. Not to open a conversation. Just salaam. Notice what happens inside you.",
+        "hi": "एक पड़ोसी है जिससे तनाव है। महीनों से ठीक से बात नहीं हुई। इस हफ़्ते: जब दिख जाएँ, तुम पहले सलाम दो। कुछ solve करने के लिए नहीं। बात शुरू करने के लिए नहीं। बस सलाम। अपने अंदर क्या होता है देखो।",
+        "ur": "ایک پڑوسی ہے جس سے tension ہے۔ مہینوں سے ٹھیک سے بات نہیں ہوئی۔ اس ہفتے: جب دکھ جائیں، تم پہلے سلام دو۔ کچھ solve کرنے کے لیے نہیں۔ بات شروع کرنے کے لیے نہیں۔ بس سلام۔ اپنے اندر کیا ہوتا ہے دیکھو۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": {
+        "en": "Make it a habit",
+        "hi": "आदत बनाना",
+        "ur": "عادت بنانا"
+      },
+      "ayah": {
+        "surah": 49,
+        "ayah": 13,
+        "arabic": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
+        "translation": {
+          "en": "Indeed, the most noble of you in the sight of Allah is the most righteous.",
+          "hi": "बेशक अल्लाह के नज़दीक तुममें सबसे ज़्यादा इज़्ज़त वाला वो है जो सबसे ज़्यादा तक़्वा वाला है।",
+          "ur": "بے شک اللہ کے نزدیک تم میں سب سے زیادہ عزت والا وہ ہے جو سب سے زیادہ تقویٰ والا ہے۔"
+        }
+      },
+      "task": {
+        "en": "For the next 7 days — track it. Every morning, commit: I will give salaam first today. Every night, reflect: did I? Who did I hesitate with? Why? By day 7, notice if it's becoming natural.",
+        "hi": "अगले 7 दिन — track करो। हर सुबह पक्के इरादे: आज मैं पहले सलाम दूँगा। हर रात: क्या किया? किसके साथ रुका? क्यों? दिन 7 पर देखो — क्या यह अब natural लग रहा है?",
+        "ur": "اگلے 7 دن — track کرو۔ ہر صبح پکے ارادے: آج میں پہلے سلام دوں گا۔ ہر رات: کیا کیا؟ کس کے ساتھ رُکا؟ کیوں؟ دن 7 پر دیکھو — کیا یہ اب natural لگ رہا ہے؟"
+      },
+      "hikmah": {
+        "en": "A habit isn't formed by doing something once and deciding you're different. It's formed by showing up to the same small act day after day — until one day you realise you don't even think about it anymore. That's when it belongs to you.",
+        "hi": "आदत एक बार करने से नहीं बनती। उसी छोटी-सी चीज़ को दिन-ब-दिन करते रहने से बनती है — जब तक एक दिन realise न हो कि अब सोचना नहीं पड़ता। तभी वो तुम्हारी हो जाती है।",
+        "ur": "عادت ایک بار کرنے سے نہیں بنتی۔ اسی چھوٹی سی چیز کو دن بہ دن کرتے رہنے سے بنتی ہے — جب تک ایک دن realise نہ ہو کہ اب سوچنا نہیں پڑتا۔ تبھی وہ تمہاری ہو جاتی ہے۔"
+      },
+      "example": {
+        "en": "You've been doing this for weeks now. Your family has noticed — without you saying anything. Your child started giving salaam first too. You didn't teach them. They caught it from you. That's aadat.",
+        "hi": "हफ़्तों से कर रहे हो। घर वालों ने नोटिस किया — बिना तुम्हारे कुछ कहे। तुम्हारा बच्चा भी पहले सलाम देने लगा। तुमने सिखाया नहीं। उसने तुमसे पकड़ा। यही आदत है।",
+        "ur": "ہفتوں سے کر رہے ہو۔ گھر والوں نے نوٹس کیا — بغیر تمہارے کچھ کہے۔ تمہارا بچہ بھی پہلے سلام دینے لگا۔ تم نے سکھایا نہیں۔ اس نے تم سے پکڑا۔ یہی عادت ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": {
+        "en": "Give its dawah",
+        "hi": "अपनों को देना",
+        "ur": "اپنوں کو دینا"
+      },
+      "ayah": {
+        "surah": 3,
+        "ayah": 104,
+        "arabic": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ",
+        "translation": {
+          "en": "And let there be among you a group inviting to good.",
+          "hi": "और तुममें से एक गिरोह हो जो भलाई की तरफ़ बुलाए।",
+          "ur": "اور تم میں سے ایک گروہ ہو جو بھلائی کی طرف بلائے۔"
+        }
+      },
+      "task": {
+        "en": "Today, tell someone you love what salaam means to you now — after months of practising it. Not what you read. What you lived. Tell them: 'Pehle main aise tha…' and share honestly where you started and where you are.",
+        "hi": "आज किसी अपने को बताओ कि सलाम अब तुम्हारे लिए क्या है — महीनों की practice के बाद। जो पढ़ा वो नहीं। जो जीया वो। बताओ: 'पहले मैं ऐसा था…' और सच्ची बात करो — शुरू से अब तक।",
+        "ur": "آج کسی اپنے کو بتاؤ کہ سلام اب تمہارے لیے کیا ہے — مہینوں کی practice کے بعد۔ جو پڑھا وہ نہیں۔ جو جیا وہ۔ بتاؤ: 'پہلے میں ایسا تھا…' اور سچی بات کرو — شروع سے اب تک۔"
+      },
+      "hikmah": {
+        "en": "The most powerful Islamic teaching is not in books — it's in watching someone you love actually live it. Your story of struggling with salaam and then finding it — that story is worth more than any lecture, because it's true, and they can see it in you.",
+        "hi": "सबसे ताक़तवर इस्लामी तालीम किताबों में नहीं — अपने किसी प्यारे को ज़िंदगी जीते हुए देखने में है। तुम्हारी कहानी — सलाम के साथ struggle की, फिर उसे पाने की — यह किसी भी लेक्चर से ज़्यादा क़ीमती है, क्योंकि यह सच है, और वो तुम्हें देख सकते हैं।",
+        "ur": "سب سے طاقتور اسلامی تعلیم کتابوں میں نہیں — اپنے کسی پیارے کو زندگی جیتے ہوئے دیکھنے میں ہے۔ تمہاری کہانی — سلام کے ساتھ struggle کی، پھر اسے پانے کی — یہ کسی بھی لیکچر سے زیادہ قیمتی ہے، کیونکہ یہ سچ ہے، اور وہ تمہیں دیکھ سکتے ہیں۔"
+      },
+      "example": {
+        "en": "Your younger sibling is about to start their first job. Before they go, you share: 'Ek cheez jo maine seekhi — jao pehle salaam do. Har kisi ko. Dekho kya hota hai.' That's all. Plant the seed.",
+        "hi": "छोटा भाई या बहन पहली नौकरी पर जाने वाला है। जाने से पहले share करो: 'एक चीज़ जो मैंने सीखी — जाओ पहले सलाम दो। हर किसी को। देखो क्या होता है।' बस। बीज बोओ।",
+        "ur": "چھوٹا بھائی یا بہن پہلی نوکری پر جانے والا ہے۔ جانے سے پہلے شیئر کرو: 'ایک چیز جو میں نے سیکھی — جاؤ پہلے سلام دو۔ ہر کسی کو۔ دیکھو کیا ہوتا ہے۔' بس۔ بیج بوؤ۔"
+      }
+    }
+  ]
+}

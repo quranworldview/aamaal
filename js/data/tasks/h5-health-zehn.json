@@ -1,0 +1,151 @@
+{
+  "id": "h5-health-zehn",
+  "category": "health",
+  "name": {
+    "en": "The Worried Mind",
+    "hi": "बेचैन दिमाग़",
+    "ur": "بے چین ذہن"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 13, "ayah": 28,
+        "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "translation": {
+          "en": "Verily, in the remembrance of Allah do hearts find rest.",
+          "hi": "सुन लो! अल्लाह की याद से ही दिलों को सुकून मिलता है।",
+          "ur": "سن لو! اللہ کی یاد سے ہی دلوں کو سکون ملتا ہے۔"
+        }
+      },
+      "task": {
+        "en": "Today, just notice: what kind of thoughts occupy your mind most? Future worries — things that haven't happened? Past regrets — things you can't change? Or present concerns — things actually happening now? Most anxiety lives in the first two. Just map it. Where does your mind go when it's left alone?",
+        "hi": "आज बस नोटिस करो: किस तरह के ख़याल दिमाग़ में सबसे ज़्यादा रहते हैं? भविष्य की फ़िक्रें — जो हुई नहीं हैं? पुराने अफ़सोस — जो बदल नहीं सकते? या मौजूदा चिंताएँ — जो असल में अभी हो रही हैं? ज़्यादातर anxiety पहले दोनों में रहती है। बस map करो। जब अकेला छोड़ा जाए तो दिमाग़ कहाँ जाता है?",
+        "ur": "آج بس نوٹس کرو: کس طرح کے خیال ذہن میں سب سے زیادہ رہتے ہیں؟ مستقبل کی فکریں — جو ہوئی نہیں ہیں؟ پرانے افسوس — جو بدل نہیں سکتے؟ یا موجودہ پریشانیاں — جو اصل میں ابھی ہو رہی ہیں؟ زیادہ تر anxiety پہلے دونوں میں رہتی ہے۔ بس map کرو۔ جب اکیلا چھوڑا جائے تو ذہن کہاں جاتا ہے؟"
+      },
+      "hikmah": {
+        "en": "Allah does not say 'stop worrying' — He says 'remember Me.' Because He knows the worry doesn't disappear on command. What shifts is the container it sits in. When your mind is held in the remembrance of Allah, the anxiety is still there — but it is held differently. It has somewhere to go. That is what tuma'neen means: not absence of worry, but settledness despite it.",
+        "hi": "अल्लाह 'फ़िक्र मत करो' नहीं कहता — वो कहता है 'मुझे याद करो।' क्योंकि वो जानता है कि फ़िक्र हुक्म पर ग़ायब नहीं होती। जो बदलता है वो वो container है जिसमें यह बैठती है। जब दिमाग़ अल्लाह की याद में रहता है, anxiety अभी भी है — लेकिन अलग तरह से रखी हुई है। उसके जाने की जगह है। यही तुमअनीन का मतलब है: फ़िक्र का न होना नहीं, बल्कि उसके बावजूद सुकून।",
+        "ur": "اللہ 'فکر مت کرو' نہیں کہتا — وہ کہتا ہے 'مجھے یاد کرو۔' کیونکہ وہ جانتا ہے کہ فکر حکم پر غائب نہیں ہوتی۔ جو بدلتا ہے وہ وہ container ہے جس میں یہ بیٹھتی ہے۔ جب ذہن اللہ کی یاد میں رہتا ہے، anxiety ابھی بھی ہے — لیکن الگ طرح سے رکھی ہوئی ہے۔ اس کے جانے کی جگہ ہے۔ یہی طمأنینہ کا مطلب ہے: فکر کا نہ ہونا نہیں، بلکہ اس کے باوجود سکون۔"
+      },
+      "example": {
+        "en": "It's 2am. You're not sleeping. Your mind is running through scenarios — a conversation that went badly, a decision that's coming, something someone said. You've been there a hundred times. Tonight: instead of trying to solve it, try saying 'Hasbunallahu wa ni'mal wakeel' — Allah is enough for us, and He is the best disposer of affairs. Say it ten times. Notice what shifts.",
+        "hi": "रात 2 बजे हैं। नींद नहीं आ रही। दिमाग़ scenes चला रहा है — एक बातचीत जो बुरी तरह गई, एक फ़ैसला जो आने वाला है, कोई बात जो किसी ने कही। सौ बार यहाँ रहे हो। आज रात: इसे सुलझाने की कोशिश की बजाय, try करो 'हस्बुनल्लाहु व निअमल वकील' कहने की — अल्लाह हमारे लिए काफ़ी है, और वो सबसे बेहतर कारसाज़ है। दस बार कहो। नोटिस करो क्या बदलता है।",
+        "ur": "رات 2 بجے ہیں۔ نیند نہیں آ رہی۔ ذہن scenes چلا رہا ہے — ایک گفتگو جو بری طرح گئی، ایک فیصلہ جو آنے والا ہے، کوئی بات جو کسی نے کہی۔ سو بار یہاں رہے ہو۔ آج رات: اسے سلجھانے کی کوشش کی بجائے، try کرو 'حسبنا اللہ و نعم الوکیل' کہنے کی — اللہ ہمارے لیے کافی ہے، اور وہ سب سے بہتر کارساز ہے۔ دس بار کہو۔ نوٹس کرو کیا بدلتا ہے۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 94, "ayah": 1,
+        "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+        "translation": {
+          "en": "Did We not expand for you your chest?",
+          "hi": "क्या हमने तुम्हारे लिए तुम्हारा सीना नहीं खोल दिया?",
+          "ur": "کیا ہم نے تمہارے لیے تمہارا سینہ نہیں کھول دیا؟"
+        }
+      },
+      "task": {
+        "en": "Learn what Islamic scholars say about ghamm and hamm — grief and anxiety. They are not the same. Read about how the Prophet ﷺ experienced both — the grief of losing Khadijah, the anxiety of responsibility. He was not above these feelings. He moved through them with specific practices. Learn what those were.",
+        "hi": "इस्लामी उलमा ग़म और हम्म के बारे में क्या कहते हैं — दुख और anxiety — सीखो। यह एक ही नहीं हैं। पढ़ो कि नबी ﷺ ने दोनों कैसे experience किए — ख़दीजा को खोने का ग़म, ज़िम्मेदारी की anxiety। वो इन feelings से ऊपर नहीं थे। उन्होंने ख़ास practices के साथ उनसे गुज़रे। सीखो वो क्या थे।",
+        "ur": "اسلامی علما غم اور ہم کے بارے میں کیا کہتے ہیں — دکھ اور anxiety — سیکھو۔ یہ ایک ہی نہیں ہیں۔ پڑھو کہ نبی ﷺ نے دونوں کیسے experience کیے — خدیجہ کو کھونے کا غم، ذمہ داری کی anxiety۔ وہ ان feelings سے اوپر نہیں تھے۔ انہوں نے خاص practices کے ساتھ ان سے گزرے۔ سیکھو وہ کیا تھے۔"
+      },
+      "hikmah": {
+        "en": "There is a dua for anxiety that the Prophet ﷺ taught: 'Allahumma inni a'udhu bika minal-hammi wal-hazani, wal-ajzi wal-kasali, wal-bukhli wal-jubni, wa dala'id-dayni wa ghalabatir-rijal.' Eight things named — worry, grief, incapacity, laziness, miserliness, cowardice, debt, and being overpowered by people. He named them all. Which means he knew them all. That itself is a comfort.",
+        "hi": "anxiety के लिए एक दुआ है जो नबी ﷺ ने सिखाई: 'अल्लाहुम्मा इन्नी अऊज़ु बिका मिनल-हम्मि वल-हज़नि, वल-अज्ज़ि वल-कसलि, वल-बुख्लि वल-जुब्नि, व दला'इद्-दयनि व ग़लबतिर-रिजाल।' आठ चीज़ें नाम लिए — फ़िक्र, ग़म, असमर्थता, आलस, कंजूसी, डर, क़र्ज़, और लोगों से दबाया जाना। उन्होंने सब नाम लिए। इसका मतलब उन्हें सब पता थे। यह ख़ुद एक तसल्ली है।",
+        "ur": "anxiety کے لیے ایک دعا ہے جو نبی ﷺ نے سکھائی: 'اللہم إنی أعوذ بک من الہم والحزن، والعجز والکسل، والبخل والجبن، وضلع الدین وغلبة الرجال۔' آٹھ چیزیں نام لیے — فکر، غم، ناتوانی، سستی، کنجوسی، ڈر، قرض، اور لوگوں سے دبایا جانا۔ انہوں نے سب نام لیے۔ اس کا مطلب انہیں سب پتا تھے۔ یہ خود ایک تسلی ہے۔"
+      },
+      "example": {
+        "en": "Learn this dua today. Read its meaning carefully — not a translation, a living understanding. Which of the eight resonates most right now? Hamm — the gnawing worry? Hazn — the sitting grief? Kasala — the paralysing laziness that comes from anxiety? The dua covers the whole spectrum. You are not making up a new problem. You are using an old solution.",
+        "hi": "आज यह दुआ सीखो। इसका मतलब ध्यान से पढ़ो — translation नहीं, ज़िंदा समझ। आठ में से अभी कौन-सी सबसे ज़्यादा resonates करती है? हम्म — वो कुतरने वाली फ़िक्र? हज़न — वो बैठी हुई ग़म? कसला — वो paralyzing आलस जो anxiety से आती है? दुआ पूरा spectrum cover करती है। तुम कोई नई problem नहीं बना रहे। एक पुराना solution इस्तेमाल कर रहे हो।",
+        "ur": "آج یہ دعا سیکھو۔ اس کا مطلب غور سے پڑھو — translation نہیں، زندہ سمجھ۔ آٹھ میں سے ابھی کون سی سب سے زیادہ resonates کرتی ہے؟ ہم — وہ کترنے والی فکر؟ حزن — وہ بیٹھا ہوا غم؟ کسالہ — وہ paralyzing سستی جو anxiety سے آتی ہے؟ دعا پورا spectrum cover کرتی ہے۔ تم کوئی نئی problem نہیں بنا رہے۔ ایک پرانا solution استعمال کر رہے ہو۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 2, "ayah": 45,
+        "arabic": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
+        "translation": {
+          "en": "And seek help through patience and prayer.",
+          "hi": "और सब्र और नमाज़ से मदद माँगो।",
+          "ur": "اور صبر اور نماز سے مدد مانگو۔"
+        }
+      },
+      "task": {
+        "en": "Today: when anxiety rises — any time, any context — do this: stop. Three slow breaths. Say 'Hasbunallahu wa ni'mal wakeel' seven times. Then make sajdah if you can, even a brief one. Prostrating is the most physical expression of tawakkul. Your body tells your mind: there is Someone higher than whatever is worrying you.",
+        "hi": "आज: जब भी anxiety उठे — कभी भी, किसी भी context में — यह करो: रुको। तीन धीमी साँसें। 'हस्बुनल्लाहु व निअमल वकील' सात बार कहो। फिर सजदा करो अगर हो सके, छोटा भी। सजदा करना तवक्कुल का सबसे जिस्मानी इज़हार है। तुम्हारा जिस्म दिमाग़ को बताता है: जो भी परेशान कर रहा है उससे ऊँचा कोई है।",
+        "ur": "آج: جب بھی anxiety اٹھے — کبھی بھی، کسی بھی context میں — یہ کرو: رکو۔ تین سست سانسیں۔ 'حسبنا اللہ و نعم الوکیل' سات بار کہو۔ پھر سجدہ کرو اگر ہو سکے، چھوٹا بھی۔ سجدہ کرنا توکل کا سب سے جسمانی اظہار ہے۔ تمہارا جسم ذہن کو بتاتا ہے: جو بھی پریشان کر رہا ہے اس سے اونچا کوئی ہے۔"
+      },
+      "hikmah": {
+        "en": "The anxious mind is trying to control what it cannot control. Sajdah is the physical act of releasing control — I put my face on the ground, the most humbling position possible, and I say: You are above all of this. Not as defeat, but as relief. Every time you prostrate in the middle of anxiety, you are practising the only thing that actually works: surrender to the One who actually holds everything.",
+        "hi": "बेचैन दिमाग़ वो control करने की कोशिश कर रहा है जो control नहीं कर सकता। सजदा control छोड़ने का जिस्मानी अमल है — मैं अपना चेहरा ज़मीन पर रखता हूँ, सबसे ज़्यादा झुकने वाली पोज़िशन, और कहता हूँ: तू इस सब से ऊपर है। हार के तौर पर नहीं, राहत के तौर पर। जब भी anxiety के बीच में सजदा करते हो, तुम वही एकमात्र काम practice कर रहे हो जो असल में काम करता है: उसके सामने झुकना जो असल में सब कुछ थामे हुए है।",
+        "ur": "بے چین ذہن وہ control کرنے کی کوشش کر رہا ہے جو control نہیں کر سکتا۔ سجدہ control چھوڑنے کا جسمانی عمل ہے — میں اپنا چہرہ زمین پر رکھتا ہوں، سب سے زیادہ جھکنے والی پوزیشن، اور کہتا ہوں: تو اس سب سے اوپر ہے۔ ہار کے طور پر نہیں، راحت کے طور پر۔ جب بھی anxiety کے بیچ میں سجدہ کرتے ہو، تم وہی واحد کام practice کر رہے ہو جو اصل میں کام کرتا ہے: اس کے سامنے جھکنا جو اصل میں سب کچھ تھامے ہوئے ہے۔"
+      },
+      "example": {
+        "en": "You're at work, anxiety building before a difficult meeting. You can't make sajdah in the boardroom. But you can: step outside for 90 seconds. Three slow breaths. 'Hasbunallahu wa ni'mal wakeel' quietly. Then walk in. You are not walking in unprepared. You are walking in having handed it over. That is a different posture entirely.",
+        "hi": "काम पर हो, मुश्किल meeting से पहले anxiety बढ़ रही है। boardroom में सजदा नहीं कर सकते। लेकिन कर सकते हो: 90 सेकंड के लिए बाहर जाओ। तीन धीमी साँसें। धीरे से 'हस्बुनल्लाहु व निअमल वकील'। फिर अंदर जाओ। तुम अतैयार अंदर नहीं जा रहे। तुम उसे सौंपकर अंदर जा रहे हो। यह पूरी तरह अलग posture है।",
+        "ur": "کام پر ہو، مشکل meeting سے پہلے anxiety بڑھ رہی ہے۔ boardroom میں سجدہ نہیں کر سکتے۔ لیکن کر سکتے ہو: 90 سیکنڈ کے لیے باہر جاؤ۔ تین سست سانسیں۔ آہستہ سے 'حسبنا اللہ و نعم الوکیل'۔ پھر اندر جاؤ۔ تم اتیار اندر نہیں جا رہے۔ تم اسے سونپ کر اندر جا رہے ہو۔ یہ پوری طرح الگ posture ہے۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 65, "ayah": 3,
+        "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+        "translation": {
+          "en": "And whoever relies upon Allah — then He is sufficient for him.",
+          "hi": "और जो अल्लाह पर भरोसा करे — तो वो उसके लिए काफ़ी है।",
+          "ur": "اور جو اللہ پر بھروسہ کرے — تو وہ اس کے لیے کافی ہے۔"
+        }
+      },
+      "task": {
+        "en": "This week: build a simple anxiety-management practice using only Islamic tools. Morning: the dua of anxiety once after Fajr. During the day: when worry spikes, hasbunallah + three breaths. Night: before sleep, name one worry and consciously hand it to Allah in dua. Seven days. These are not tricks — they are the practices of the people who had more pressure than you and carried it better.",
+        "hi": "इस हफ़्ते: सिर्फ़ इस्लामी tools से एक सरल anxiety-management practice बनाओ। सुबह: फ़ज्र के बाद एक बार anxiety की दुआ। दिन के दौरान: जब फ़िक्र spike करे, हस्बुनल्लाह + तीन साँसें। रात: सोने से पहले, एक फ़िक्र का नाम लो और consciously उसे दुआ में अल्लाह को सौंप दो। सात दिन। यह tricks नहीं हैं — यह उन लोगों के अमल हैं जिन पर तुमसे ज़्यादा pressure था और उन्होंने उसे बेहतर उठाया।",
+        "ur": "اس ہفتے: صرف اسلامی tools سے ایک سادہ anxiety-management practice بناؤ۔ صبح: فجر کے بعد ایک بار anxiety کی دعا۔ دن کے دوران: جب فکر spike کرے، حسبنا اللہ + تین سانسیں۔ رات: سونے سے پہلے، ایک فکر کا نام لو اور consciously اسے دعا میں اللہ کو سونپ دو۔ سات دن۔ یہ tricks نہیں ہیں — یہ ان لوگوں کے اعمال ہیں جن پر تم سے زیادہ pressure تھا اور انہوں نے اسے بہتر اٹھایا۔"
+      },
+      "hikmah": {
+        "en": "Tawakkul is not passivity. It is the combination of doing what you can and releasing what you can't. The Prophet ﷺ tied his camel — then trusted Allah. He made dua — then took action. The anxious mind wants to control everything. Tawakkul teaches it to do its part and then let go. That letting go is not weakness. It is the most advanced form of spiritual maturity.",
+        "hi": "तवक्कुल passivity नहीं है। यह जो कर सकते हो करना और जो नहीं कर सकते उसे छोड़ने का संयोजन है। नबी ﷺ ने ऊँट बाँधा — फिर अल्लाह पर भरोसा किया। दुआ की — फिर अमल किया। बेचैन दिमाग़ सब control करना चाहता है। तवक्कुल उसे सिखाता है कि अपना हिस्सा करो और फिर छोड़ दो। वो छोड़ना कमज़ोरी नहीं है। यह रूहानी पकत का सबसे उन्नत रूप है।",
+        "ur": "توکل passivity نہیں ہے۔ یہ جو کر سکتے ہو کرنا اور جو نہیں کر سکتے اسے چھوڑنے کا مجموعہ ہے۔ نبی ﷺ نے اونٹ باندھا — پھر اللہ پر بھروسہ کیا۔ دعا کی — پھر عمل کیا۔ بے چین ذہن سب control کرنا چاہتا ہے۔ توکل اسے سکھاتا ہے کہ اپنا حصہ کرو اور پھر چھوڑ دو۔ وہ چھوڑنا کمزوری نہیں ہے۔ یہ روحانی پختگی کی سب سے اعلیٰ شکل ہے۔"
+      },
+      "example": {
+        "en": "End of the week: look back at your seven nights. On the nights you named your worry and handed it to Allah — did you sleep differently? Most people find that naming the worry and giving it somewhere to go actually reduces its hold. The mind is restless because it thinks it has to hold everything. Give it permission to let go.",
+        "hi": "हफ़्ते के आख़िर में: सात रातें देखो। जिन रातों तुमने फ़िक्र का नाम लिया और अल्लाह को सौंप दिया — क्या नींद अलग थी? ज़्यादातर लोगों को लगता है कि फ़िक्र का नाम लेना और उसे जाने की जगह देना उसकी पकड़ actually कम कर देता है। दिमाग़ बेचैन है क्योंकि उसे लगता है उसे सब कुछ पकड़ना है। उसे छोड़ने की इजाज़त दो।",
+        "ur": "ہفتے کے آخر میں: سات راتیں دیکھو۔ جن راتوں تم نے فکر کا نام لیا اور اللہ کو سونپ دیا — کیا نیند الگ تھی؟ زیادہ تر لوگوں کو لگتا ہے کہ فکر کا نام لینا اور اسے جانے کی جگہ دینا اس کی پکڑ actually کم کر دیتا ہے۔ ذہن بے چین ہے کیونکہ اسے لگتا ہے اسے سب کچھ پکڑنا ہے۔ اسے چھوڑنے کی اجازت دو۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 9, "ayah": 40,
+        "arabic": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+        "translation": {
+          "en": "Do not grieve — indeed, Allah is with us.",
+          "hi": "ग़म मत करो — बेशक अल्लाह हमारे साथ है।",
+          "ur": "غم مت کرو — بے شک اللہ ہمارے ساتھ ہے۔"
+        }
+      },
+      "task": {
+        "en": "Someone close to you is struggling with anxiety, stress, or low mood — and they probably don't have the language for it, or they're ashamed of it. This week: ask them how they really are. Not in passing. Sit down, ask, and actually wait for the real answer. And if they share — don't rush to fix. Just be the person who witnessed. That is sometimes the only thing needed.",
+        "hi": "तुम्हारे क़रीब कोई anxiety, stress, या कम mood से जूझ रहा है — और शायद उनके पास इसके लिए language नहीं है, या वो शर्मिंदा हैं। इस हफ़्ते: उनसे पूछो वो सच में कैसे हैं। चलते-चलते नहीं। बैठो, पूछो, और असल में सच्चे जवाब का इंतज़ार करो। और अगर share करें — ठीक करने की जल्दी मत करो। बस वो इंसान बनो जिसने गवाही दी। यह कभी-कभी सिर्फ़ यही चाहिए।",
+        "ur": "تمہارے قریب کوئی anxiety، stress، یا کم mood سے جوجھ رہا ہے — اور شاید ان کے پاس اس کے لیے language نہیں ہے، یا وہ شرمندہ ہیں۔ اس ہفتے: ان سے پوچھو وہ سچ میں کیسے ہیں۔ چلتے چلتے نہیں۔ بیٹھو، پوچھو، اور اصل میں سچے جواب کا انتظار کرو۔ اور اگر share کریں — ٹھیک کرنے کی جلدی مت کرو۔ بس وہ انسان بنو جس نے گواہی دی۔ یہ کبھی کبھی صرف یہی چاہیے۔"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said to his companion in the cave: do not grieve, Allah is with us. He did not say: here is a plan. He did not say: it will be fine. He said: you are not alone in this. That three-word truth — 'Allah is with us' — was enough to calm a person hiding from people trying to kill him. It can calm you too. And when you say it to someone else, you are passing on the greatest gift one person can give another.",
+        "hi": "नबी ﷺ ने गुफ़ा में अपने साथी से कहा: ग़म मत करो, अल्लाह हमारे साथ है। उन्होंने नहीं कहा: यह रहा plan। नहीं कहा: सब ठीक होगा। कहा: तुम इसमें अकेले नहीं हो। वो तीन शब्दों की सच्चाई — 'अल्लाह हमारे साथ है' — उस इंसान को शांत करने के लिए काफ़ी थी जो उसे मारने की कोशिश करने वाले लोगों से छुप रहा था। तुम्हें भी शांत कर सकती है। और जब तुम यह किसी और से कहते हो, तुम सबसे बड़ा तोहफ़ा दे रहे हो जो एक इंसान दूसरे को दे सकता है।",
+        "ur": "نبی ﷺ نے غار میں اپنے ساتھی سے کہا: غم مت کرو، اللہ ہمارے ساتھ ہے۔ انہوں نے نہیں کہا: یہ رہا plan۔ نہیں کہا: سب ٹھیک ہوگا۔ کہا: تم اس میں اکیلے نہیں ہو۔ وہ تین لفظوں کی سچائی — 'اللہ ہمارے ساتھ ہے' — اس انسان کو پرسکون کرنے کے لیے کافی تھی جو اسے مارنے کی کوشش کرنے والے لوگوں سے چھپ رہا تھا۔ تمہیں بھی پرسکون کر سکتی ہے۔ اور جب تم یہ کسی اور سے کہتے ہو، تم سب سے بڑا تحفہ دے رہے ہو جو ایک انسان دوسرے کو دے سکتا ہے۔"
+      },
+      "example": {
+        "en": "Your friend says 'I'm fine' when you ask. You know they're not. This time: don't accept it. Say: 'I know you said fine. But I have time. Tell me what's actually going on.' Then sit in the silence after you ask. The silence is them deciding whether you can be trusted with the real answer. Wait.",
+        "hi": "पूछने पर दोस्त कहता है 'ठीक हूँ।' तुम जानते हो नहीं है। इस बार: accept मत करो। कहो: 'तुमने ठीक कहा, मुझे पता है। लेकिन मेरे पास वक़्त है। बताओ असल में क्या हो रहा है।' फिर पूछने के बाद चुप्पी में बैठो। वो चुप्पी उनका यह फ़ैसला करना है कि असल जवाब के लिए तुम पर भरोसा किया जा सकता है। इंतज़ार करो।",
+        "ur": "پوچھنے پر دوست کہتا ہے 'ٹھیک ہوں۔' تم جانتے ہو نہیں ہے۔ اس بار: accept مت کرو۔ کہو: 'تم نے ٹھیک کہا، مجھے پتا ہے۔ لیکن میرے پاس وقت ہے۔ بتاؤ اصل میں کیا ہو رہا ہے۔' پھر پوچھنے کے بعد خاموشی میں بیٹھو۔ وہ خاموشی ان کا یہ فیصلہ کرنا ہے کہ اصل جواب کے لیے تم پر بھروسہ کیا جا سکتا ہے۔ انتظار کرو۔"
+      }
+    }
+  ]
+}

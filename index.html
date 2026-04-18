@@ -3,57 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="description" content="Aamaal — One deed. One day. One ayah behind it. Stage 3 of the Qur'an World View journey." />
+  <meta name="description" content="Aamaal — One deed. One day. One ayah behind it." />
   <meta name="theme-color" content="#0A0C10" />
-
   <title>Aamaal — Qur'an World View</title>
 
-  <!-- PWA -->
-  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png" />
   <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="manifest" href="manifest.json" />
 
-  <!-- Fonts & Styles -->
   <link rel="stylesheet" href="css/design.css" />
   <link rel="stylesheet" href="css/components.css" />
 
-  <!--
-    Firebase v8 compat SDK
-    Load in this exact order — per QWV-Unified-Firebase-Platform-Consolidation-v2.0
-    Never swap for v10 modular SDK without updating ALL QWV apps.
-  -->
+  <!-- Firebase v8 compat SDK — MUST load before any app JS -->
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-storage.js"></script>
 </head>
-
 <body>
 
-  <!-- App mount point — all screens render here -->
   <div id="app">
-    <!-- Initial loading state — replaced immediately by app.js -->
     <div class="app-loading">
       <div class="loading-spinner"></div>
     </div>
   </div>
 
-  <!--
-    App entry point
-    type="module" enables ES module imports across all JS files.
-    Firebase SDK is already on window.firebase via the script tags above.
-  -->
   <script type="module" src="js/app.js"></script>
-
-  <!-- Service Worker Registration -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('sw.js')
-          .then(reg  => console.log('[SW] Registered:', reg.scope))
-          .catch(err => console.warn('[SW] Registration failed:', err));
-      });
-    }
-  </script>
 
 </body>
 </html>

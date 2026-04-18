@@ -16,7 +16,7 @@
  * RULE: Import and call getCalendarState() — consume the result, don't recompute.
  */
 
-import { db } from './firebase.js';
+import { db } from '../core/firebase.js';
 
 // ─────────────────────────────────────────────
 // CONSTANTS

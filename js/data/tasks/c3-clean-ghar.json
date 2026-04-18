@@ -1,0 +1,151 @@
+{
+  "id": "c3-clean-ghar",
+  "category": "cleanliness",
+  "name": {
+    "en": "Your Home, Your Mirror",
+    "hi": "तुम्हारा घर, तुम्हारा आईना",
+    "ur": "تمہارا گھر، تمہارا آئینہ"
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "label": { "en": "Think about it", "hi": "सोचना", "ur": "سوچنا" },
+      "ayah": {
+        "surah": 24, "ayah": 61,
+        "arabic": "فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ اللَّهِ مُبَارَكَةً طَيِّبَةً",
+        "translation": {
+          "en": "When you enter houses, greet one another with a greeting from Allah — blessed and good.",
+          "hi": "जब तुम घरों में दाख़िल हो तो अल्लाह की तरफ़ से एक बरकत वाले और पाक सलाम से एक-दूसरे को सलाम करो।",
+          "ur": "جب تم گھروں میں داخل ہو تو اللہ کی طرف سے ایک برکت والے اور پاک سلام سے ایک دوسرے کو سلام کرو۔"
+        }
+      },
+      "task": {
+        "en": "Walk through your home today with fresh eyes — as if you're seeing it for the first time. What does it say about you? Is it a place where people feel calm, or anxious? Is it clean in the visible places and chaotic behind the scenes? Just notice — without shame, without urgency. What kind of home do you actually have?",
+        "hi": "आज घर से ताज़ी आँखों से गुज़रो — जैसे पहली बार देख रहे हो। यह तुम्हारे बारे में क्या कहता है? क्या यह वो जगह है जहाँ लोग शांत महसूस करें, या बेचैन? क्या दिखने वाली जगहें साफ़ हैं और पर्दे के पीछे उथल-पुथल? बस नोटिस करो — शर्म के बिना, जल्दी के बिना। असल में तुम्हारा घर कैसा है?",
+        "ur": "آج گھر سے تازی آنکھوں سے گزرو — جیسے پہلی بار دیکھ رہے ہو۔ یہ تمہارے بارے میں کیا کہتا ہے؟ کیا یہ وہ جگہ ہے جہاں لوگ پرسکون محسوس کریں، یا بے چین؟ کیا دکھنے والی جگہیں صاف ہیں اور پردے کے پیچھے افراتفری؟ بس نوٹس کرو — شرم کے بغیر، جلدی کے بغیر۔ اصل میں تمہارا گھر کیسا ہے؟"
+      },
+      "hikmah": {
+        "en": "The Prophet ﷺ said: Allah is pure and loves purity, generous and loves generosity, clean and loves cleanliness. Your home is not separate from your deen. It is the environment where your salah happens, where your children are raised, where guests are received. The state of the home shapes the state of the people in it — quietly, over years, without announcing itself.",
+        "hi": "नबी ﷺ ने फ़रमाया: अल्लाह पाक है और पाकी से मोहब्बत करता है, करीम है और करम से, साफ़ है और सफ़ाई से। तुम्हारा घर दीन से अलग नहीं है। यह वो माहौल है जहाँ नमाज़ होती है, जहाँ बच्चे पलते हैं, जहाँ मेहमान आते हैं। घर की हालत उसमें रहने वालों की हालत को shape करती है — चुपचाप, सालों में, बिना announce किए।",
+        "ur": "نبی ﷺ نے فرمایا: اللہ پاک ہے اور پاکی سے محبت کرتا ہے، کریم ہے اور کرم سے، صاف ہے اور صفائی سے۔ تمہارا گھر دین سے الگ نہیں ہے۔ یہ وہ ماحول ہے جہاں نماز ہوتی ہے، جہاں بچے پلتے ہیں، جہاں مہمان آتے ہیں۔ گھر کی حالت اس میں رہنے والوں کی حالت کو shape کرتی ہے — چپ چاپ، سالوں میں، بغیر announce کیے۔"
+      },
+      "example": {
+        "en": "Stand in the middle of your main room. Close your eyes. Then open them and look as if you're a guest visiting for the first time. What do you see? Clutter you've stopped seeing because it's been there so long? A corner that became a dumping ground? Not to overwhelm yourself — just to honestly see what you've been living with.",
+        "hi": "अपने main कमरे के बीच में खड़े हो जाओ। आँखें बंद करो। फिर खोलो और देखो जैसे पहली बार मिलने आए मेहमान हो। क्या दिखता है? वो clutter जो दिखना बंद हो गया क्योंकि इतने वक़्त से था? कोई कोना जो dumping ground बन गया? ख़ुद को overwhelm करने के लिए नहीं — बस ईमानदारी से देखने के लिए कि तुम क्या लेकर जी रहे हो।",
+        "ur": "اپنے main کمرے کے بیچ میں کھڑے ہو جاؤ۔ آنکھیں بند کرو۔ پھر کھولو اور دیکھو جیسے پہلی بار ملنے آئے مہمان ہو۔ کیا دکھتا ہے؟ وہ clutter جو دکھنا بند ہو گیا کیونکہ اتنے وقت سے تھا؟ کوئی کونا جو dumping ground بن گیا؟ خود کو overwhelm کرنے کے لیے نہیں — بس ایمانداری سے دیکھنے کے لیے کہ تم کیا لے کر جی رہے ہو۔"
+      }
+    },
+    {
+      "stage": 2,
+      "label": { "en": "Learn about it", "hi": "सीखना", "ur": "سیکھنا" },
+      "ayah": {
+        "surah": 2, "ayah": 125,
+        "arabic": "وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ",
+        "translation": {
+          "en": "And We charged Ibrahim and Ismail: Purify My House for those who circumambulate.",
+          "hi": "और हमने इब्राहीम और इस्माईल को हुक्म दिया: मेरे घर को तवाफ़ करने वालों के लिए पाक करो।",
+          "ur": "اور ہم نے ابراہیم اور اسماعیل کو حکم دیا: میرے گھر کو طواف کرنے والوں کے لیے پاک کرو۔"
+        }
+      },
+      "task": {
+        "en": "Learn what Islamic scholars say about the home as a sanctuary. The concept of the home as a place of sakina — tranquility. What physical conditions create sakina and which destroy it? Read about how the Prophet ﷺ kept his home. What was in it? What was he careful about? The simplicity and cleanliness of his home was not poverty — it was intentional.",
+        "hi": "इस्लामी उलमा घर को sanctuary के तौर पर क्या कहते हैं सीखो। घर को सकीनह — सुकून — की जगह के concept के बारे में। कौन-सी जिस्मानी शर्तें सकीनह बनाती हैं और कौन-सी तबाह करती हैं? नबी ﷺ ने अपना घर कैसे रखा पढ़ो। उसमें क्या था? किस बारे में careful थे? उनके घर की सादगी और सफ़ाई ग़रीबी नहीं थी — यह intentional था।",
+        "ur": "اسلامی علما گھر کو sanctuary کے طور پر کیا کہتے ہیں سیکھو۔ گھر کو سکینہ — سکون — کی جگہ کے concept کے بارے میں۔ کون سی جسمانی شرطیں سکینہ بناتی ہیں اور کون سی تباہ کرتی ہیں؟ نبی ﷺ نے اپنا گھر کیسے رکھا پڑھو۔ اس میں کیا تھا؟ کس کے بارے میں careful تھے؟ ان کے گھر کی سادگی اور صفائی غربت نہیں تھی — یہ intentional تھا۔"
+      },
+      "hikmah": {
+        "en": "The word sakina appears in the Quran to describe what descends into hearts — a tranquility from Allah. But environments affect hearts. A cluttered, chaotic home creates a cluttered, chaotic mind. A clean, ordered home doesn't guarantee peace — but it removes one of the obstacles to it. Allah commanded Ibrahim to purify the House. That command tells us: the state of a space matters to Him.",
+        "hi": "लफ़्ज़ सकीनह क़ुरआन में दिलों में उतरने वाली चीज़ के बारे में आता है — अल्लाह की तरफ़ से सुकून। लेकिन माहौल दिलों पर असर डालते हैं। बिखरा, उथल-पुथल भरा घर बिखरा, उथल-पुथल भरा दिमाग़ बनाता है। साफ़, तरतीब वाला घर सुकून की guarantee नहीं देता — लेकिन इसके रास्ते की एक रुकावट हटाता है। अल्लाह ने इब्राहीम को घर पाक करने का हुक्म दिया। वो हुक्म बताता है: जगह की हालत उसे मायने रखती है।",
+        "ur": "لفظ سکینہ قرآن میں دلوں میں اترنے والی چیز کے بارے میں آتا ہے — اللہ کی طرف سے سکون۔ لیکن ماحول دلوں پر اثر ڈالتے ہیں۔ بکھرا، افراتفری بھرا گھر بکھرا، افراتفری بھرا دماغ بناتا ہے۔ صاف، ترتیب والا گھر سکون کی guarantee نہیں دیتا — لیکن اس کے راستے کی ایک رکاوٹ ہٹاتا ہے۔ اللہ نے ابراہیم کو گھر پاک کرنے کا حکم دیا۔ وہ حکم بتاتا ہے: جگہ کی حالت اسے مایہ رکھتی ہے۔"
+      },
+      "example": {
+        "en": "Look at the place in your home where you pray. Is it clean? Is the prayer mat fresh? Is the area around it clear? The Prophet ﷺ prayed in a clean space — not a corner piled with things. Your salah space is a small sacred zone. Treat it like one. Whatever can be cleared from it today — clear it.",
+        "hi": "घर में जहाँ नमाज़ पढ़ते हो वो जगह देखो। क्या साफ़ है? जायनमाज़ ताज़ा है? आसपास का इलाक़ा साफ़ है? नबी ﷺ साफ़ जगह में नमाज़ पढ़ते थे — चीज़ों से भरे किसी कोने में नहीं। तुम्हारी नमाज़ की जगह एक छोटा पवित्र क्षेत्र है। उसे वैसे treat करो। आज उससे जो भी हटाया जा सकता है — हटाओ।",
+        "ur": "گھر میں جہاں نماز پڑھتے ہو وہ جگہ دیکھو۔ کیا صاف ہے؟ جائے نماز تازہ ہے؟ آس پاس کا علاقہ صاف ہے؟ نبی ﷺ صاف جگہ میں نماز پڑھتے تھے — چیزوں سے بھرے کسی کونے میں نہیں۔ تمہاری نماز کی جگہ ایک چھوٹا مقدس علاقہ ہے۔ اسے ایسے treat کرو۔ آج اس سے جو بھی ہٹایا جا سکتا ہے — ہٹاؤ۔"
+      }
+    },
+    {
+      "stage": 3,
+      "label": { "en": "Do it", "hi": "करना", "ur": "کرنا" },
+      "ayah": {
+        "surah": 33, "ayah": 33,
+        "arabic": "وَقَرْنَ فِي بُيُوتِكُنَّ",
+        "translation": {
+          "en": "And settle in your homes.",
+          "hi": "और अपने घरों में रहो।",
+          "ur": "اور اپنے گھروں میں رہو۔"
+        }
+      },
+      "task": {
+        "en": "Today: one focused hour of cleaning — not a whole-house overhaul, just one space. The most important one: wherever your family spends the most time together. Clear the clutter. Clean the surfaces. Say Bismillah when you start. This is not housework. This is building the conditions for sakina. One hour. One space. Complete.",
+        "hi": "आज: एक focused घंटे की सफ़ाई — पूरे घर का नहीं, बस एक जगह। सबसे ज़रूरी: जहाँ family सबसे ज़्यादा एकसाथ वक़्त गुज़ारती है। clutter हटाओ। surfaces साफ़ करो। शुरू करते वक़्त Bismillah कहो। यह घर का काम नहीं है। यह सकीनह की शर्तें बनाना है। एक घंटा। एक जगह। पूरा।",
+        "ur": "آج: ایک focused گھنٹے کی صفائی — پورے گھر کی نہیں، بس ایک جگہ۔ سب سے ضروری: جہاں family سب سے زیادہ اکٹھے وقت گزارتی ہے۔ clutter ہٹاؤ۔ surfaces صاف کرو۔ شروع کرتے وقت بسم اللہ کہو۔ یہ گھر کا کام نہیں ہے۔ یہ سکینہ کی شرطیں بنانا ہے۔ ایک گھنٹہ۔ ایک جگہ۔ پورا۔"
+      },
+      "hikmah": {
+        "en": "When the Prophet ﷺ entered a home, he was reported to pray for barakah for the household. Barakah does not come into chaos. It settles into prepared spaces — clean, ordered, welcoming. You cannot manufacture barakah. But you can remove the obstacles to it. A clean home is not a luxury or a personality trait. It is preparation for what you are asking Allah to fill it with.",
+        "hi": "जब नबी ﷺ किसी घर में दाख़िल होते थे, घरवालों के लिए बरकत की दुआ करते थे। बरकत उथल-पुथल में नहीं आती। यह तैयार जगहों में उतरती है — साफ़, तरतीब वाली, स्वागत करने वाली। बरकत बना नहीं सकते। लेकिन उसके रास्ते की रुकावटें हटा सकते हो। साफ़ घर luxury नहीं है या personality trait। यह उसके लिए तैयारी है जो तुम अल्लाह से माँग रहे हो कि भरे।",
+        "ur": "جب نبی ﷺ کسی گھر میں داخل ہوتے تھے، گھر والوں کے لیے برکت کی دعا کرتے تھے۔ برکت افراتفری میں نہیں آتی۔ یہ تیار جگہوں میں اترتی ہے — صاف، ترتیب والی، خیرمقدم کرنے والی۔ برکت بنا نہیں سکتے۔ لیکن اس کے راستے کی رکاوٹیں ہٹا سکتے ہو۔ صاف گھر luxury نہیں ہے یا personality trait۔ یہ اس کے لیے تیاری ہے جو تم اللہ سے مانگ رہے ہو کہ بھرے۔"
+      },
+      "example": {
+        "en": "The kitchen after dinner. Every night it's left for morning. Every morning it starts the day with a pile of last night's dishes. Tonight: clean it completely before sleeping. Wipe the surfaces. Put things away. Then turn off the light. When you wake for Fajr and come downstairs to a clean kitchen, notice the difference in how the morning feels. That is sakina, quietly at work.",
+        "hi": "रात के खाने के बाद kitchen। हर रात सुबह के लिए छूट जाती है। हर सुबह पिछली रात के बर्तनों के ढेर से शुरू होती है। आज रात: सोने से पहले पूरी तरह साफ़ करो। surfaces पोंछो। चीज़ें रखो। फिर रोशनी बंद करो। जब फ़ज्र के लिए उठकर साफ़ kitchen में उतरते हो, नोटिस करो सुबह कैसी feel होती है। यह सकीनह है, चुपचाप काम करती।",
+        "ur": "رات کے کھانے کے بعد kitchen۔ ہر رات صبح کے لیے چھوٹ جاتی ہے۔ ہر صبح پچھلی رات کے برتنوں کے ڈھیر سے شروع ہوتی ہے۔ آج رات: سونے سے پہلے پوری طرح صاف کرو۔ surfaces پونچھو۔ چیزیں رکھو۔ پھر روشنی بند کرو۔ جب فجر کے لیے اٹھ کر صاف kitchen میں اترتے ہو، نوٹس کرو صبح کیسی feel ہوتی ہے۔ یہ سکینہ ہے، چپ چاپ کام کرتی۔"
+      }
+    },
+    {
+      "stage": 4,
+      "label": { "en": "Make it a habit", "hi": "आदत बनाना", "ur": "عادت بنانا" },
+      "ayah": {
+        "surah": 16, "ayah": 80,
+        "arabic": "وَاللَّهُ جَعَلَ لَكُم مِّن بُيُوتِكُمْ سَكَنًا",
+        "translation": {
+          "en": "And Allah has made for you from your homes a place of rest.",
+          "hi": "और अल्लाह ने तुम्हारे लिए तुम्हारे घरों को सुकून की जगह बनाया।",
+          "ur": "اور اللہ نے تمہارے لیے تمہارے گھروں کو سکون کی جگہ بنایا۔"
+        }
+      },
+      "task": {
+        "en": "This week: establish one daily home-care habit — something small, consistent, non-negotiable. Choose one: beds made every morning. Kitchen clean every night. Shoes at the door, not through the house. Clutter cleared from the main gathering space before sleeping. One thing. Seven days. See what it does to the mood of the home.",
+        "hi": "इस हफ़्ते: एक daily home-care habit establish करो — छोटी, consistent, non-negotiable। एक चुनो: हर सुबह बिस्तर बने। हर रात kitchen साफ़। दरवाज़े पर जूते, घर में नहीं। सोने से पहले main gathering space clutter-free। एक चीज़। सात दिन। देखो यह घर के mood को क्या करती है।",
+        "ur": "اس ہفتے: ایک daily home-care habit establish کرو — چھوٹی، consistent، non-negotiable۔ ایک چنو: ہر صبح بستر بنے۔ ہر رات kitchen صاف۔ دروازے پر جوتے، گھر میں نہیں۔ سونے سے پہلے main gathering space clutter-free۔ ایک چیز۔ سات دن۔ دیکھو یہ گھر کے mood کو کیا کرتی ہے۔"
+      },
+      "hikmah": {
+        "en": "Small consistent acts of home maintenance are not boring chores. They are the daily renewal of your living environment. A made bed every morning is a quiet statement: this space is cared for. That statement shapes how everyone in the home begins their day. Big clean-ups are theatrical — they happen once and then decay. Small daily acts are living — they keep renewing what you care about.",
+        "hi": "घर की देखभाल के छोटे consistent अमल boring काम नहीं हैं। यह तुम्हारे रहने के माहौल का रोज़ाना नवीनीकरण है। हर सुबह बना बिस्तर एक शांत statement है: इस जगह की देखभाल होती है। वो statement shape करती है कि घर में हर कोई अपना दिन कैसे शुरू करता है। बड़ी सफ़ाइयाँ theatrical होती हैं — एक बार होती हैं और फिर ढलती हैं। छोटे रोज़ाना अमल ज़िंदा हैं — वो उसे नवीन करते रहते हैं जिसकी परवाह करते हो।",
+        "ur": "گھر کی دیکھ بھال کے چھوٹے consistent اعمال boring کام نہیں ہیں۔ یہ تمہارے رہنے کے ماحول کی روزانہ تجدید ہے۔ ہر صبح بنا بستر ایک خاموش statement ہے: اس جگہ کی دیکھ بھال ہوتی ہے۔ وہ statement shape کرتی ہے کہ گھر میں ہر کوئی اپنا دن کیسے شروع کرتا ہے۔ بڑی صفائیاں theatrical ہوتی ہیں — ایک بار ہوتی ہیں اور پھر ڈھلتی ہیں۔ چھوٹے روزانہ اعمال زندہ ہیں — وہ اسے تازہ کرتے رہتے ہیں جس کی پرواہ کرتے ہو۔"
+      },
+      "example": {
+        "en": "By day five, you've been making the bed every morning. It takes three minutes. But you've noticed: you come home to a room that feels ready for you, not abandoned. Your sleep feels slightly more intentional because the bed was made before you got into it. That is not interior design. That is the physical environment reflecting care back to you.",
+        "hi": "पाँचवें दिन तक, हर सुबह बिस्तर बना रहे हो। तीन मिनट लगते हैं। लेकिन नोटिस किया है: जिस कमरे में लौटते हो वो तुम्हारे लिए तैयार लगता है, छोड़ा हुआ नहीं। नींद थोड़ी ज़्यादा intentional feel होती है क्योंकि उसमें जाने से पहले बिस्तर बना था। यह interior design नहीं है। यह physical माहौल है जो तुम्हें देखभाल वापस reflect कर रहा है।",
+        "ur": "پانچویں دن تک، ہر صبح بستر بنا رہے ہو۔ تین منٹ لگتے ہیں۔ لیکن نوٹس کیا ہے: جس کمرے میں لوٹتے ہو وہ تمہارے لیے تیار لگتا ہے، چھوڑا ہوا نہیں۔ نیند تھوڑی زیادہ intentional feel ہوتی ہے کیونکہ اس میں جانے سے پہلے بستر بنا تھا۔ یہ interior design نہیں ہے۔ یہ physical ماحول ہے جو تمہیں دیکھ بھال واپس reflect کر رہا ہے۔"
+      }
+    },
+    {
+      "stage": 5,
+      "label": { "en": "Give its dawah", "hi": "अपनों को देना", "ur": "اپنوں کو دینا" },
+      "ayah": {
+        "surah": 24, "ayah": 36,
+        "arabic": "فِي بُيُوتٍ أَذِنَ اللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ",
+        "translation": {
+          "en": "In houses which Allah has permitted to be raised and in which His name is remembered.",
+          "hi": "उन घरों में जिन्हें अल्लाह ने बुलंद करने और उनमें अपना नाम याद करने की इजाज़त दी।",
+          "ur": "ان گھروں میں جنہیں اللہ نے بلند کرنے اور ان میں اپنا نام یاد کرنے کی اجازت دی۔"
+        }
+      },
+      "task": {
+        "en": "This week: invite the family into the home maintenance — not as chores to assign, but as a shared care. 'This is our home. We all take care of it together.' Each person responsible for one space. Children who clean their own room learn ownership. Spouses who maintain together build partnership. Make it a shared act of care for something that belongs to all of you.",
+        "hi": "इस हफ़्ते: family को घर की देखभाल में invite करो — काम सौंपने के तौर पर नहीं, बल्कि साझी देखभाल के तौर पर। 'यह हमारा घर है। हम सब मिलकर इसकी देखभाल करते हैं।' हर इंसान एक जगह के लिए ज़िम्मेदार। जो बच्चे अपना कमरा ख़ुद साफ़ करते हैं ownership सीखते हैं। जो शौहर-बीवी मिलकर maintain करते हैं partnership बनाते हैं। इसे किसी ऐसी चीज़ के लिए साझे देखभाल का अमल बनाओ जो तुम सबकी है।",
+        "ur": "اس ہفتے: family کو گھر کی دیکھ بھال میں invite کرو — کام سونپنے کے طور پر نہیں، بلکہ مشترکہ دیکھ بھال کے طور پر۔ 'یہ ہمارا گھر ہے۔ ہم سب مل کر اس کی دیکھ بھال کرتے ہیں۔' ہر انسان ایک جگہ کے لیے ذمہ دار۔ جو بچے اپنا کمرہ خود صاف کرتے ہیں ownership سیکھتے ہیں۔ جو شوہر بیوی مل کر maintain کرتے ہیں partnership بناتے ہیں۔ اسے کسی ایسی چیز کے لیے مشترکہ دیکھ بھال کا عمل بناؤ جو تم سب کی ہے۔"
+      },
+      "hikmah": {
+        "en": "A home where everyone takes care is a different kind of home than one where one person carries it alone. When a child learns to maintain their own space, they learn that their environment is their responsibility — not someone else's problem. That lesson will follow them into every home they live in for the rest of their life. What you build now, they will carry.",
+        "hi": "जहाँ सब देखभाल करते हैं वो घर उससे अलग क़िस्म का होता है जहाँ एक इंसान अकेले उठाता है। जब बच्चा अपनी जगह ख़ुद maintain करना सीखता है, वो सीखता है कि उसका माहौल उसकी ज़िम्मेदारी है — किसी और की problem नहीं। वो सबक़ ज़िंदगी भर उनके हर उस घर में उनके साथ जाएगा जिसमें रहेंगे। जो तुम अभी बनाते हो, वो लेकर चलेंगे।",
+        "ur": "جہاں سب دیکھ بھال کرتے ہیں وہ گھر اس سے الگ قسم کا ہوتا ہے جہاں ایک انسان اکیلے اٹھاتا ہے۔ جب بچہ اپنی جگہ خود maintain کرنا سیکھتا ہے، وہ سیکھتا ہے کہ اس کا ماحول اس کی ذمہ داری ہے — کسی اور کی problem نہیں۔ وہ سبق زندگی بھر ان کے ہر اس گھر میں ان کے ساتھ جائے گا جس میں رہیں گے۔ جو تم ابھی بناتے ہو، وہ لے کر چلیں گے۔"
+      },
+      "example": {
+        "en": "Saturday morning. Instead of cleaning the house yourself while the family sleeps or watches TV: wake everyone. Twenty minutes together — each person one zone. Kitchen, living room, bathroom, bedroom. Put on something good to listen to. Finish together. Then eat breakfast in the clean home. That shared act, repeated weekly, builds something no amount of solo cleaning can: a household that cares for itself.",
+        "hi": "शनिवार की सुबह। घर को ख़ुद साफ़ करने की जगह जबकि family सो रही है या TV देख रही है: सबको जगाओ। बीस मिनट साथ में — हर इंसान एक zone। Kitchen, living room, bathroom, bedroom। कुछ अच्छा सुनने के लिए लगाओ। साथ ख़त्म करो। फिर साफ़ घर में नाश्ता करो। वो साझा अमल, हफ़्तेवार दोहराया, कुछ ऐसा बनाता है जो कोई अकेली सफ़ाई नहीं बना सकती: एक घर जो ख़ुद की देखभाल करता है।",
+        "ur": "ہفتے کی صبح۔ گھر کو خود صاف کرنے کی جگہ جبکہ family سو رہی ہے یا TV دیکھ رہی ہے: سب کو جگاؤ۔ بیس منٹ ساتھ میں — ہر انسان ایک zone۔ Kitchen، living room، bathroom، bedroom۔ کچھ اچھا سننے کے لیے لگاؤ۔ ساتھ ختم کرو۔ پھر صاف گھر میں ناشتہ کرو۔ وہ مشترکہ عمل، ہفتہ وار دہرایا، کچھ ایسا بناتا ہے جو کوئی اکیلی صفائی نہیں بنا سکتی: ایک گھر جو خود کی دیکھ بھال کرتا ہے۔"
+      }
+    }
+  ]
+}
